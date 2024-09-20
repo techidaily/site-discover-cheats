@@ -1,7 +1,7 @@
 ---
 title: "Advanced Vue Material Dashboard in Laravel PRO: Comprehensive Full-Stack Development Using Vue, Laravel, and JSON API by Creative Tim"
-date: 2024-09-17 23:12:29
-updated: 2024-09-20 12:13:15
+date: 2024-09-17T23:23:30.233Z
+updated: 2024-09-20T00:22:37.538Z
 tags:
   - product
 categories:
@@ -31,11 +31,17 @@ thumbnail: https://thmb.techidaily.com/571b43b53a53cad9b332dce8854b53a71ff048e66
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

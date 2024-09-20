@@ -1,7 +1,7 @@
 ---
 title: "Tutorial: Retrieving Non-Public Facebook Content via Mac and PC Platforms"
-date: 2024-09-18 16:15:58
-updated: 2024-09-20 11:33:50
+date: 2024-09-19T03:53:32.412Z
+updated: 2024-09-20T01:34:02.052Z
 tags:
   - product
 categories:
@@ -31,6 +31,13 @@ Allavsoft is just the professional private Facebook video downloader we are talk
 
 Follow the guide below to download any private or public Facebook video.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Make Preparation: Free download Private Facebook Video Downloader
 
 Free download the professional Private Facebook Video Downloader - Allavsoft ([for Windows](https://tools.techidaily.com/allavsoft/products/) , [for Mac](https://tools.techidaily.com/allavsoft/products/)) , install and then launch it, the following interface will pop up.
@@ -38,6 +45,19 @@ Free download the professional Private Facebook Video Downloader - Allavsoft ([f
 [![](https://www.allavsoft.com/how-to/../images/how-to/free-download-win.jpg)](https://tools.techidaily.com/allavsoft/products/) [![](https://www.allavsoft.com/how-to/../images/how-to/free-download-mac.jpg)](https://tools.techidaily.com/allavsoft/products/)
 
 ![Private Facebook Video Downloader](https://www.allavsoft.com/how-to/../images/allavsoft/screen-shot-600.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 1 Import private Facebook video URL
 
@@ -49,6 +69,19 @@ Right-click on the private Facebook video, and select Copy the URL. Next paste t
 
 You can opt to save the downloaded private Facebook video with the default output format or other output formats. The default output format is the private Facebook original video format and other output formats, like MP4, AVI, MOV, etc, can be saved by clicking the "Automatically Convert to" button.
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 3 Start to download private Facebook video
 
 Click "Download" button to complete downloading the private Facebook video.
@@ -58,8 +91,6 @@ Click "Download" button to complete downloading the private Facebook video.
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"

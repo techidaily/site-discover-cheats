@@ -1,7 +1,7 @@
 ---
 title: 1. Professional Black UI React Admin Panel with BootStrap 4 and Reactstrap, Free Version From Creative Tim
-date: 2024-09-19 10:14:52
-updated: 2024-09-20 12:50:41
+date: 2024-09-18T21:21:27.599Z
+updated: 2024-09-19T21:39:44.213Z
 tags:
   - product
 categories:
@@ -31,11 +31,17 @@ thumbnail: https://thmb.techidaily.com/3b2bc9a3a892785318d5d0f2114220ad982ea1003
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
