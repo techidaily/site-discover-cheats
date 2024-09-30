@@ -1,7 +1,7 @@
 ---
 title: "Creative Tim's Vue Notus: Advanced Admin Panel Using Tailwind CSS & VueJS for Gratuitous Development Kits"
-date: 2024-09-22T22:13:18.286Z
-updated: 2024-09-25T18:17:06.386Z
+date: 2024-09-26T07:41:19.356Z
+updated: 2024-09-29T16:42:53.559Z
 tags:
   - product
 categories:
@@ -20,19 +20,19 @@ thumbnail: https://thmb.techidaily.com/a3293f7209aa15a71e0e22b0ceceeb5d43595d799
 [Custom Development](https://tools.techidaily.com/creative-tim/products/) [Discord Server](https://discord.com/invite/FhCJCaHdQa) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Loading...
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sharing is caring!
@@ -54,16 +54,16 @@ thumbnail: https://thmb.techidaily.com/a3293f7209aa15a71e0e22b0ceceeb5d43595d799
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-a-beginners-guide-the-essentials-of-using-tiktok-macos-for-2024/"><u>[New] A Beginner's Guide The Essentials of Using TikTok (macOS) for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-facebook-to-your-screen-top-5-downloader-apps/"><u>[Updated] 2024 Approved Facebook to Your Screen Top 5 Downloader Apps</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-innovative-tactics-for-cutting-edge-macro-video-creation/"><u>[Updated] 2024 Approved Innovative Tactics for Cutting-Edge Macro Video Creation</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-navigating-auto-captioned-content-in-social-media-visuals/"><u>2024 Approved Navigating Auto-Captioned Content in Social Media Visuals</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-ultimate-facetune-guide-elevating-your-image-quality/"><u>2024 Approved Ultimate Facetune Guide Elevating Your Image Quality</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/how-to-insert-a-clickable-video-player-for-flv-movies-within-your-flipbook-pages-a-step-by-step-guide/"><u>How to Insert a Clickable Video Player for FLV Movies Within Your FlipBook Pages - A Step-by-Step Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-12-mini-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/interactively-sharing-archived-help-documents-a-guide-using-flipbuilder/"><u>Interactively Sharing Archived Help Documents: A Guide Using FlipBuilder</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/is-it-possible-to-distribute-flipbooks-via-zip-files-discover-the-answer-with-flipbuilder-expertise/"><u>Is It Possible to Distribute Flipbooks via Zip Files? Discover the Answer with FlipBuilder Expertise</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/mastering-file-transfers-over-the-web-with-ftp-a-comprehveiw-at-flipbuildercom/"><u>Mastering File Transfers Over the Web with FTP: A Comprehveiw at flipbuilder.com</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-samsung-galaxy-f15-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Samsung Galaxy F15 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-endless-entertainment-building-addictive-ig-boomerangs/"><u>[Updated] 2024 Approved Endless Entertainment Building Addictive IG Boomerangs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-novice-to-expert-a-guide-for-effective-single-stream-livestreams/"><u>2024 Approved From Novice to Expert A Guide for Effective Single-Stream Livestreams</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-power-ranking-top-10-youtube-channels-by-views-and-subs/"><u>2024 Approved The Ultimate Power Ranking Top 10 YouTube Channels by Views & Subs</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-100-pro-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/create-with-ease-premium-no-cost-react-native-templates-by-creative-tim/"><u>Create with Ease: Premium, No-Cost React Native Templates by Creative Tim</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/creative-tims-ultimate-pro-advanced-premium-bootstrap-and-material-design-ui-toolkit/"><u>Creative Tim's Ultimate Pro: Advanced Premium Bootstrap & Material Design UI Toolkit</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/discover-the-free-and-professional-ui-kit-from-creative-tim-with-bootstrap-4/"><u>Discover the Free & Professional UI Kit From Creative Tim with Bootstrap 4</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/expert-level-premium-dashboard-design-with-bootstrap-5-from-creative-tims-soft-ui-suite/"><u>Expert-Level Premium Dashboard Design with Bootstrap 5 From Creative Tim's Soft UI Suite</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/explore-innovative-light-based-uiux-with-creative-tims-extensive-library-of-28plus-systematic-resources-and-templates/"><u>Explore Innovative Light-Based UI/UX with Creative Tim's Extensive Library of 28+ Systematic Resources and Templates</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-latest-hid-compatible-mouse-software-for-optimal-performance/"><u>How to Install the Latest HID-Compatible Mouse Software for Optimal Performance</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/smart-blinds-and-2023-which-are-relevant-to-the-original-title-while-adding-value-with-additional-descriptive-words-like-top-rated-comprehensive-guide-and-u10/"><u>Smart Blinds and 2023, Which Are Relevant to the Original Title, While Adding Value with Additional Descriptive Words Like Top-Rated, Comprehensive Guide, and Ultimate Selection.</u></a></li>
 </ul></div>
 

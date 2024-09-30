@@ -1,7 +1,7 @@
 ---
 title: "Section 3A: Contract Formation Under Common Law Vs. The UCC"
-date: 2024-09-23T22:52:47.184Z
-updated: 2024-09-25T22:50:58.735Z
+date: 2024-09-27T08:00:43.137Z
+updated: 2024-09-29T16:55:53.610Z
 tags:
   - product
 categories:
@@ -20,19 +20,19 @@ thumbnail: https://thmb.techidaily.com/4e77949115cfac19c020244425b911f0553ff80a1
 [Custom Development](https://tools.techidaily.com/creative-tim/products/) [Discord Server](https://discord.com/invite/FhCJCaHdQa) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Loading...
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sharing is caring!
@@ -54,22 +54,17 @@ thumbnail: https://thmb.techidaily.com/4e77949115cfac19c020244425b911f0553ff80a1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-vsdc-vs-alternatives-a-comprehensive-evaluation/"><u>[New] VSDC vs Alternatives A Comprehensive Evaluation</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-streamline-your-screens-the-benefits-of-using-showmore/"><u>[Updated] Streamline Your Screens The Benefits of Using ShowMore</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/advanced-vue-material-dashboard-in-laravel-pro-comprehensive-full-stack-development-using-vue-laravel-and-json-api-by-creative-tim/"><u>Advanced Vue Material Dashboard in Laravel PRO: Comprehensive Full-Stack Development Using Vue, Laravel, and JSON API by Creative Tim</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/butterfly-effect/"><u>Butterfly Effect.</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/complimentary-tailwind-css-admin-layout-based-on-the-elegant-flowbite-ui-concept-by-creative-tim/"><u>Complimentary Tailwind CSS Admin Layout Based on the Elegant FlowBite UI Concept by Creative Tim</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/create-with-ease-premium-no-cost-react-native-templates-by-creative-tim/"><u>Create with Ease: Premium, No-Cost React Native Templates by Creative Tim</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/creative-tims-ultimate-pro-advanced-premium-bootstrap-and-material-design-ui-toolkit/"><u>Creative Tim's Ultimate Pro: Advanced Premium Bootstrap & Material Design UI Toolkit</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/creative-tims-vue-notus-advanced-admin-panel-using-tailwind-css-and-vuejs-for-gratuitous-development-kits/"><u>Creative Tim's Vue Notus: Advanced Admin Panel Using Tailwind CSS & VueJS for Gratuitous Development Kits</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/discover-the-free-and-professional-ui-kit-from-creative-tim-with-bootstrap-4/"><u>Discover the Free & Professional UI Kit From Creative Tim with Bootstrap 4</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/expert-level-premium-dashboard-design-with-bootstrap-5-from-creative-tims-soft-ui-suite/"><u>Expert-Level Premium Dashboard Design with Bootstrap 5 From Creative Tim's Soft UI Suite</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-samsung-galaxy-m14-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Samsung Galaxy M14 5G</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-12-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi 12 Phone FRP Lock</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-video-conferencing-combining-the-power-of-zoom-and-skype/"><u>In 2024, Mastering Video Conferencing Combining the Power of ZOOM & SKYPE</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-nubia-red-magic-8s-proplus-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Nubia Red Magic 8S Pro+ FRP Bypass</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/leading-innovative-smart-showers-on-the-market/"><u>Leading Innovative Smart Showers on the Market</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/maximize-your-experience-with-lenovo-tab-m10-fhd-plus-in-2amidst-budget-friendly-tablets/"><u>Maximize Your Experience with Lenovo Tab M10 FHD Plus in 2Amidst Budget-Friendly Tablets</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transformar-archivos-de-graficos-libres-entre-tiff-y-jpeg-sin-gastos-adicionales/"><u>Transformar Archivos De Gráficos Libres Entre TIFF Y JPEG Sin Gastos Adicionales</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-design-dynamics-the-key-to-unique-podcast-brands/"><u>[New] In 2024, Design Dynamics The Key to Unique Podcast Brands</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-a-practical-approach-to-incorporate-youtube-playlists-online-for-2024/"><u>[Updated] A Practical Approach to Incorporate YouTube Playlists Online for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-investment-alert-avoid-the-trap-of-artificial-youtube-engagement/"><u>[Updated] Investment Alert Avoid the Trap of Artificial YouTube Engagement</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-microphone-feedback-audio-recorder/"><u>[Updated] Microphone Feedback Audio Recorder</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/1-easy-access-video-extractor-seamlessly-download-from-mpora/"><u>1. Easy Access Video Extractor - Seamlessly Download From Mpora</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-google-cardboard-vs-samsung-gear-vr/"><u>2024 Approved Google Cardboard Vs. Samsung Gear VR</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-youtube-inversion-creative-tactics-to-watch-videos-backwards/"><u>2024 Approved The Youtube Inversion Creative Tactics to Watch Videos Backwards</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/best-free-apps-to-get-mp3flac-songs-from-deezer-without-copyright-issues/"><u>Best Free Apps to Get MP3/FLAC Songs From Deezer Without Copyright Issues</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/blues-harmonica-mastery-comprehensive-video-tutorials-in-mp4-and-mov-formats/"><u>Blues Harmonica Mastery: Comprehensive Video Tutorials in MP4 and MOV Formats</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723012654714-deathloop-freezing-issues-heres-how-you-can-get-smooth-playback-on-pcps5/"><u>Deathloop Freezing Issues? Here's How You Can Get Smooth Playback on PC/PS5!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stop-unwanted-airpod-connection-switches-among-various-apple-devices-a-step-by-step-guide/"><u>Stop Unwanted AirPod Connection Switches Among Various Apple Devices - A Step-By-Step Guide</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/stream-or-download-korean-drama-audiovideo-files-mp4-wmv-avi-mp3-via-soompi-on-windows-and-macos/"><u>Stream or Download Korean Drama Audio/Video Files (MP4, WMV, AVI, MP3) via Soompi on Windows and macOS</u></a></li>
 </ul></div>
 
