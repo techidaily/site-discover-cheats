@@ -1,7 +1,7 @@
 ---
 title: "Creative Tim's Vue Notus: Advanced Admin Panel Using Tailwind CSS & VueJS for Gratuitous Development Kits"
-date: 2024-09-26T07:41:19.356Z
-updated: 2024-09-29T16:42:53.559Z
+date: 2024-09-28T19:09:12.870Z
+updated: 2024-10-05T19:01:25.008Z
 tags:
   - product
 categories:
@@ -20,19 +20,19 @@ thumbnail: https://thmb.techidaily.com/a3293f7209aa15a71e0e22b0ceceeb5d43595d799
 [Custom Development](https://tools.techidaily.com/creative-tim/products/) [Discord Server](https://discord.com/invite/FhCJCaHdQa) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Loading...
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sharing is caring!
@@ -54,16 +54,19 @@ thumbnail: https://thmb.techidaily.com/a3293f7209aa15a71e0e22b0ceceeb5d43595d799
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-endless-entertainment-building-addictive-ig-boomerangs/"><u>[Updated] 2024 Approved Endless Entertainment Building Addictive IG Boomerangs</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-novice-to-expert-a-guide-for-effective-single-stream-livestreams/"><u>2024 Approved From Novice to Expert A Guide for Effective Single-Stream Livestreams</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-power-ranking-top-10-youtube-channels-by-views-and-subs/"><u>2024 Approved The Ultimate Power Ranking Top 10 YouTube Channels by Views & Subs</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-100-pro-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor 100 Pro | Dr.fone</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/create-with-ease-premium-no-cost-react-native-templates-by-creative-tim/"><u>Create with Ease: Premium, No-Cost React Native Templates by Creative Tim</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/creative-tims-ultimate-pro-advanced-premium-bootstrap-and-material-design-ui-toolkit/"><u>Creative Tim's Ultimate Pro: Advanced Premium Bootstrap & Material Design UI Toolkit</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/discover-the-free-and-professional-ui-kit-from-creative-tim-with-bootstrap-4/"><u>Discover the Free & Professional UI Kit From Creative Tim with Bootstrap 4</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/expert-level-premium-dashboard-design-with-bootstrap-5-from-creative-tims-soft-ui-suite/"><u>Expert-Level Premium Dashboard Design with Bootstrap 5 From Creative Tim's Soft UI Suite</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/explore-innovative-light-based-uiux-with-creative-tims-extensive-library-of-28plus-systematic-resources-and-templates/"><u>Explore Innovative Light-Based UI/UX with Creative Tim's Extensive Library of 28+ Systematic Resources and Templates</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-latest-hid-compatible-mouse-software-for-optimal-performance/"><u>How to Install the Latest HID-Compatible Mouse Software for Optimal Performance</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/smart-blinds-and-2023-which-are-relevant-to-the-original-title-while-adding-value-with-additional-descriptive-words-like-top-rated-comprehensive-guide-and-u10/"><u>Smart Blinds and 2023, Which Are Relevant to the Original Title, While Adding Value with Additional Descriptive Words Like Top-Rated, Comprehensive Guide, and Ultimate Selection.</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-digital-cutting-edge-streamlined-strategies-for-editing-videos-on-vimeo/"><u>[Updated] 2024 Approved Digital Cutting Edge Streamlined Strategies for Editing Videos on Vimeo</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-find-your-fit-top-10-youtube-channels-for-yogic-health/"><u>[Updated] 2024 Approved Find Your Fit Top 10 YouTube Channels for Yogic Health</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-elevate-your-video-call-experience-with-the-best-live-recording-gadgets-for-2024/"><u>[Updated] Elevate Your Video Call Experience with The Best Live Recording Gadgets for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-how-does-vidma-stack-up-as-a-screen-recorder-for-2024/"><u>[Updated] How Does Vidma Stack Up as a Screen Recorder for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-logic-pros-strategy-for-muffled-sound-tracks/"><u>2024 Approved Logic Pro's Strategy for Muffled Sound Tracks</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/discover-the-best-no-cost-mp3-file-sharing-platforms-for-your-audio-collection/"><u>Discover the Best No-Cost MP3 File Sharing Platforms for Your Audio Collection</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/effective-methods-for-shrinking-webm-video-files-a-complete-guide/"><u>Effective Methods for Shrinking WebM Video Files: A Complete Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-lava-blaze-2-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Lava Blaze 2 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/majority-language-in-a-nation-rooted-in-hebrew/"><u>Majority Language in a Nation Rooted in Hebrew</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/mastering-record-keeping-with-apowersofts-virtual-screenshot-tips/"><u>Mastering Record-Keeping with Apowersoft's Virtual Screenshot Tips</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/reclaim-your-memories-with-ipad-data-rescue-how-to-flawlessly-reinstate-missing-files/"><u>Reclaim Your Memories with iPad Data Rescue: How to Flawlessly Reinstate Missing Files</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/reclaiming-iphone-hdr-footage-premiere-pros-fixes-for-overexposure/"><u>Reclaiming iPhone HDR Footage Premiere Pro's Fixes for Overexposure</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/seamless-strategies-for-converting-tudou-media-files-into-high-quality-mp3s/"><u>Seamless Strategies for Converting Tudou Media Files Into High-Quality MP3s</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/ultimate-list-of-top-ranking-50-free-software-for-restoring-lost-files/"><u>Ultimate List of Top-Ranking 50% Free Software for Restoring Lost Files</u></a></li>
 </ul></div>
 
