@@ -1,7 +1,7 @@
 ---
 title: 1. Ultimate Collection of Over 60 Premium Bootstrap Widgets by Creative Tim
-date: 2024-10-01T20:49:58.429Z
-updated: 2024-10-05T20:59:53.496Z
+date: 2024-10-06T09:44:55.959Z
+updated: 2024-10-11T09:31:12.174Z
 tags:
   - product
 categories:
@@ -20,25 +20,19 @@ thumbnail: https://thmb.techidaily.com/45fa216ed9179ff239c54a97ced9b6daebc95dcdc
 [Custom Development](https://tools.techidaily.com/creative-tim/products/) [Discord Server](https://discord.com/invite/FhCJCaHdQa) 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Loading...
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sharing is caring!
@@ -60,21 +54,17 @@ thumbnail: https://thmb.techidaily.com/45fa216ed9179ff239c54a97ced9b6daebc95dcdc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-rhythm-and-reels-posting-melodies-on-social-media-for-2024/"><u>[New] Rhythm & Reels Posting Melodies on Social Media for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-step-by-step-guide-to-downloading-igtv-videos-on-pcmac-os/"><u>[Updated] In 2024, Step-by-Step Guide to Downloading IGTV Videos on PC/Mac OS</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-creating-a-channel-focused-on-reviewing-marketplace-items/"><u>2024 Approved Creating a Channel Focused on Reviewing Marketplace Items</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-embellishing-visual-narratives-with-fonts-in-ae/"><u>2024 Approved Embellishing Visual Narratives with Fonts in AE</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-tecno-spark-10-pro-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-way-to-download-and-update-toshiba-printer-drivers-for-windows-users/"><u>Easy Way to Download and Update Toshiba Printer Drivers for Windows Users</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/effective-techniques-to-transform-m4a-files-into-m4r-ringtones-easily/"><u>Effective Techniques to Transform M4A Files Into M4R Ringtones Easily</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/how-to-flawlessly-transmit-iphone-videos-to-your-computer-screen/"><u>How to Flawlessly Transmit iPhone Videos to Your Computer Screen</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-dfu-mode-on-iphone-14-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on iPhone 14? | Dr.fone</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/introducing-the-initial-sound-recording-software-compatible-with-macos-mojave/"><u>Introducing the Initial Sound-Recording Software Compatible with macOS Mojave</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/lost-your-apple-id-access-recover-and-reset-for-iphones-6-7-8-and-x-in-minutes/"><u>Lost Your Apple ID Access? Recover and Reset for iPhones 6, 7, 8, and X in Minutes!</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/multiple-strategies-for-moving-your-icloud-pictures-to-an-android-device/"><u>Multiple Strategies for Moving Your iCloud Pictures to an Android Device</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-honor-x50i-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Honor X50i to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/simplify-your-content-creation-mobile-friendly-youtube-channel-setup-guide/"><u>Simplify Your Content Creation Mobile-Friendly YouTube Channel Setup Guide</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/top-ranking-apps-for-embedding-dates-in-images/"><u>Top-Ranking Apps for Embedding Dates in Images</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/top-rated-pdf-conversion-tool-for-easy-use-on-windows-10/"><u>Top-Rated PDF Conversion Tool for Easy Use on Windows 10</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enhancing-content-with-youtube-tags-and-notes/"><u>[New] 2024 Approved Enhancing Content with YouTube Tags & Notes</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-live-stream-audio-effective-recording-methods-for-the-digital-age/"><u>[New] 2024 Approved Live Stream Audio Effective Recording Methods for the Digital Age</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-pros-and-cons-of-syma-x8c/"><u>[New] In 2024, Pros and Cons of Syma X8C</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-staying-grounded-in-vr-worlds/"><u>[Updated] Staying Grounded in VR Worlds</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1726026417568-pc/"><u>映像加工：PCで簡単に動画にモザイクを適用する手順</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/creative-tims-ultimate-pro-advanced-premium-bootstrap-and-material-design-ui-toolkit/"><u>Creative Tim's Ultimate Pro: Advanced Premium Bootstrap & Material Design UI Toolkit</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/creative-tims-vue-notus-advanced-admin-panel-using-tailwind-css-and-vuejs-for-gratuitous-development-kits/"><u>Creative Tim's Vue Notus: Advanced Admin Panel Using Tailwind CSS & VueJS for Gratuitous Development Kits</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/discover-the-free-and-professional-ui-kit-from-creative-tim-with-bootstrap-4/"><u>Discover the Free & Professional UI Kit From Creative Tim with Bootstrap 4</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/expert-level-premium-dashboard-design-with-bootstrap-5-from-creative-tims-soft-ui-suite/"><u>Expert-Level Premium Dashboard Design with Bootstrap 5 From Creative Tim's Soft UI Suite</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/explore-innovative-light-based-uiux-with-creative-tims-extensive-library-of-28plus-systematic-resources-and-templates/"><u>Explore Innovative Light-Based UI/UX with Creative Tim's Extensive Library of 28+ Systematic Resources and Templates</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-perfecting-time-lapse-videos-on-a-gopro-hero5-black/"><u>In 2024, Perfecting Time-Lapse Videos on a GoPro Hero5 Black</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-vivo-x-fold-2-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Vivo X Fold 2</u></a></li>
 </ul></div>
 
