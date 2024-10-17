@@ -1,7 +1,7 @@
 ---
 title: Procedimiento Paso a Paso Para Reparar Un Disco Duro Exterior Sin Riesgo De Pérdida De Datos
-date: 2024-10-05T21:25:39.418Z
-updated: 2024-10-11T05:40:41.335Z
+date: 2024-10-12T00:34:55.519Z
+updated: 2024-10-17T04:28:05.723Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/0fc33f78a6ac7efb4d7528f193803031f45ec9e70c0aa03967d621fbfa5bc6d6.jpg
@@ -44,10 +44,10 @@ Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 7. [Conclusione](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Introduzione
@@ -57,10 +57,23 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
@@ -83,19 +96,6 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
 Passo 1\. Apri il Task Manager:
@@ -113,6 +113,19 @@ Fai clic con il tasto destro su entrambi Cortana ed Esplora file di Windows e sc
 Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
@@ -149,6 +162,13 @@ Sotto la scheda Opzioni Avanzate, clicca su "Ricostruisci."
 Passo 4\. Attendi il Completamento:
 
 Permetti al processo di indicizzazione di completarsi. Successivamente, controlla se il problema di non poter digitare nella barra di ricerca di Windows 10 persiste.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Soluzione 4: Controlla gli Aggiornamenti di Windows
 
@@ -210,13 +230,6 @@ Passo 4\. Avvia il Backup:
 
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
 
 #1: Perché la mia barra di ricerca di Windows 10 non risponde alla digitazione?
@@ -239,13 +252,6 @@ Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affronta
 
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusione
 
 In conclusione, risolvere la sfida di non poter digitare nella barra di ricerca di Windows 10 richiede un approccio sistematico. Seguendo le soluzioni fornite e integrando misure di protezione dei dati con AOMEI Backupper, puoi affrontare potenziali problemi con fiducia. Mantieni ottimizzato il tuo sistema, sii proattivo nella risoluzione dei problemi ed emancipati per trarre il massimo dalla tua esperienza con Windows 10.
@@ -257,6 +263,19 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
 
@@ -276,13 +295,6 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
@@ -300,24 +312,19 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-enhance-audience-reach-share-twitch-videos-on-facebook/"><u>[New] Enhance Audience Reach Share Twitch Videos on Facebook</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-the-ultimate-guide-top-10-places-to-download-inspiring-slideshow-designs-for-2024/"><u>[New] The Ultimate Guide Top 10 Places to Download Inspiring Slideshow Designs for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-transforming-mundane-interviews-into-memorable-experienrances/"><u>[New] Transforming Mundane Interviews Into Memorable Experienrances</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-the-insiders-guide-to-watermark-free-images-for-2024/"><u>[Updated] The Insider's Guide to Watermark-Free Images for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/captura-tus-reuniones-en-google-hangouts-sin-coste-los-6-mejores-trucos-de-grabacion-de-202-cuyas-soluciones-ofrecen-movavi/"><u>Captura Tus Reuniones en Google Hangouts Sin Coste: Los 6 Mejores Trucos De Grabación De 202 Cuyas Soluciones Ofrecen Movavi</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/capturekeeper-xd-review-delightful-photos-heavy-investment/"><u>CaptureKeeper XD Review: Delightful Photos, Heavy Investment</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/effective-methods-for-shrinking-webm-video-files-a-complete-guide/"><u>Effective Methods for Shrinking WebM Video Files: A Complete Guide</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/how-to-use-an-internet-based-image-editor-for-seamless-background-changes/"><u>How to Use an Internet-Based Image Editor for Seamless Background Changes</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/learning-for-living-top-10-reasons-to-be-bilingual-or-multilingual/"><u>Learning for Living: Top 10 Reasons to Be Bilingual or Multilingual</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/mastering-record-keeping-with-apowersofts-virtual-screenshot-tips/"><u>Mastering Record-Keeping with Apowersoft's Virtual Screenshot Tips</u></a></li>
-<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-camon-20-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Camon 20</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/simple-methods-for-embedding-images-in-your-pdf-document/"><u>Simple Methods for Embedding Images in Your PDF Document</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/simplify-integrating-hyperlinks-into-pdf-files-a-quick-guide/"><u>Simplify Integrating Hyperlinks Into PDF Files - A Quick Guide</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/step-by-step-guide-to-recording-sound-with-macos-el-capitan/"><u>Step-by-Step Guide to Recording Sound with macOS El Capitan</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/step-by-step-guide-how-to-effortlessly-move-pictures-from-blackberry-device-to-samsung-galaxy-s-smartphone/"><u>Step-by-Step Guide: How to Effortlessly Move Pictures From BlackBerry Device to Samsung Galaxy S Smartphone</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/streamlined-strategies-to-master-recording-oceanic-audio-clips/"><u>Streamlined Strategies to Master Recording Oceanic Audio Clips</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/troubleshooting-screenshots-on-windows-fixing-problems-with-hidden-annotation-and-webcam-footage-in-recordings/"><u>Troubleshooting Screenshots on Windows: Fixing Problems with Hidden Annotation and Webcam Footage in Recordings</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-media-playback-on-youtube-flv-files-tutorial-for-2024/"><u>Unified Media Playback on YouTube FLV Files Tutorial for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-excellence-guild-crafting-photos-plus-sounds-visuals/"><u>[New] 2024 Approved Excellence Guild Crafting Photos + Sounds, Visuals</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-top-7-best-action-cameras-for-snowboardingskiing/"><u>[New] In 2024, Top 7 Best Action Cameras for Snowboarding/Skiing</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-discover-the-top-10-text-tricks-in-filmmaking/"><u>[Updated] 2024 Approved Discover the Top 10 Text Tricks in Filmmaking</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-advanced-editing-guide-for-creating-compelling-360-degree-videos-using-premiere-pro/"><u>[Updated] Advanced Editing Guide for Creating Compelling 360-Degree Videos Using Premiere Pro</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/7-sans-support-cd-guide-complet-en-3-etapes/"><u>7 Sans Support CD : Guide Complet en 3 Étapes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/8-mind-bending-techniques-ai-uses-to-intertwine-fantasy-and-reality-seamlessly/"><u>8 Mind-Bending Techniques AI Uses to Intertwine Fantasy and Reality Seamlessly</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/1728493096592-ppt/"><u>有效驗證兩種方法：如何使用PPT覆蓋文件重生</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/access-denied-the-url-cannot-be-located-error-code-404/"><u>Access Denied! The URL Cannot Be Located (Error Code 404)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722111496771-affordably-secure-your-phone-understand-ransomware-and-meet-ai-ally-chatgpt-in-our-exclusive-talk/"><u>Affordably Secure Your Phone: Understand Ransomware & Meet AI Ally ChatGPT in Our Exclusive Talk</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/comment-mettre-en-sourdine-une-fermeture-de-fichiers-dans-windows-10-et-11/"><u>Comment Mettre en Sourdine Une Fermeture De Fichiers Dans Windows 10 Et 11?</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/guide-pratique-comment-recuperer-votre-histoire-instagram-sur-pc-iphone-et-android/"><u>Guide Pratique: Comment Récupérer Votre Histoire Instagram Sur PC, iPhone Et Android</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud On your Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/secrets-to-finding-excellent-economic-pictures-online-for-2024/"><u>Secrets to Finding Excellent, Economic Pictures Online for 2024</u></a></li>
 </ul></div>
 
