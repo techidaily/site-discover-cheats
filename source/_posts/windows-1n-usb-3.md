@@ -1,7 +1,7 @@
 ---
 title: 逐步指南：如何複製 Windows 1N 并在 USB 儲存裝置上创建可引导環境（包含3种方法）
-date: 2024-11-02T19:07:26.431Z
-updated: 2024-11-03T21:00:41.968Z
+date: 2024-11-11T19:28:26.686Z
+updated: 2024-11-12T22:52:46.087Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/3cb419f908d86ebe5088af418d006c72b036ec3f74f18e23c30cd46153ace618.jpg
@@ -43,10 +43,10 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 5. [Conclusion](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## User case: Windows 11 winload.efi missing, F8 button not working
@@ -63,13 +63,6 @@ If you meet similar problems that you can’t find winload.efi, you have been in
 
 Before we fix the file winload.efi missing error, let’s explore the causes that may lie with it:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### What caused winload.efi missing error?
 
 Causes of "winload.efi missing or contains error after clone" issues:
@@ -81,15 +74,22 @@ Causes of "winload.efi missing or contains error after clone" issues:
 **5\. Motherboard Replacement**: Replacing or modifying a computer's motherboard may cause problems with devices and drivers, potentially triggering the "winload.efi" problem if not addressed.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Fix winload.efi missing
 
 The "winload.efi missing" error happens when the OS can't find or access the winload.efi file. To fix this issue, 5 solutions are provided. You can directly navigate to the specific method you need or go through each solution sequentially.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Option 1\. Use the Boot Repair Tool
 
@@ -179,13 +179,20 @@ If the "sfc /scannow" command fails to repair the Winload.efi missing file, proc
 
 [![SFC Scannow](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/winload-efi-after-clone/sfc-scannow.png "SFC Scannow")
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Exercise caution to avoid potential system errors when using this command.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 5\. Repair EFI Boot Loader
@@ -222,13 +229,6 @@ Step 4\. Assign the partition a drive letter. Enter each of the following comman
 
 Step 5\. Restart your computer after successfully repairing the EFI loader.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Suggestion: backup your crucial loading files in advance
 
 A reliable backup software like [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) allows you to create a bootable disc and system backup, preventing startup loop errors and addressing various computer failures. In the event of a system crash, you can restore the system image to a new hard drive and regain normal functionality. AOMEI Backupper Standard offers numerous advantages for seamless backup and recovery processes.
@@ -245,7 +245,33 @@ You just need to download this software and install it. Open it and navigate to 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-20.svg) 100% Secure
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [![System Backup](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/system-backup/system-backup.png)
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -260,22 +286,15 @@ Was the provided information useful? Your vote is important to us!
 ![Maggie](https://www.ubackup.com/assets/images/author/maggie.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Maggie](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Maggie is a technical editor from AOMEI and troubleshoots technical problems against data protection. She has received professional and systematic technical training. With a focus on user experience, security, and problem-solving, she always puts herself in the readers' shoes and provides them with valuable technical insights.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -305,13 +324,6 @@ Safeguard any data of your computer with backup, sync and clone.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
@@ -329,22 +341,20 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-transform-your-brand-with-a-decades-worth-of-smm-wisdom-distilled-into-10-steps/"><u>[New] Transform Your Brand with a Decade's Worth of SMM Wisdom, Distilled Into 10 Steps</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-ultimate-ff-downloader-suite-for-social-video-grabs/"><u>[Updated] In 2024, Ultimate FF Downloader Suite for Social Video Grabs</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/13-advanced-tips-to-enhance-your-email-designs-with-massmail/"><u>13 Advanced Tips to Enhance Your Email Designs with MassMail</u></a></li>
-<li><a href="https://win-dash.techidaily.com/asus-wireless-card-compatibility-with-windows-1187-how-to-fix-driver-problems/"><u>ASUS Wireless Card Compatibility with Windows 11/8/7 - How to Fix Driver Problems</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/bring-a-chuckle-to-life-generating-text-memes-for-2024/"><u>Bring a Chuckle to Life Generating Text Memes for 2024</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/comment-effacer-tous-les-donnees-et-reinitialiser-windows/"><u>Comment Effacer Tous Les Données Et Réinitialiser Windows</u></a></li>
-<li><a href="https://win-top.techidaily.com/comment-transformer-des-fichiers-rar-en-systeme-de-fichiers-ntfs-sans-perdre-les-donnees-un-guide-complet/"><u>Comment Transformer Des Fichiers RAR en Système De Fichiers NTFS Sans Perdre Les Données : Un Guide Complet</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-list-of-different-video-camera-types/"><u>In 2024, List of Different Video Camera Types</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-meizu-21-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Meizu 21 IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/mastering-vcenter-template-creation-with-dual-strategies-explained/"><u>Mastering vCenter Template Creation with Dual Strategies Explained</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/maximize-your-outreach-top-8-strategies-for-bulk-email-sending-with-massmail-software/"><u>Maximize Your Outreach: Top 8 Strategies for Bulk Email Sending with MassMail Software</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/page-missing-internet-explorer-couldnt-find-it/"><u>Page Missing – Internet Explorer Couldn't Find It!</u></a></li>
-<li><a href="https://fox-links.techidaily.com/strategic-utilization-of-azure-voice-to-text-capabilities/"><u>Strategic Utilization of Azure Voice-to-Text Capabilities</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/ultimate-guide-to-building-your-own-custom-pc/"><u>Ultimate Guide to Building Your Own Custom PC</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/wiederherstellung-von-fotos-aus-dem-papierkorb-ohne-spezielle-software/"><u>Wiederherstellung Von Fotos Aus Dem Papierkorb Ohne Spezielle Software</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/windows-explorerdropbox/"><u>Windows ExplorerにDropboxを簡単同期する自由ソリューション - ステップバイステップガイド</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/arness-social-blade-for-profound-youtube-stats-analysis-for-2024/"><u>[New] Harness Social Blade for Profound YouTube Stats Analysis for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-accelerate-your-classic-gaming-top-choices-of-android-emulators-for-ps2/"><u>[New] In 2024, Accelerate Your Classic Gaming - Top Choices of Android Emulators for PS2</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-pixel-perfection-top-tools-for-preserving-tweets-videos-for-2024/"><u>[Updated] Pixel Perfection Top Tools for Preserving Tweets' Videos for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-achieving-financial-freedom-joshis-youtube-tactics/"><u>2024 Approved Achieving Financial Freedom Joshi’s YouTube Tactics</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/boost-engagement-the-art-of-adding-borders-on-insta/"><u>Boost Engagement The Art of Adding Borders on Insta</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-xiaomi-14-pro-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Xiaomi 14 Pro Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/effizientes-wissen-fur-ssds-wie-der-diskpart-clean-all-befehl-auf-ihrer-festplatte-funktioniert-und-genutzt-wird/"><u>Effizientes Wissen Für SSDs: Wie Der 'Diskpart Clean All'-Befehl Auf Ihrer Festplatte Funktioniert Und Genutzt Wird</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/guida-passo-passo-per-sincronizzare-il-disco-rigido-esterno-con-un-servizio-di-archiviazione-in-cloud/"><u>Guida Passo-Passo per Sincronizzare Il Disco Rigido Esterno Con Un Servizio Di Archiviazione in Cloud</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/guide-detaille-comment-annuler-une-suppression-de-fichiers-dans-windows-11-apprentissage-facile/"><u>Guide Détaillé : Comment Annuler Une Suppression De Fichiers Dans Windows 11 - Apprentissage Facile</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/le-meilleur-outils-dedition-imagee-sans-cout-pour-manipuler-les-informations-numeriques/"><u>Le Meilleur Outils D’Édition Imagée Sans Coût Pour Manipuler Les Informations Numériques</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-beyond-pinnacle-the-best-video-editing-apps-for-mac-this-year/"><u>New In 2024, Beyond Pinnacle The Best Video Editing Apps for Mac This Year</u></a></li>
+<li><a href="https://games-able.techidaily.com/operaside-vs-edge-epic-battle-in-the-world-of-gaming-browsers/"><u>Operaside vs Edge: Epic Battle in the World of Gaming Browsers</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/step-by-step-instructions-on-relocating-your-download-folders-across-drives/"><u>Step-by-Step Instructions on Relocating Your Download Folders Across Drives</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/steps-to-recover-unintentionally-deleted-items-off-your-external-hdd-without-using-the-recycle-bin-feature/"><u>Steps to Recover Unintentionally Deleted Items Off Your External HDD without Using the Recycle Bin Feature</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/wat-bedrijfsvoorschriften-zijn-en-hoe-ze-verschillen-van-gebruiksvoorwaarden/"><u>Wat Bedrijfsvoorschriften Zijn en Hoe Ze Verschillen Van Gebruiksvoorwaarden</u></a></li>
 </ul></div>
 

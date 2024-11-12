@@ -1,7 +1,7 @@
 ---
 title: "Connect with Vatican Leadership Using MassMail: Accessing Pope Benedict XVI's Digital Correspondence Platform"
-date: 2024-10-31T16:23:23.159Z
-updated: 2024-11-03T20:30:18.843Z
+date: 2024-11-09T20:49:47.145Z
+updated: 2024-11-12T21:16:14.712Z
 tags:
   - product
 categories:
@@ -21,6 +21,13 @@ In November, the Mobile Marketing Association updated the definition to “a set
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -45,10 +52,10 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -69,27 +76,20 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -103,28 +103,15 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
@@ -132,10 +119,10 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
@@ -145,6 +132,13 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -173,24 +167,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-capture-chuckles-through-adobe-media/"><u>[New] Capture Chuckles Through Adobe Media</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-fix-chromium-and-youtube-streams/"><u>2024 Approved Fix Chromium and YouTube Streams</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/5ouh5by15z6l44oq44od44kv44ki44od44ox44go5asj5pu054k544gu44g44oq44od44kv44ki44od44ox77ya44oh44o844k5lplusd6k2344gu5pya5paw5pa55rov/"><u>拡張型バックアップと変更点のみバックアップ：データ保護の最新方法</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/comment-passer-de-windows-11-a-windows-10-sur-un-ordinateur-personnel/"><u>Comment Passer De Windows 11 À Windows 10 Sur Un Ordinateur Personnel</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/cost-free-agentless-backups-for-your-vsphere-environment/"><u>Cost-Free, Agentless Backups for Your vSphere Environment</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/demystifying-streaming-tools-key-features-and-benefits-explained/"><u>Demystifying Streaming Tools: Key Features and Benefits Explained</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/effortless-asus-rog-ally-ssd-enhancement-tips-for-upgrade-and-no-reinstall-needed/"><u>Effortless ASUS ROG Ally SSD Enhancement - Tips for Upgrade and No Reinstall Needed</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/exclusive-top-5-iphone-podcast-apps-guide/"><u>Exclusive Top 5 iPhone Podcast Apps Guide</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/guide-recovering-your-information-post-iphone-restoration/"><u>Guide: Recovering Your Information Post-iPhone Restoration</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-3-solutions-to-find-your-apple-iphone-11-current-location-of-a-mobile-number-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Solutions to Find Your Apple iPhone 11 Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-asus-rog-phone-8withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Asus ROG Phone 8with/without a PC</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-streamlined-strategy-for-youtube-feedback-management/"><u>In 2024, Streamlined Strategy for Youtube Feedback Management</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/inexpensive-pcs-optimized-video-settings-guide/"><u>Inexpensive PCs Optimized Video Settings Guide</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/lass-nichts-unter-den-teppich-fallen-wiederherstellung-geloschter-bilder-in-windows-11-erklart/"><u>Lass Nichts Unter Den Teppich Fallen! Wiederherstellung Gelöschter Bilder in Windows 11 Erklärt</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/losungen-fur-nicht-initialisierte-unbekannte-speichermedien-unter-windows-1011-fehlerbehebung-und-werkzeuge/"><u>Lösungen Für Nicht Initialisierte Unbekannte Speichermedien Unter Windows 10/11: Fehlerbehebung Und Werkzeuge</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/scopri-come-eseguire-il-backup-di-file-e-sistema-windows-11-attraverso-la-tua-rete-locale-tutorial-completo/"><u>Scopri Come Eseguire Il Backup Di File E Sistema Windows 11 Attraverso La Tua Rete Locale: Tutorial Completo</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/simple-guide-converting-iphone-messages-into-text-documents/"><u>Simple Guide: Converting iPhone Messages Into Text Documents</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/smart-strategies-achieving-advertising-excellence/"><u>Smart Strategies Achieving Advertising Excellence</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-smart-shoppers-guide-to-televisions-and-features/"><u>The Smart Shopper's Guide to Televisions and Features</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-flashcapture-screen-tools/"><u>[New] FlashCapture Screen Tools</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-streamline-your-slides-with-these-4-youtube-video-inclusion-methods/"><u>[New] In 2024, Streamline Your Slides with These 4 YouTube Video Inclusion Methods</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-digital-legacy-preservation-saving-fb-video-conversations-for-2024/"><u>[Updated] Digital Legacy Preservation Saving FB Video Conversations for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-unlocking-fbx-filming-in-games-for-2024/"><u>[Updated] Unlocking FBX Filming in Games for 2024</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/ius4jewcqcdjg6hjg4pjgrvjg7zjgrg6ioocquodsplusodqeocpoodsplusodquocveodvoocueobjoimiplusobpoobiplusocieobquobhoeqhueuseobqowvvuetlii/"><u>不在 メッセージ: オンラインリソースが見つからない理由と対策</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/aomei-backupper-nas-windows-10/"><u>步驟分解：如何利用 AOMEI Backupper 在雲端硬碟或 NAS 上成功儲存 Windows 10 系統的完整備份</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/achieving-impactful-communication-without-irritating-contacts-using-massmail-solutions/"><u>Achieving Impactful Communication Without Irritating Contacts Using MassMail Solutions</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/discover-the-best-99-social-media-sites-ranked-an-alphabetical-analysis-by-massmail-tech-experts/"><u>Discover the Best 99 Social Media Sites Ranked: An Alphabetical Analysis by MassMail Tech Experts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-a-step-by-step-strategy-for-dominating-the-digital-marketing-arena/"><u>In 2024, A Step-by-Step Strategy for Dominating the Digital Marketing Arena</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-content-curation-youtube-vs-tiktok-showdown/"><u>In 2024, Content Curation YouTube Vs. TikTok Showdown</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-discover-how-to-design-dynamic-youtube-music-playlists/"><u>In 2024, Discover How to Design Dynamic YouTube Music Playlists</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/leicht-upgraden-ssd-modifikation-fur-lenovo-thinkpad-yoga-2-gen-perfekt-einfach/"><u>Leicht Upgraden: SSD Modifikation Für Lenovo ThinkPad Yoga (2. Gen.) - Perfekt Einfach</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/optimiser-la-gestion-des-mises-a-jour-windows-decouvrez-les-avantages-de-besion-et-son-supplement-despace-de-12-correctifs/"><u>Optimiser La Gestion Des Mises À Jour Windows : Découvrez Les Avantages De Besion Et Son Supplément D'espace De 12 Correctifs !</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-xiaomi-redmi-note-12-proplus-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Xiaomi Redmi Note 12 Pro+ 5G FRP</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/ultimate-tutorial-restoring-files-from-damaged-storage-areas/"><u>Ultimate Tutorial: Restoring Files From Damaged Storage Areas</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unstuck-with-quicktime-and-mov-files-discover-these-3-simple-solutions/"><u>Unstuck with QuickTime and MOV Files? Discover These 3 Simple Solutions!</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-free-top-10-best-online-video-editors-no-watermark/"><u>Updated In 2024, FREE Top 10 Best Online Video Editors No Watermark</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/usb-bootpartition-erstellen-mit-iso-datei-auf-windows-t-wlan-anleitung-und-tipps/"><u>USB-Bootpartition Erstellen Mit ISO-Datei Auf Windows T Wlan - Anleitung Und Tipps</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/wiederherstellung-von-festplatteninhalten-mit-aomei-backupper-professionelle-tipps-und-tricks/"><u>Wiederherstellung Von Festplatteninhalten Mit AOMEI Backupper: Professionelle Tipps Und Tricks</u></a></li>
 </ul></div>
 
