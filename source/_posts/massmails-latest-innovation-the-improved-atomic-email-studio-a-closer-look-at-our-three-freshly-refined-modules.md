@@ -1,7 +1,7 @@
 ---
 title: "MassMail's Latest Innovation: The Improved Atomic Email Studio - A Closer Look at Our Three Freshly Refined Modules"
-date: 2024-11-25T20:28:57.911Z
-updated: 2024-12-01T01:21:21.560Z
+date: 2024-12-03T22:57:47.619Z
+updated: 2024-12-09T07:19:25.066Z
 tags:
   - product
 categories:
@@ -22,6 +22,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -31,10 +35,6 @@ _For example:_
 A growing number of marketing campaigns use mobile-enhanced billboard, print and broadcast media to promote an opt-in for text alert programs, wallpapers, games and ringtones to maintain awareness of a product, such as a new car model or album. These programs support engagements long after exposure to the initial traditional marketing.
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s engaging
 
@@ -48,15 +48,15 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -82,6 +82,10 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
@@ -95,28 +99,24 @@ When promoting your vanity short code, always provide the short code’s digits 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,16 +149,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-identifying-lack-of-engagement-in-snapsphere/"><u>[New] In 2024, Identifying Lack of Engagement in Snapsphere</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-transform-youtube-performance-leading-tracking-apps-revealed/"><u>2024 Approved Transform YouTube Performance - Leading Tracking Apps Revealed</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-15-plus-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone 15 Plus to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/complete-transfer-of-data-from-hdd-to-solid-state-disk-in-four-easy-steps/"><u>Complete Transfer of Data From HDD to Solid State Disk in Four Easy Steps</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/guiando-se-pelas-tarefas-de-backup-no-windows-dicas-para-windows-1087/"><u>Guiando-Se Pelas Tarefas De Backup No Windows - Dicas Para Windows 10/8/7</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-realme-c67-5g-by-drfone-android/"><u>How to Bypass FRP from Realme C67 5G?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-sony-xperia-10-v-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Sony Xperia 10 V</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-finding-balance-the-art-of-choosing-video-dimensions/"><u>In 2024, Finding Balance The Art of Choosing Video Dimensions</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/step-by-step-tutorial-on-configuring-dual-operating-systems-windows-11-and-windows-7-side-by-side/"><u>Step-by-Step Tutorial on Configuring Dual Operating Systems: Windows 11 and Windows 7 Side by Side</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/the-surprising-success-of-weekend-email-campaigns-leveraging-sundays-for-higher-engagement-using-massmail-software/"><u>The Surprising Success of Weekend Email Campaigns: Leveraging Sundays for Higher Engagement Using Massmail Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-unraveling-breakpoint-failed-in-windows-devices/"><u>Tips for Unraveling Breakpoint Failed in Windows Devices</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-boost-viewers-interaction-via-youtube-cards-for-2024/"><u>[New] Boost Viewers Interaction via YouTube Cards for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-easy-routines-for-capturing-youtube-streams/"><u>[Updated] In 2024, Easy Routines for Capturing YouTube Streams</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-infinite-storage-horizon-your-guide-to-free-and-premium-cloud-services/"><u>[Updated] Infinite Storage Horizon Your Guide to Free & Premium Cloud Services</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-integrating-twitter-feed-into-your-whatsapp-conversations-for-2024/"><u>[Updated] Integrating Twitter Feed Into Your WhatsApp Conversations for 2024</u></a></li>
+<li><a href="https://win-trending.techidaily.com/1-essential-dj-controllers-for-newbies-choosing-between-pioneer-and-native-solutions/"><u>1. Essential DJ Controllers for Newbies: Choosing Between Pioneer and Native Solutions</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/chinas-path-to-communism-decoded-key-figures-and-insights-from-yl-software-experts/"><u>China’s Path to Communism Decoded: Key Figures and Insights From YL Software Experts</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/detecting-fake-coin-scams-expert-tips-from-yl-computings-blockchain-security-guide/"><u>Detecting Fake Coin Scams: Expert Tips From YL Computing's Blockchain Security Guide</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/elegant-hd-minimalist-themes-for-desktops-and-mobile-devices-curated-by-yl-software-solutions/"><u>Elegant HD Minimalist Themes for Desktops and Mobile Devices - Curated by YL Software Solutions</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/ensuring-adequate-power-supply-for-optimal-hardware-performance-tips-from-yl-computing/"><u>Ensuring Adequate Power Supply for Optimal Hardware Performance - Tips From YL Computing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-track-installation-download-the-pioneer-dj-ddj-sx2-driver-seamlessly/"><u>Fast Track Installation: Download the Pioneer DJ DDJ-SX2 Driver Seamlessly</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-macwebcam-tutorial-filming-basics-decoded/"><u>In 2024, MacWebCam Tutorial Filming Basics Decoded</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-standing-out-on-airwaves-podcast-brand-logo-tips/"><u>In 2024, Standing Out on Airwaves Podcast Brand Logo Tips</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/mastering-windows-registry-maintenance-tips-and-techniques-for-optimal-performance-yl-computings-guide/"><u>Mastering Windows Registry Maintenance: Tips & Techniques for Optimal Performance - YL Computing's Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-common-issues-and-solutions-for-non-functional-corsair-earphonesheadsets/"><u>Resolved: Common Issues and Solutions for Non-Functional Corsair Earphones/Headsets</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/troubleshooting-pc-faulty-bootups-blue-screen-solutions-by-yl-software-experts/"><u>Troubleshooting PC Faulty Bootups: Blue Screen Solutions by YL Software Experts</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/uncover-the-top-reasons-behind-memory-lapses-insights-from-yl-computing/"><u>Uncover the Top Reasons Behind Memory Lapses: Insights From YL Computing</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/yl-softwares-quick-tips-for-moving-windows-documents-between-folders/"><u>YL Software's Quick Tips for Moving Windows Documents Between Folders</u></a></li>
 </ul></div>
 
