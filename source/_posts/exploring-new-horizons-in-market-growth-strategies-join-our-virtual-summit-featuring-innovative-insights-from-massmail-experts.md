@@ -1,7 +1,7 @@
 ---
 title: Exploring New Horizons in Market Growth Strategies - Join Our Virtual Summit Featuring Innovative Insights From Massmail Experts
-date: 2024-12-12T23:15:32.303Z
-updated: 2024-12-14T20:44:12.899Z
+date: 2024-12-18T00:13:05.792Z
+updated: 2024-12-24T03:50:04.497Z
 tags:
   - product
 categories:
@@ -18,13 +18,13 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -55,7 +55,7 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -69,10 +69,6 @@ That is why in 2022, SMS will increasingly serve as the glue that cements multic
 One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware/products/), which helps local businesses and national chains to create and execute campaigns that feature shortcodes in direct mailers. After texting the shortcode, consumers receive an e-coupon on their phone that they redeem by showing to the merchant’s sales associate.
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## SMS Marketing Tips
 
@@ -91,7 +87,7 @@ If you use several types of media to promote your campaign, use a different keyw
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Mind the wording
@@ -99,7 +95,7 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
@@ -110,6 +106,10 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
@@ -118,6 +118,10 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Needless to say that brands and agencies should not consider smartphone applications. Just the opposite: They are a powerful new option for campaigns and an example of why “interactive” is part of mobile marketing’s new definition. But at the same time, it is essential to understand how applications fit in – or do not – with the product being marketed and its target audience. In that regard, SMS’ ubiquity fits another part of mobile marketing’s new definition: “any mobile device or network.” A partner like [AtomPark Software](https://tools.techidaily.com/massmailsoftware/products/) can offer support with carrier approval, program or campaign development, metrics and analytics, and the freedom to create and launch your campaigns in 165 countries! Only think of that! Good luck.
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,18 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-simplifying-multi-platform-group-chat-creation-on-skype-a-step-by-step-approach/"><u>[New] In 2024, Simplifying Multi-Platform Group Chat Creation on Skype A Step by Step Approach</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-stepwise-strategies-to-make-a-stellar-youtube-opening-sequence/"><u>[Updated] Stepwise Strategies to Make a Stellar YouTube Opening Sequence</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/acura-nsx-inspiring-hd-wallpaper-collection-ultimate-display-images-by-yl-computing/"><u>Acura NSX Inspiring HD Wallpaper Collection - Ultimate Display Images by YL Computing</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ifying-videos-for-youtube-viewers/"><u>Beautifying Videos for YouTube Viewers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/choose-your-e-reader-a-detailed-look-at-the-ipad-vs-kindle-vs-nook/"><u>Choose Your E-Reader: A Detailed Look at the iPad Vs. Kindle Vs. NOOK</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/efficiently-manage-your-system-settings-in-windows-7-8-10-and-ntegrate-quick-repair-with-one-click-maintenance-from-winutilities-expert-tips-from-yl-computi66/"><u>Efficiently Manage Your System Settings in Windows 7, 8, 10 & Ntegrate Quick Repair with One-Click Maintenance From WinUtilities - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/high-quality-emma-ray-norman-wallpaper-designs-inspirations-and-digital-art-by-yl-computing/"><u>High-Quality Emma Ray Norman Wallpaper Designs - Inspirations & Digital Art by YL Computing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-issues-when-modern-warfares-voice-communication-wont-connect/"><u>How to Resolve Issues When Modern Warfare's Voice Communication Won't Connect</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-motorola-razr-40-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Motorola Razr 40 Location | Dr.fone</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/step-by-step-guide-adjusting-user-access-rights-in-yl-computings-system/"><u>Step-by-Step Guide: Adjusting User Access Rights in YL Computing's System</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/step-by-step-guide-adjusting-your-network-configurations-tips-from-yl-computing/"><u>Step-by-Step Guide: Adjusting Your Network Configurations - Tips From YL Computing</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/troubleshooting-hardware-sluggishness-expert-analysis-from-yl-computing-and-yl-software/"><u>Troubleshooting Hardware Sluggishness: Expert Analysis From YL Computing and YL Software</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-fixes-for-preventing-nba-2k21-from-freezing-and-crashing-on-pc-systems/"><u>Ultimate Fixes for Preventing NBA 2K21 From Freezing and Crashing on PC Systems</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-2023s-leading-online-sound-recorders-ranked/"><u>[Updated] 2024 Approved 2023'S Leading Online Sound Recorders Ranked</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-instant-sharing-transferring-twitter-videos-to-fb-2-written-in-english/"><u>[Updated] Instant Sharing Transferring Twitter Videos to FB (2 Written in English)</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/office-3654/"><u>如何修復Office 365中列印合併機能不順利：4種有效手法</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/die-top-9-schnellen-fixlosungen-fur-ihr-gerat-jetzt-verwenden-sie-sie/"><u>Die Top 9 Schnellen Fixlösungen Für Ihr Gerät - Jetzt Verwenden Sie Sie!</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/googles-goldmine-a-simplified-three-step-blueprint-for-calculating-subscriber-earning-potential-for-2024/"><u>Google's Goldmine A Simplified Three-Step Blueprint for Calculating Subscriber Earning Potential for 2024</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/guida-veloce-come-eseguire-il-backup-di-outlook-su-dropbox/"><u>Guida Veloce: Come Eseguire Il Backup Di Outlook Su Dropbox</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-poco-c51-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/how-to-safeguard-your-data-no-cost-cloud-storage-options-on-windows-os-versions/"><u>How to Safeguard Your Data: No-Cost Cloud Storage Options on Windows OS Versions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-video-studio-analysis-comprehensive-xreview-guide/"><u>In 2024, In-Depth Video Studio Analysis Comprehensive XReview Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/reimagining-design-post-acid-pro-landscape/"><u>Reimagining Design Post-ACID Pro Landscape</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/revenir-a-linterface-de-menu-complet-classique-dans-windows-11/"><u>Revenir À L'Interface De Menu Complet Classique Dans Windows 11</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/revive-deleted-documents-from-c-drive-with-expert-data-retrieval-techniques/"><u>Revive Deleted Documents From C Drive with Expert Data Retrieval Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/setting-up-real-time-notifications-from-slack-on-your-apple-smartwatch-techtips-by-zdnet/"><u>Setting Up Real-Time Notifications From Slack on Your Apple Smartwatch | TechTips by ZDNet</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/ultimate-step-by-step-tutorial-on-recovering-data-with-cloud-backups-simplified-approach/"><u>Ultimate Step-by-Step Tutorial on Recovering Data with Cloud Backups – Simplified Approach</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>Updated In 2024, Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
 </ul></div>
 

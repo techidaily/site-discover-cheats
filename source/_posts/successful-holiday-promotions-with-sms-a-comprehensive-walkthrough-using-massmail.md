@@ -1,7 +1,7 @@
 ---
 title: "Successful Holiday Promotions with SMS: A Comprehensive Walkthrough Using MassMail"
-date: 2024-12-09T22:33:26.991Z
-updated: 2024-12-14T23:14:17.236Z
+date: 2024-12-17T09:04:36.766Z
+updated: 2024-12-24T06:18:28.435Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s engaging
@@ -70,9 +70,17 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -87,36 +95,32 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,24 +149,15 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-ultimate-list-the-top-10-thrilling-action-packed-games/"><u>[New] In 2024, Ultimate List The Top 10 Thrilling Action-Packed Games</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/onthly-income-prospects-for-youtube-creators-for-2024/"><u>[New] Monthly Income Prospects for YouTube Creators for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-weaving-narrative-threads-into-trailers/"><u>[New] Weaving Narrative Threads Into Trailers</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-expertly-charged-hero5-black-batteries-authenticity-and-counterparts/"><u>[Updated] In 2024, Expertly Charged Hero5 Black Batteries - Authenticity & Counterparts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-keep-up-to-date-with-youtube-community-guidelines/"><u>[Updated] Keep Up-to-Date With YouTube Community Guidelines</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-seamlessly-change-backdrops-explore-our-top-10-image-replace-tools/"><u>[Updated] Seamlessly Change Backdrops Explore Our Top 10 Image Replace Tools</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-art-of-profit-driven-online-shopping-blogosynthesis/"><u>[Updated] The Art of Profit-Driven Online Shopping Blogosynthesis</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/boost-your-computers-speed-with-simple-tricks-insights-by-yl-software-experts/"><u>Boost Your Computer's Speed with Simple Tricks - Insights by YL Software Experts</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/can-you-monitor-your-bitcoin-and-altcoins-on-the-go-mobile-solutions-from-yl-software-explored/"><u>Can You Monitor Your Bitcoin and Altcoins on the Go? – Mobile Solutions From YL Software Explored</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/complete-naruto-animation-series-wallpaper-pack-in-high-definition-quality-from-yl-designs/"><u>Complete Naruto Animation Series Wallpaper Pack in High Definition Quality From YL Designs</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/easy-fixes-for-windows-driver-glitches-learn-how-with-yl-softwares-guide/"><u>Easy Fixes for Windows Driver Glitches - Learn How with YL Software's Guide</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/effective-strategies-for-removing-unwanted-files-in-windows-by-yl-software-experts/"><u>Effective Strategies for Removing Unwanted Files in Windows by YL Software Experts</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/ford-mustang-shelby-gt500-stunning-car-wallpaper-images-download-high-res-graphics-by-yl-tech-solutions/"><u>Ford Mustang Shelby GT500 Stunning Car Wallpaper Images - Download High-Res Graphics by YL Tech Solutions</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-ensure-seamless-operation-with-updated-zebra-printer-drivers-on-windows/"><u>How to Ensure Seamless Operation with Updated Zebra Printer Drivers on Windows</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/simplify-your-system-setup-with-our-easy-user-registration-tutorial-the-yl-computing-experience/"><u>Simplify Your System Setup with Our Easy User Registration Tutorial - The YL Computing Experience</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/step-by-step-guide-adjusting-your-personal-privacy-preferences-through-windows-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Adjusting Your Personal Privacy Preferences Through Windows Control Panel - Tips From YL Computing</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/stunning-minecraft-wallpapers-and-graphics-discover-your-perfect-theme-with-yl-computing/"><u>Stunning Minecraft Wallpapers & Graphics - Discover Your Perfect Theme with YL Computing</u></a></li>
-<li><a href="https://discover-data.techidaily.com/verifying-current-installation-and-version-is-your-driving-program-by-yl-computing-up-to-date/"><u>Verifying Current Installation & Version: Is Your Driving Program by YL Computing Up-to-Date?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/what-is-huggingchat-unveiling-the-powerful-open-source-alternative-to-chatgpt/"><u>What Is HuggingChat? Unveiling the Powerful, Open-Source Alternative to ChatGPT</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-perfect-your-skype-interviews-with-professional-recording-tactics-for-2024/"><u>[Updated] Perfect Your Skype Interviews with Professional Recording Tactics for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-selecting-prime-meme-blueprints-for-2024/"><u>[Updated] Selecting Prime Meme Blueprints for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/advance-your-wallet-harness-w11-pro-offers-wisely/"><u>Advance Your Wallet: Harness W11 Pro Offers Wisely</u></a></li>
+<li><a href="https://fox-access.techidaily.com/discovering-periscope-its-features-pricing-and-user-registration/"><u>Discovering Periscope Its Features, Pricing & User Registration</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/high-quality-apple-theme-wallpapers-and-imagery-collection-by-yl-computing/"><u>High-Quality Apple Theme Wallpapers and Imagery Collection by YL Computing</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/high-resolution-san-francisco-hd-desktop-walls-and-backgrounds-expertly-crafted-by-yl-software/"><u>High-Resolution San Francisco HD Desktop Walls & Backgrounds - Expertly Crafted by YL Software</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/identifying-overheating-in-your-gpu-a-guide-by-yl-computing/"><u>Identifying Overheating in Your GPU: A Guide by YL Computing</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-from-vision-to-viewers-step-by-step-guide-to-live-tv-screens-on-windows-pcs/"><u>In 2024, From Vision to Viewers Step-by-Step Guide to Live TV Screens on Windows PCs</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/quicker-scan-times-optimizing-your-workflow-using-yls-computing-tools/"><u>Quicker Scan Times: Optimizing Your Workflow Using YL's Computing Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/syma-x5c-demystified-the-ideal-drone-for-budding-pilots/"><u>Syma X5C Demystified The Ideal Drone for Budding Pilots</u></a></li>
 </ul></div>
 
