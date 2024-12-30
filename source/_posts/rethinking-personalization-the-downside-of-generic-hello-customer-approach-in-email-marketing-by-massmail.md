@@ -1,7 +1,7 @@
 ---
 title: "Rethinking Personalization: The Downside of Generic 'Hello, Customer' Approach in Email Marketing by Massmail"
-date: 2024-12-19T17:37:53.618Z
-updated: 2024-12-24T03:49:34.018Z
+date: 2024-12-24T20:15:21.079Z
+updated: 2024-12-29T20:31:26.643Z
 tags:
   - product
 categories:
@@ -18,13 +18,13 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -35,6 +35,10 @@ _For example:_
 A growing number of marketing campaigns use mobile-enhanced billboard, print and broadcast media to promote an opt-in for text alert programs, wallpapers, games and ringtones to maintain awareness of a product, such as a new car model or album. These programs support engagements long after exposure to the initial traditional marketing.
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s engaging
 
@@ -47,10 +51,6 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -78,6 +78,10 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
@@ -86,41 +90,37 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -149,24 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-engage-with-googles-online-gatherings-for-2024/"><u>[New] Engage with Google's Online Gatherings for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-excellent-ears-in-scholarly-spaces/"><u>[New] In 2024, Excellent Ears in Scholarly Spaces</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-final-flair-free-and-paid-templates-to-express-thanks-for-2024/"><u>[Updated] Final Flair Free & Paid Templates to Express Thanks for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-maximize-impact-strategies-for-successful-instagram/"><u>[Updated] In 2024, Maximize Impact Strategies for Successful Instagram</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-simplifying-color-grading-a-comprehensive-look-at-luts/"><u>2024 Approved Simplifying Color Grading A Comprehensive Look at LUTs</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/discover-how-actress-turned-tech-mogul-priyanka-chopra-is-reshaping-the-industry-with-yl-computing-and-yl-software-innovations/"><u>Discover How Actress-Turned-Tech-Mogul Priyanka Chopra Is Reshaping the Industry with YL Computing & YL Software Innovations</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/dive-into-the-world-of-shinano-azur-lane-with-eye-catching-wallpapers-and-backgrounds-yl-software/"><u>Dive Into the World of Shinano Azur Lane with Eye-Catching Wallpapers & Backgrounds - YL Software</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/easy-guide-to-tweaking-your-devices-energy-options-with-yl-computing-solutions/"><u>Easy Guide to Tweaking Your Device's Energy Options with YL Computing Solutions</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/enhance-system-management-easy-ways-to-modify-windows-control-panel-settings-with-expert-advice-from-yl-software/"><u>Enhance System Management: Easy Ways to Modify Windows Control Panel Settings with Expert Advice From YL Software</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/how-can-you-fix-issues-with-your-graphics-card-tips-and-solutions-by-yl-computing/"><u>How Can You Fix Issues with Your Graphics Card? – Tips and Solutions by YL Computing</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/mastering-file-permission-settings-on-windows-a-step-by-step-guide-by-yl-computing/"><u>Mastering File Permission Settings on Windows: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/t-patterns-adsense-earnings-from-youtube-for-every-thousand-viewers-for-2024/"><u>Payout Patterns AdSense Earnings From YouTube for Every Thousand Viewers for 2024</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/resolving-failed-video-card-drivers-on-your-windows-machine-expert-advice-from-yl-computing/"><u>Resolving Failed Video Card Drivers on Your Windows Machine: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-microsoft-store-functionality-in-windows-11/"><u>Restoring Microsoft Store Functionality in Windows 11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/spectacular-size-and-speed-for-gamers-comprehensive-review-of-the-low-priced-monoprice-crystal-pro-40-inch-screen/"><u>Spectacular Size & Speed for Gamers - Comprehensive Review of the Low-Priced Monoprice Crystal Pro 40-Inch Screen</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-how-to-repair-your-lg-printers-usb-connection-on-windows/"><u>Step-by-Step Guide: How to Repair Your LG Printer's USB Connection on Windows</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/ultimate-picture-gallery-of-chrissy-costanza-wallpapers-by-yl-software-hd-quality-inspiring-photos-for-your-desktop-or-mobile-device/"><u>Ultimate Picture Gallery of Chrissy Costanza Wallpapers by YL Software - HD Quality, Inspiring Photos for Your Desktop or Mobile Device</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/windows-file-hunt-how-to-locate-exact-file-types-with-yl-computing-tips/"><u>Windows File Hunt: How To Locate Exact File Types with YL Computing Tips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/wireless-linking-ultimate-guide-to-pair-your-samsung-soundbar-with-your-television/"><u>Wireless Linking: Ultimate Guide to Pair Your Samsung Soundbar with Your Television</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-harmonize-visual-and-auditory-elements-adding-filters-and-sound-to-windows-photos-app/"><u>[New] Harmonize Visual & Auditory Elements Adding Filters & Sound to Windows Photos App</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-inspiring-movies-to-ignite-your-inner-strength/"><u>[New] In 2024, Inspiring Movies to Ignite Your Inner Strength</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-engaging-audiences-with-dynamic-photoviewer-content-in-pixiz/"><u>[Updated] In 2024, Engaging Audiences with Dynamic Photoviewer Content in Pixiz</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-all-access-live-streaming-of-four-olympic-games-with-peacocks-unique-viewing-feature/"><u>Experience All-Access Live Streaming of Four Olympic Games with Peacock's Unique Viewing Feature</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/gamers-beware-the-science-behind-overheating-graphics-cards-in-action-packed-play-unveiled-by-yl-computing-experts/"><u>Gamers Beware: The Science Behind Overheating Graphics Cards in Action-Packed Play – Unveiled by YL Computing Experts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/generating-ai-visuals-using-paint-cocreator-windows-edition/"><u>Generating AI Visuals Using Paint Cocreator - Windows Edition</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/how-to-fix-a-malfunctioning-app-on-your-pc-windows-expert-advice-from-yl-computing/"><u>How to Fix a Malfunctioning App on Your PC (Windows) - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-apple-iphone-6s-plus-location-by-mobile-number-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 6 Apps/Services to Trace Any Apple iPhone 6s Plus Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/quick-guide-how-to-accelerate-your-computers-performance-expert-tips-from-yl-computing/"><u>Quick Guide: How to Accelerate Your Computer's Performance - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/restore-your-windows-data-files-using-system-restore-expert-tips-from-yl-computing/"><u>Restore Your Windows Data Files Using System Restore: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/the-leading-operating-systems-for-pcs-according-to-yl-software-experts/"><u>The Leading Operating Systems for PCs According to YL Software Experts</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/troubleshooting-steps-how-to-fix-a-non-responsive-printer-solutions-by-yl-computing/"><u>Troubleshooting Steps: How to Fix a Non-Responsive Printer - Solutions by YL Computing</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/unveiling-the-inception-of-prc-in-1astockdate2023-07-05/"><u>Unveiling the Inception of PRC in 1Astock_date=2023-07-05</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/visual-storytelling-excellence-10-tactics-for-captivating-instagram-ads/"><u>Visual Storytelling Excellence 10 Tactics for Captivating Instagram Ads</u></a></li>
 </ul></div>
 

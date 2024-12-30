@@ -1,7 +1,7 @@
 ---
 title: How to Backup Partitions as Images on Windows 11, 8 & 7 – Two Effective Methods
-date: 2024-12-13T03:10:50.952Z
-updated: 2024-12-14T22:44:51.102Z
+date: 2024-12-23T17:49:53.765Z
+updated: 2024-12-29T19:41:11.271Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/6244e9865f3cd047c2f60d5d60d859b9d635a96ea7300f114708b93a9cc09aeb.JPG
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/6244e9865f3cd047c2f60d5d60d859b9d635a96ea
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
@@ -32,6 +32,10 @@ Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Table des matières** 
 
 1. [Logiciel de sauvegarde NAS Buffalo pour système Windows](https://tools.techidaily.com/ubackup/products/)
@@ -40,7 +44,7 @@ Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-a
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
@@ -73,10 +77,6 @@ Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
 Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NAS Buffalo pour Windows, veuillez préparer un disque dur externe, une clé USB, etc. pour stocker l'image de sauvegarde. Ensuite, suivez attentivement les étapes ci-dessous.
@@ -94,7 +94,7 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
@@ -110,7 +110,7 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
@@ -142,16 +142,12 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -172,6 +168,10 @@ Aidez-nous à améliorer cet article
 Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour nous !
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Obtenez gratuitement AOMEI Backupper
 
@@ -198,20 +198,22 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-exploring-the-features-of-asuss-proart-pa-329q-the-ultimate-professional-display/"><u>[New] In 2024, Exploring the Features of Asus's ProArt PA 329Q – The Ultimate Professional Display</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-mastering-microphone-modifications-for-vtubers/"><u>[New] Mastering Microphone Modifications for VTubers</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-pioneering-sites-for-downloading-text-aesthetics/"><u>[New] Pioneering Sites for Downloading Text Aesthetics</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-precision-engineering-for-dvd-production-in-macos/"><u>[New] Precision Engineering for DVD Production in macOS</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/brightening-up-your-pc-a-step-by-step-guide-to-tweaking-screen-brightness-in-windows-11-yl-tech-solutions/"><u>Brightening Up Your PC: A Step-by-Step Guide to Tweaking Screen Brightness in Windows 11 - YL Tech Solutions</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/detecting-issues-with-your-storage-device-understanding-hard-drive-failure-symptoms-tips-from-yl-software-experts/"><u>Detecting Issues with Your Storage Device: Understanding Hard Drive Failure Symptoms – Tips From YL Software Experts</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/enhancing-your-pcs-efficiency-expert-tips-from-yl-computing-yl-software/"><u>Enhancing Your PC's Efficiency: Expert Tips From YL Computing - YL Software</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/filmoras-easy-steps-to-convert-avi-files-into-vibrant-gifs-on-all-platforms-for-2024/"><u>Filmora’s Easy Steps to Convert AVI Files Into Vibrant GIFs on All Platforms for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-a-frozen-or-white-screen-on-your-laptop-expert-tips-and-solutions/"><u>Fix a Frozen or White Screen on Your Laptop - Expert Tips & Solutions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-tecno-pop-7-pro-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Tecno Pop 7 Pro Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-the-slippery-slope-of-simulated-support-instagram-style/"><u>In 2024, The Slippery Slope of Simulated Support, Instagram Style</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/step-by-step-guide-replacing-your-laptop-battery-tips-from-yl-computing-and-software/"><u>Step-by-Step Guide: Replacing Your Laptop Battery - Tips From YL Computing & Software</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/understanding-the-causes-of-loud-computer-fans-insights-from-yl-computing/"><u>Understanding the Causes of Loud Computer Fans: Insights From YL Computing</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/unlocking-image-files-a-step-by-step-guide-tech-tips-by-yl-computing/"><u>Unlocking Image Files: A Step-by-Step Guide - Tech Tips by YL Computing</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-exploring-the-full-potential-of-obs-screen-capture/"><u>[New] 2024 Approved Exploring the Full Potential of OBS Screen Capture</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-unveiling-the-secrets-to-profitable-facebook-animation-strategies/"><u>[New] 2024 Approved Unveiling the Secrets to Profitable Facebook Animation Strategies</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-the-ultimate-pp-playbook-for-silent-scene-transitions/"><u>[New] In 2024, The Ultimate PP Playbook for Silent Scene Transitions</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-google-pixel-7a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-poco-c65-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Poco C65 Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/avoiding-the-blunders-in-early-millennia-email-strategies-insights-and-techniques-from-massmail-software-2009-edition/"><u>Avoiding the Blunders in Early Millennia Email Strategies | Insights & Techniques From Massmail Software, 2009 Edition</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/come-configurare-il-sistema-di-ripristino-del-tuo-server-windows-guide-passo-passo-per-server-2008-2e-edizioni-e-2019/"><u>Come Configurare Il Sistema Di Ripristino Del Tuo Server Windows: Guide Passo-Passo per Server 2008, 2E Edizioni E 2019</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/discover-the-latest-karaoke-enhancements-in-pcdjs-dex-version-310-and-beyond-a-comprehensive-video-guide/"><u>Discover the Latest Karaoke Enhancements in PCDJ's DEX Version 3.10 and Beyond - A Comprehensive Video Guide</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/effective-vmware-vsphere-data-protection-strategies-key-tips-and-techniques/"><u>Effective VMware vSphere Data Protection Strategies: Key Tips & Techniques</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/expert-guide-unraveling-the-mystery-behind-spike-in-cpu-utilization-on-vmware-platforms-diagnose-troubleshoot-and-optimize/"><u>Expert Guide: Unraveling the Mystery Behind Spike in CPU Utilization on VMware Platforms - Diagnose, Troubleshoot & Optimize</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-cyberpunk-2077-experience-how-updates-boosted-framerate-issues/"><u>Fixing the Cyberpunk 2077 Experience: How Updates Boosted Framerate Issues</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-nubia-red-magic-8s-pro-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Nubia Red Magic 8S Pro Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/how-to-safely-disconnect-duplicate-drops-on-your-drive-two-file-untagging-methods/"><u>How to Safely Disconnect Duplicate Drops on Your Drive: Two File Untagging Methods</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-navigating-the-future-essential-text-to-speech-websites-ranked-for-2024/"><u>New Navigating the Future Essential Text to Speech Websites Ranked for 2024</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/proven-effective-birthday-greetings-email-and-sms-samples-whats-new-in-202-cuageous/"><u>Proven Effective Birthday Greetings Email and SMS Samples: What’s New in 202 Cuageous</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/step-by-step-guide-safe-deletion-of-data-from-a-seagate-external-hard-drive-on-various-windows-systems/"><u>Step-by-Step Guide: Safe Deletion of Data From a Seagate External Hard Drive on Various Windows Systems</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/tashab-anayayakaranae-para-harada-dasaka-sathapana-faramadavaka-6-canalya/"><u>टोशिबा अनुयायकरण पर हार्ड डिस्क स्थापना फ्रीमेंडविक 6 चुनिलियों</u></a></li>
 </ul></div>
 

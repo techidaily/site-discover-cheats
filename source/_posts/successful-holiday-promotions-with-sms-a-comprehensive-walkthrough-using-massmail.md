@@ -1,7 +1,7 @@
 ---
 title: "Successful Holiday Promotions with SMS: A Comprehensive Walkthrough Using MassMail"
-date: 2024-12-17T09:04:36.766Z
-updated: 2024-12-24T06:18:28.435Z
+date: 2024-12-28T16:05:12.232Z
+updated: 2024-12-29T23:07:08.712Z
 tags:
   - product
 categories:
@@ -18,9 +18,17 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -31,10 +39,6 @@ _For example:_
 A growing number of marketing campaigns use mobile-enhanced billboard, print and broadcast media to promote an opt-in for text alert programs, wallpapers, games and ringtones to maintain awareness of a product, such as a new car model or album. These programs support engagements long after exposure to the initial traditional marketing.
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s engaging
 
@@ -66,25 +70,29 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -94,10 +102,6 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
@@ -106,17 +110,9 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,15 +149,17 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-perfect-your-skype-interviews-with-professional-recording-tactics-for-2024/"><u>[Updated] Perfect Your Skype Interviews with Professional Recording Tactics for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-selecting-prime-meme-blueprints-for-2024/"><u>[Updated] Selecting Prime Meme Blueprints for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/advance-your-wallet-harness-w11-pro-offers-wisely/"><u>Advance Your Wallet: Harness W11 Pro Offers Wisely</u></a></li>
-<li><a href="https://fox-access.techidaily.com/discovering-periscope-its-features-pricing-and-user-registration/"><u>Discovering Periscope Its Features, Pricing & User Registration</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/high-quality-apple-theme-wallpapers-and-imagery-collection-by-yl-computing/"><u>High-Quality Apple Theme Wallpapers and Imagery Collection by YL Computing</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/high-resolution-san-francisco-hd-desktop-walls-and-backgrounds-expertly-crafted-by-yl-software/"><u>High-Resolution San Francisco HD Desktop Walls & Backgrounds - Expertly Crafted by YL Software</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/identifying-overheating-in-your-gpu-a-guide-by-yl-computing/"><u>Identifying Overheating in Your GPU: A Guide by YL Computing</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-from-vision-to-viewers-step-by-step-guide-to-live-tv-screens-on-windows-pcs/"><u>In 2024, From Vision to Viewers Step-by-Step Guide to Live TV Screens on Windows PCs</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/quicker-scan-times-optimizing-your-workflow-using-yls-computing-tools/"><u>Quicker Scan Times: Optimizing Your Workflow Using YL's Computing Tools</u></a></li>
-<li><a href="https://extra-information.techidaily.com/syma-x5c-demystified-the-ideal-drone-for-budding-pilots/"><u>Syma X5C Demystified The Ideal Drone for Budding Pilots</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-wisdom-waves-prime-ed-channels-online/"><u>[New] In 2024, Wisdom Waves Prime Ed Channels Online</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-dreamscapes-on-display-a-film-study-for-2024/"><u>[Updated] Dreamscapes on Display A Film Study for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-advanced-photography-iphones-leading-object-cutting-tools-revealed/"><u>[Updated] In 2024, Advanced Photography IPhone's Leading Object Cutting Tools Revealed</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/adjust-your-systems-safety-features-in-control-panel-guidance-by-yl-software-experts/"><u>Adjust Your System's Safety Features in Control Panel - Guidance by YL Software Experts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-workflow-management-using-the-leading-8-chrome-productivity-assistants-with-ai-integration/"><u>Elevate Workflow Management Using the Leading 8 Chrome Productivity Assistants with AI Integration</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/elite-screen-recording-app-for-no-popups-for-2024/"><u>Elite Screen Recording App for No Popups for 2024</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/exploring-compatible-video-types-in-windows-system-preferences-insights-with-yl-computing/"><u>Exploring Compatible Video Types in Windows System Preferences: Insights with YL Computing</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-vivo-y27-4g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Vivo Y27 4G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-phone-sleeves-with-integrated-batteries/"><u>In 2024, Phone Sleeves with Integrated Batteries</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-guide-to-youtube-short-video-insights-for-2024/"><u>The Ultimate Guide to YouTube Short Video Insights for 2024</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/troubleshooting-missing-driver-issues-how-to-guide-by-yl-software-experts/"><u>Troubleshooting Missing Driver Issues: How to Guide by YL Software Experts</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/understanding-fast-draining-batteries-on-your-laptop-diagnosis-and-fixes-from-yl-software-experts/"><u>Understanding Fast-Draining Batteries on Your Laptop - Diagnosis & Fixes From YL Software Experts</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Essential Learning Points From Top Marketing Blunders Using MassMail Tools
-date: 2024-12-20T00:07:25.752Z
-updated: 2024-12-23T21:00:01.818Z
+date: 2024-12-28T22:44:58.030Z
+updated: 2024-12-29T18:31:48.906Z
 tags:
   - product
 categories:
@@ -32,6 +32,10 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
@@ -43,6 +47,10 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -70,32 +78,32 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
@@ -103,16 +111,12 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,20 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-adaptive-strategies-for-successful-content-on-new-fb-algorithm/"><u>[New] Adaptive Strategies for Successful Content on New FB Algorithm</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-your-device-uninterrupted-revealing-the-top-7-android-adblockers/"><u>[Updated] 2024 Approved Your Device, Uninterrupted Revealing the Top 7 Android AdBlockers</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/1-convert-excel-file-to-pdf-a-step-by-step-guide-by-yl-software-solutions/"><u>1. Convert Excel File to PDF: A Step-by-Step Guide by YL Software Solutions</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-vidvibes-merge-android-and-ios-insta-photos/"><u>2024 Approved VidVibes Merge Android & iOS Insta Photos</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-review-hc-wxf991-camcorder/"><u>Comprehensive Review: HC-WXF991 Camcorder</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/desktop-vs-laptop-unveiling-key-distinctions-in-portability-and-performance/"><u>Desktop Vs. Laptop: Unveiling Key Distinctions in Portability & Performance</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/diy-troubleshooting-tips-for-repairing-damaged-computer-power-adapters-the-yl-solution/"><u>DIY Troubleshooting Tips for Repairing Damaged Computer Power Adapters - The YL Solution</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/expert-tips-for-resolving-control-panel-glitches-insights-from-yl-software-team/"><u>Expert Tips for Resolving Control Panel Glitches - Insights From YL Software Team</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/how-can-i-detect-graphic-card-damage-an-expert-guide-by-yl-computing/"><u>How Can I Detect Graphic Card Damage? An Expert Guide by YL Computing</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/how-to-troubleshoot-when-your-graphics-card-wont-show-up-expert-advice-from-yl-computing/"><u>How To Troubleshoot When Your Graphics Card Won't Show Up: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On OnePlus Nord N30 SE? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Apple iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/incoherent/"><u>Incoherent</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unleash-surprising-power-with-this-compact-affordable-8-in-1-adapter-a-zdnet-review/"><u>Unleash Surprising Power with This Compact, Affordable 8-in-1 Adapter - A ZDNet Review</u></a></li>
-<li><a href="https://facebook.techidaily.com/whatsapp-users-expect-cross-device-connectivity-soon/"><u>WhatsApp Users Expect Cross-Device Connectivity Soon</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-title-tag-and-description-mastery-for-youtube-success/"><u>[Updated] 2024 Approved Title, Tag & Description Mastery for YouTube Success</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-perfecting-remote-conferences-with-focused-scopes/"><u>2024 Approved Perfecting Remote Conferences with Focused Scopes</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/building-your-own-portable-backup-application-a-step-by-step-guide/"><u>Building Your Own Portable Backup Application: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/comment-recuperer-des-fichiers-effaces-ou-corrompus-sur-un-disque-dur-toshiba-portable/"><u>Comment Récupérer Des Fichiers Effacés Ou Corrompus Sur Un Disque Dur Toshiba Portable ?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/all-into-success-top-hashtags-and-vlogging-techniques/"><u>FreeFall Into Success Top Hashtags and Vlogging Techniques</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-vivo-y100t-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Vivo Y100t Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-5-ultimate-platforms-for-high-quality-text-embellishments/"><u>In 2024, 5 Ultimate Platforms for High-Quality Text Embellishments</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-intel-iris-xe-drivers-download-for-windows-1011/"><u>Latest Intel Iris Xe Drivers: Download for Windows 10/11</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/mastering-message-migration-transition-ipad-texts-to-iphone-smoothly/"><u>Mastering Message Migration: Transition iPad Texts to iPhone Smoothly</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-gt-10-pro-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of GT 10 Pro</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/reviving-your-lost-memories-the-ultimate-guide-to-retrieving-permanently-erased-images-from-your-iphone-without-a-pc/"><u>Reviving Your Lost Memories: The Ultimate Guide to Retrieving Permanently Erased Images From Your iPhone Without a PC</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revolutionary-image-recovery-and-mending-application-debuts-from-stellar-latest-tech-update/"><u>Revolutionary Image Recovery & Mending Application Debuts From Stellar – Latest Tech Update</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/schwierigkeitsfreies-kopieren-von-festplatten-mit-sicherheit-vor-datenverlust/"><u>Schwierigkeitsfreies Kopieren Von Festplatten Mit Sicherheit Vor Datenverlust</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/step-by-step-guide-generating-a-system-recovery-drive-on-usb-for-windows-7-and-10/"><u>Step-by-Step Guide: Generating a System Recovery Drive on USB for Windows 7 & 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974749003-swiftly-improve-intels-graphic-driver-in-ws11-environment/"><u>Swiftly Improve Intel's Graphic Driver in WS11 Environment</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/troubleshooting-steps-for-connecting-usb-drives-on-a-ps4-console/"><u>Troubleshooting Steps for Connecting USB Drives on a PS4 Console</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/understanding-vcenter-options-cost-free-versions-exist-and-your-ultimate-guide-to-making-the-perfect-pick/"><u>Understanding vCenter Options: Cost-Free Versions Exist? And Your Ultimate Guide to Making the Perfect Pick</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/windows-10-1809/"><u>Windows 10 バージョン 1809 更新後、特定ファイルが不足する事態 - 対策と誤動作の解明</u></a></li>
 </ul></div>
 

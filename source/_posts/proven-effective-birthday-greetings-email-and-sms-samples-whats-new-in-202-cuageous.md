@@ -1,7 +1,7 @@
 ---
 title: "Proven Effective Birthday Greetings Email and SMS Samples: What’s New in 202 Cuageous"
-date: 2024-12-18T17:12:05.784Z
-updated: 2024-12-24T07:19:31.312Z
+date: 2024-12-27T19:11:35.757Z
+updated: 2024-12-29T20:53:05.754Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -36,17 +32,9 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -75,7 +63,7 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## SMS Marketing Tips
@@ -90,16 +78,24 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
@@ -107,7 +103,7 @@ When promoting your vanity short code, always provide the short code’s digits 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
@@ -121,6 +117,10 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -149,17 +149,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-strategies-for-effective-storage-of-chats-and-calls-on-facebook/"><u>[New] In 2024, Strategies for Effective Storage of Chats and Calls on Facebook</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-making-magic-transforming-ordinary-posts-into-social-sensations/"><u>[New] Making Magic Transforming Ordinary Posts Into Social Sensations</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-quick-steps-for-igtv-on-instagram-stories/"><u>[Updated] 2024 Approved Quick Steps for IGTV on Instagram Stories</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/1728502857384-windows/"><u>歸原Windows硬盤分割區 - 完全解決方案</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/essential-steps-to-overcome-fb-video-transmission-failure-iosandroid/"><u>Essential Steps to Overcome FB Video Transmission Failure (iOS/Android)</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-crafting-an-engaging-film-teaser/"><u>In 2024, Crafting an Engaging Film Teaser</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-is-ipogo-not-working-on-tecno-spark-20-proplus-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Tecno Spark 20 Pro+? Fixed | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-poco-f5-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Poco F5 5GFRP Lock</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/simple-methods-back-up-your-entire-windows-11-x64-operating-system-and-files-with-two-effective-techniques/"><u>Simple Methods: Back Up Your Entire Windows 11 X64 Operating System and Files with Two Effective Techniques</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/step-by-step-guide-saving-your-safari-bookmarks-from-iphone-and-mac/"><u>Step-by-Step Guide: Saving Your Safari Bookmarks From iPhone and Mac</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/1728480228908-windows-11hdd/"><u>Windows 11に最適化されたHDDクローニング手順 - シームレスで高速</u></a></li>
-<li><a href="https://extra-information.techidaily.com/windows-for-videographers-hdr-insights/"><u>Windows for Videographers HDR Insights</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-16-crowning-youtube-opens-for-enhanced-reach/"><u>[New] In 2024, 16 Crowning YouTube Opens for Enhanced Reach</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/1728481279092-5/"><u>「不可修正誤動作エラー」に対する5つの効果的解決法</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-downloading-with-diligence-how-to-securely-save-imagesvideos-on-iphone/"><u>2024 Approved Downloading with Diligence How to Securely Save Images/Videos on iPhone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-vintage-viewing-a-1992-goofy-film-retrospective/"><u>2024 Approved Vintage Viewing A 1992 Goofy Film Retrospective</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-drivers-for-gigabyte-gc-wb867d-i-step-by-step-guide/"><u>Download Drivers for Gigabyte GC-WB867D-I: Step by Step Guide</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/download-obs-studio-compatible-with-windows-mac-and-linux-platforms/"><u>Download OBS Studio: Compatible with Windows, Mac, and Linux Platforms</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/effortless-exchange-of-audio-photos-and-video-files-on-ipods-discover-leading-managers-for-quick-conversion/"><u>Effortless Exchange of Audio, Photos, and Video Files on iPods - Discover Leading Managers for Quick Conversion!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elite-10-drone-fleet-capturing-visuals-in-new-light/"><u>Elite 10-Drone Fleet Capturing Visuals in New Light</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/guia-paso-a-paso-para-instalar-windows-10-en-un-disco-duro-reemplazado/"><u>Guía Paso a Paso Para Instalar Windows 10 en Un Disco Duro Reemplazado</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/how-to-restore-deleted-user-profiles-on-windows-10/"><u>How to Restore Deleted User Profiles on Windows 10</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/how-to-safeguard-your-data-no-cost-cloud-storage-options-on-windows-os-versions/"><u>How to Safeguard Your Data: No-Cost Cloud Storage Options on Windows OS Versions</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/master-create-bootable-usbdvds-with-windows-pe-or-linux-in-italian/"><u>Master Create Bootable USB/DVDs with Windows PE or Linux in Italian</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/1728483873784-ps4/"><u>PS4資料片保全，如何安全地將硬碟換成更大型</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-start-to-printing-downloading-the-latest-epson-xp-330-drivers/"><u>Quick Start to Printing: Downloading the Latest Epson XP-330 Drivers</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/simple-solutions-for-quickly-resolving-roblox-error-code-529/"><u>Simple Solutions for Quickly Resolving Roblox Error Code 529</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/top-rsync-substitutes-on-windows-a-comprehensive-guide/"><u>Top Rsync Substitutes on Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-twitter-management-apps-enhance-your-social-presence/"><u>Top Twitter Management Apps: Enhance Your Social Presence</u></a></li>
 </ul></div>
 
