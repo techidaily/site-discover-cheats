@@ -1,7 +1,7 @@
 ---
 title: Simple Fixes When Your PC Cannot Detect a USB Flash Drive or External Hard Disk
-date: 2024-12-24T20:57:52.915Z
-updated: 2024-12-29T20:39:34.344Z
+date: 2025-01-03T00:40:38.126Z
+updated: 2025-01-08T22:41:53.561Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7b970dc3ae9c242e74e0d377.jpg
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Risolvere l'Impossibilità di Digitare nella Barra di Ricerca su Windows 10: Guida Completa
@@ -31,10 +31,6 @@ Scopri passaggi efficaci per risolvere il problema "non riesco a digitare nella 
 Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 31.01.2024
 
 Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Sommario** 
 
@@ -50,6 +46,10 @@ Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 5. [Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10](https://tools.techidaily.com/ubackup/products/)
 6. [Consigli per un'Operazione Fluida di Windows 10](https://tools.techidaily.com/ubackup/products/)
 7. [Conclusione](https://tools.techidaily.com/ubackup/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Introduzione
 
@@ -73,13 +73,13 @@ La corruzione dei file di sistema può influenzare la funzionalità della barra 
 
 Alcune applicazioni di terze parti o conflitti software potrebbero interferire con il corretto funzionamento della barra di ricerca.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
@@ -99,10 +99,6 @@ Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
 Passo 1\. Apri Impostazioni:
@@ -121,10 +117,6 @@ Passo 4\. Segui le Istruzioni Visualizzate:
 
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
 
 Passo 1\. Accedi alle Opzioni di Indicizzazione:
@@ -142,6 +134,10 @@ Sotto la scheda Opzioni Avanzate, clicca su "Ricostruisci."
 Passo 4\. Attendi il Completamento:
 
 Permetti al processo di indicizzazione di completarsi. Successivamente, controlla se il problema di non poter digitare nella barra di ricerca di Windows 10 persiste.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Soluzione 4: Controlla gli Aggiornamenti di Windows
 
@@ -203,10 +199,6 @@ Passo 4\. Avvia il Backup:
 
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
 
 #1: Perché la mia barra di ricerca di Windows 10 non risponde alla digitazione?
@@ -228,6 +220,10 @@ Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e corre
 Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affrontare prontamente i problemi.
 
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusione
 
@@ -259,10 +255,14 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -280,18 +280,19 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-expertise-in-covert-sound-suppression-with-audacity/"><u>[New] In 2024, Expertise in Covert Sound Suppression with Audacity</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-perfecting-video-conferencing-the-ultimate-screen-recorder-list/"><u>[New] Perfecting Video Conferencing The Ultimate Screen Recorder List</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-behind-the-scenes-how-to-remove-background-in-picsart/"><u>[Updated] 2024 Approved Behind the Scenes How to Remove Background in Picsart</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-the-blueprint-of-youtubes-innovative-shorts-economy-model/"><u>2024 Approved The Blueprint of YouTube's Innovative Shorts Economy Model</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/aomei-backupper-nas-windows-10/"><u>步驟分解：如何利用 AOMEI Backupper 在雲端硬碟或 NAS 上成功儲存 Windows 10 系統的完整備份</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/achieving-impactful-communication-without-irritating-contacts-using-massmail-solutions/"><u>Achieving Impactful Communication Without Irritating Contacts Using MassMail Solutions</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/apple-macbook-pro-16-inch-m1-2021-review-apples-best-laptop/"><u>Apple MacBook Pro 16-Inch (M1, 2021) Review: Apple's Best Laptop</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/discover-the-best-99-social-media-sites-ranked-an-alphabetical-analysis-by-massmail-tech-experts/"><u>Discover the Best 99 Social Media Sites Ranked: An Alphabetical Analysis by MassMail Tech Experts</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-samsung-galaxy-xcover-6-pro-tactical-edition-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Samsung Galaxy XCover 6 Pro Tactical Edition Device</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-picturesaveerror-in-windows-11/"><u>Resolving PictureSaveError in Windows 11</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/tailor-made-product-manuals-made-simple-with-rich-design-templates-discover-how-on-flipbuildercom/"><u>Tailor-Made Product Manuals Made Simple with Rich Design Templates - Discover How on FlipBuilder.com</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/ultimate-tutorial-restoring-files-from-damaged-storage-areas/"><u>Ultimate Tutorial: Restoring Files From Damaged Storage Areas</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-optimizing-your-yt-ad-revenue-with-effective-monetization-audits/"><u>[New] Optimizing Your YT Ad Revenue with Effective Monetization Audits</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-simplicity-in-capturing-your-lenovo-pics/"><u>[New] Simplicity in Capturing Your Lenovo Pics</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-elevate-your-edge-experience-with-pip/"><u>[Updated] Elevate Your Edge Experience with PIP</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-exploring-advanced-techniques-in-video-thumbnail-creation-for-2024/"><u>[Updated] Exploring Advanced Techniques in Video Thumbnail Creation for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-visual-stories-the-art-of-using-gopro-for-time-lapses/"><u>2024 Approved Crafting Visual Stories The Art of Using GoPro for Time-Lapses</u></a></li>
+<li><a href="https://fox-http.techidaily.com/diving-into-the-ultra-hd-waters-an-lg-27uhd68-monitor-guide/"><u>Diving Into the Ultra HD Waters An LG 27UHD68 Monitor Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ting-wisdom-in-webcams-finest-stocks-channels/"><u>Investing Wisdom in Webcams Finest Stocks Channels</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/mastering-the-art-of-drtuber-downloads-essential-tips-for-safe-and-easy-access/"><u>Mastering the Art of DrTuber Downloads: Essential Tips for Safe and Easy Access</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/mp3skull-download-hub-your-ultimate-source-for-song-conversions-free-audios-and-podcast-retrievals-as-mp3flac-files/"><u>Mp3Skull Download Hub: Your Ultimate Source for Song Conversions, Free Audios, and Podcast Retrievals as MP3/FLAC Files</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/resolving-common-issues-with-udemy-download-tool-udemy-dl-step-by-step-solutions/"><u>Resolving Common Issues with Udemy Download Tool (Udemy-Dl) - Step by Step Solutions</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/securely-transfer-video-content-from-pornoid-site-as-mp4-mov-or-avi-files-for-download/"><u>Securely Transfer Video Content From Pornoid Site as MP4, MOV or AVI Files for Download</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/step-by-step-instructions-for-securing-your-favorite-vh1-songs-on-mac-or-pc/"><u>Step-by-Step Instructions for Securing Your Favorite VH1 Songs on Mac or PC</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/successful-guide-watching-dvd-films-while-flying-or-traveling-by-sea-and-rail/"><u>Successful Guide: Watching DVD Films While Flying or Traveling by Sea & Rail</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/top-allavsoft-app-the-ultimate-vixy-replacement-for-pc-and-mac-users/"><u>Top Allavsoft App: The Ultimate ViXy Replacement for PC & Mac Users</u></a></li>
 </ul></div>
 

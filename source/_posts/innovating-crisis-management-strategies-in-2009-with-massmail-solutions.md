@@ -1,7 +1,7 @@
 ---
 title: Innovating Crisis Management Strategies in 2009 with MassMail Solutions
-date: 2024-12-22T22:03:23.992Z
-updated: 2024-12-29T20:57:01.925Z
+date: 2025-01-05T03:01:03.344Z
+updated: 2025-01-08T19:54:20.705Z
 tags:
   - product
 categories:
@@ -18,12 +18,16 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -48,15 +52,15 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -70,20 +74,20 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
@@ -102,13 +106,13 @@ When promoting your vanity short code, always provide the short code’s digits 
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -117,10 +121,6 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -149,20 +149,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-pioneering-visual-stories-with-windows-10-photos-and-story-remix/"><u>[New] Pioneering Visual Stories with Window's 10 Photos & Story Remix</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-unparalleled-video-grabber-suite-your-download-delight/"><u>[Updated] 2024 Approved Unparalleled Video Grabber Suite - Your Download Delight</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-best-hashtags-for-youtube-to-get-your-views-to-6-figures-for-2024/"><u>[Updated] Best Hashtags for YouTube To Get Your Views to 6 Figures for 2024</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/44cm44oh44o844or44oc44od44kv44k56ao95zkm54q25owl44g444gu44kr44km44oz44k44o844k544oi44op44og44k444o844ks5a2m44g277yb44cn/"><u>「メールボックス飽和状態へのカウンターストラテジーを学ぶ！」</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Huawei Nova Y71 | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-become-a-viral-sensation-crafting-impressive-unboxing-videos/"><u>2024 Approved Become a Viral Sensation Crafting Impressive Unboxing Videos</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-evaluation-of-the-high-quality-byb-e430-led-lamps-with-adjustable-arms/"><u>Expert Evaluation of the High-Quality BYB E430 LED Lamps with Adjustable Arms</u></a></li>
-<li><a href="https://fox-that.techidaily.com/expert-tips-for-performing-an-emergency-iphone-reboot-and-activating-device-recovery-mode/"><u>Expert Tips for Performing an Emergency iPhone Reboot and Activating Device Recovery Mode</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/guide-to-moving-your-images-from-pc-to-external-storage-in-windows-11/"><u>Guide to Moving Your Images From PC to External Storage in Windows 11</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/harmonizing-scores-with-cinematic-vision-in-film-trailers-for-2024/"><u>Harmonizing Scores with Cinematic Vision in Film Trailers for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-on-your-apple-iphone-14-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status On Your Apple iPhone 14</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/sechs-effektive-techniken-zum-hochladen-von-bildern-auf-ihr-neues-ipad/"><u>Sechs Effektive Techniken Zum Hochladen Von Bildern Auf Ihr Neues iPad</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/simple-guide-steps-to-erase-disk-partitions-in-windows-11/"><u>Simple Guide: Steps to Erase Disk Partitions in Windows 11</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/tecnicas-efectivas-para-la-restauracion-de-almacenamiento-c-reposiciona-tus-datos-con-facilidad/"><u>Técnicas Efectivas Para La Restauración De Almacenamiento C: Reposiciona Tus Datos Con Facilidad</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/top-utilitaire-de-migration-windows-11-assurer-une-transition-sans-probleme/"><u>Top Utilitaire De Migration Windows 11: Assurer Une Transition Sans Problème</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-evaluating-digital-stabilization-practicality-over-pixels/"><u>[New] 2024 Approved Evaluating Digital Stabilization Practicality Over Pixels</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-streamlining-lecture-recordings-on-imac-for-2024/"><u>[Updated] Streamlining Lecture Recordings on iMac for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-troubleshoot-facebook-live-pause-strategies-for-smooth-broadcasts/"><u>2024 Approved Troubleshoot Facebook Live Pause Strategies for Smooth Broadcasts</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/alter-windows-time-indicator-easy-formatting-tips-and-tricks/"><u>Alter Window's Time Indicator: Easy Formatting Tips and Tricks</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/easy-tutorial-on-adding-a-new-printer-via-the-windows-control-panel-by-yl-software-experts/"><u>Easy Tutorial on Adding a New Printer via the Windows Control Panel by YL Software Experts</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/essential-steps-to-recover-from-a-failed-hard-drive-tips-by-yl-computing/"><u>Essential Steps to Recover From a Failed Hard Drive - Tips by YL Computing</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-honor-magic-6-pro-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Honor Magic 6 Pro to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-practices-in-converting-videos-for-twitter/"><u>In 2024, Best Practices in Converting Videos for Twitter</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-y100t-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo Y100t Device</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-sims-4-recording-tips-and-tricks-for-quality/"><u>In 2024, Sims 4 Recording Tips and Tricks for Quality</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-your-selling-strategy-with-lazlive-live-selling/"><u>New In 2024, Your Selling Strategy With LazLive Live Selling</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/protecting-your-pc-expert-tips-on-avoiding-graphic-card-malfunctions-yl-tech-solutions/"><u>Protecting Your PC: Expert Tips on Avoiding Graphic Card Malfunctions - YL Tech Solutions</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/stunning-1080p-hd-photographs-of-emma-stone-for-your-screen-saver-and-desktop-backgrounds-curated-by-yl-computing-solutions/"><u>Stunning 1080P HD Photographs of Emma Stone for Your Screen Saver & Desktop Backgrounds, Curated by YL Computing Solutions</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/top-strategies-for-ensuring-your-graphics-cards-durability-insights-from-yl-computing/"><u>Top Strategies for Ensuring Your Graphics Card's Durability: Insights From YL Computing</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/troubleshooting-guide-discover-why-your-pc-fails-to-recognize-external-storage-insights-from-yl-computing/"><u>Troubleshooting Guide: Discover Why Your PC Fails To Recognize External Storage - Insights From YL Computing</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-oppo-a1x-5g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Oppo A1x 5G Device</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/unveiling-the-mastermind-behind-chinas-communist-uprising-the-pivotal-figure-in-history/"><u>Unveiling the Mastermind Behind China's Communist Uprising: The Pivotal Figure in History</u></a></li>
 </ul></div>
 

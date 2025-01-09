@@ -1,7 +1,7 @@
 ---
 title: Avoiding the Blunders in Early Millennia Email Strategies | Insights & Techniques From Massmail Software, 2009 Edition
-date: 2024-12-24T20:25:44.188Z
-updated: 2024-12-29T18:31:57.754Z
+date: 2025-01-02T07:04:57.576Z
+updated: 2025-01-08T23:18:52.858Z
 tags:
   - product
 categories:
@@ -18,13 +18,13 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -40,6 +40,10 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -47,10 +51,6 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -74,37 +74,37 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -113,10 +113,6 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,24 +149,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-ascending-the-podium-in-drone-racing-plus-essential-fpv-brands/"><u>[New] Ascending the Podium in Drone Racing + Essential FPV Brands</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ore-auditory-stimulation-channels/"><u>[New] Core Auditory Stimulation Channels</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-harness-the-power-of-gopro-studio-essential-editing-techniques/"><u>[Updated] 2024 Approved Harness the Power of GoPro Studio Essential Editing Techniques</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-step-by-step-guide-enhancing-snaps-with-zoom-feature/"><u>[Updated] In 2024, Step-by-Step Guide Enhancing Snaps with Zoom Feature</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/1-how-to-create-srt-subtitles-from-mkvmks-files-using-simple-cost-free-methods/"><u>1. How To Create SRT Subtitles From MKV/MKS Files Using Simple, Cost-Free Methods</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/como-elegir-el-mejor-metodo-de-respaldo-incremental-o-diferencial-para-la-proteccion-de-sus-datos/"><u>Cómo Elegir El Mejor Método De Respaldo Incremental O Diferencial Para La Protección De Sus Datos</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-look-at-the-amazon-basics-tablet-support-a-handy-accessory-you-can-carry-anywhere/"><u>Comprehensive Look at the Amazon Basics Tablet Support: A Handy Accessory You Can Carry Anywhere</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/datenverlust-bei-der-festplattenformatierung-wahr-oder-mythos/"><u>Datenverlust Bei Der Festplattenformatierung – Wahr Oder Mythos?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-poco-c55-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Poco C55 Face Lock?</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/guia-paso-a-paso-utilizando-rsync-en-windows-10-opciones-y-aprendizaje/"><u>Guía Paso a Paso: Utilizando Rsync en Windows 10 - Opciones Y Aprendizaje</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/guida-passo-passo-alla-distruzione-sicura-dellssd-m2-su-windows-1011/"><u>Guida Passo-Passo Alla Distruzione Sicura Dell'SSD M.2 Su Windows 10/11</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-3-ways-to-export-contacts-from-apple-iphone-15-pro-max-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 3 Ways to Export Contacts from Apple iPhone 15 Pro Max to Excel CSV & vCard Easily | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-tecno-spark-10-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Tecno Spark 10 5G FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/instalacion-personalizada-para-nt678server-ue-brasil-hdd-y-ssd-clonacion-gratuita-usando-clonezilla/"><u>Instalación Personalizada Para NT6/7/8/Server (UE, Brasil) - HDD Y SSD Clonación Gratuita Usando Clonezilla</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/professionelles-verwaltungsskript-fur-backup-aufgabenkontrolle-best-practices-verstehen/"><u>Professionelles Verwaltungsskript Für Backup-Aufgabenkontrolle - Best Practices Verstehen</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/resolving-apple-account-configuration-issues-strategies-when-iphones-ipads-and-macs-wont-update-settings/"><u>Resolving Apple Account Configuration Issues: Strategies When iPhones, iPads & Macs Won't Update Settings</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/seamless-move-the-ultimate-guide-to-excellent-gmail-and-office-t365-integration-solutions/"><u>Seamless Move: The Ultimate Guide to Excellent Gmail and Office T365 Integration Solutions</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/sichern-sie-ihren-laptop-auf-eine-externe-festplatte-kostenlose-anleitung-fur-windows-111087/"><u>Sichern Sie Ihren Laptop Auf Eine Externe Festplatte - Kostenlose Anleitung Für Windows 11/10/8/7</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-on-snapping-images-using-logitech-keyboards/"><u>Step-by-Step Tutorial on Snapping Images Using Logitech Keyboards</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-fb-streamer-capture-and-save-videos/"><u>[New] 2024 Approved FB-Streamer Capture and Save Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-simple-steps-for-turning-your-smartphone-into-an-effective-camera-for-2024/"><u>[New] Simple Steps for Turning Your Smartphone Into an Effective Camera for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transforming-plain-words-into-3d-marvels-ps-guide/"><u>[Updated] Transforming Plain Words Into 3D Marvels PS Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-visual-tweets-the-panorama-of-threaded-video-for-2024/"><u>[Updated] Visual Tweets The Panorama of Threaded Video for 2024</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/come-configurare-il-sistema-di-ripristino-del-tuo-server-windows-guide-passo-passo-per-server-2008-2e-edizioni-e-2019/"><u>Come Configurare Il Sistema Di Ripristino Del Tuo Server Windows: Guide Passo-Passo per Server 2008, 2E Edizioni E 2019</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/effective-vmware-vsphere-data-protection-strategies-key-tips-and-techniques/"><u>Effective VMware vSphere Data Protection Strategies: Key Tips & Techniques</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/expert-guide-unraveling-the-mystery-behind-spike-in-cpu-utilization-on-vmware-platforms-diagnose-troubleshoot-and-optimize/"><u>Expert Guide: Unraveling the Mystery Behind Spike in CPU Utilization on VMware Platforms - Diagnose, Troubleshoot & Optimize</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/how-to-safely-disconnect-duplicate-drops-on-your-drive-two-file-untagging-methods/"><u>How to Safely Disconnect Duplicate Drops on Your Drive: Two File Untagging Methods</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-mastering-mac-preview-a-compreranary-reference-guide/"><u>In 2024, Mastering Mac Preview A Compreranary Reference Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-the-art-of-multitasking-with-picture-in-picture/"><u>Mastering the Art of Multitasking with Picture In Picture</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/proven-effective-birthday-greetings-email-and-sms-samples-whats-new-in-202-cuageous/"><u>Proven Effective Birthday Greetings Email and SMS Samples: What’s New in 202 Cuageous</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Huawei P60? | Dr.fone</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/tashab-anayayakaranae-para-harada-dasaka-sathapana-faramadavaka-6-canalya/"><u>टोशिबा अनुयायकरण पर हार्ड डिस्क स्थापना फ्रीमेंडविक 6 चुनिलियों</u></a></li>
 </ul></div>
 
