@@ -1,7 +1,7 @@
 ---
 title: "Rethinking Personalization: The Downside of Generic 'Hello, Customer' Approach in Email Marketing by Massmail"
-date: 2025-01-06T20:36:56.031Z
-updated: 2025-01-09T07:15:00.046Z
+date: 2025-01-09T20:31:06.063Z
+updated: 2025-01-14T16:39:02.221Z
 tags:
   - product
 categories:
@@ -32,10 +32,6 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
@@ -48,15 +44,15 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -71,7 +67,7 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## SMS Marketing Tips
@@ -91,32 +87,32 @@ If you use several types of media to promote your campaign, use a different keyw
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,22 +149,21 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-unraveling-the-magic-of-mixed-reality/"><u>[New] 2024 Approved Unraveling the Magic of Mixed Reality</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-envisioning-your-fb-video-showcase-for-2024/"><u>[New] Envisioning Your FB Video Showcase for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-netflix-memories-capturing-every-view-with-mac-for-2024/"><u>[New] Netflix Memories Capturing Every View with Mac for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-transforming-footage-a-step-by-step-guide-to-gopros-timelapse/"><u>[New] Transforming Footage A Step-by-Step Guide to GoPro's Timelapse</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-seamless-swivel-rotating-your-media-masterpieces-on-social-sites/"><u>[Updated] The Seamless Swivel Rotating Your Media Masterpieces on Social Sites</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/1-secure-your-digital-correspondence-top-3-methods-for-saving-outlook-messages-handcrafted-and-auto-save-techniques/"><u>1. Secure Your Digital Correspondence: Top 3 Methods for Saving Outlook Messages – Handcrafted & Auto-Save Techniques</u></a></li>
-<li><a href="https://article-tips.techidaily.com/altering-game-console-tones-ps5ps4-guide/"><u>Altering Game Console Tones PS5/PS4 Guide</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/aomei-technologie-experten-profi-backup-mit-pro-plus-and-endlosen-serveroptionen-bei-aomei-cloud/"><u>AOMEI Technologie Experten - Profi Backup Mit Pro Plus & Endlosen Serveroptionen Bei AOMEI Cloud</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-unveils-most-memorable-super-bowl-weekend-advertisement-skipping-the-big-game-entirely-insights/"><u>Apple Unveils Most Memorable Super Bowl Weekend Advertisement, Skipping the Big Game Entirely - Insights</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/comment-recouvrer-des-images-perdues-de-votre-appareil-photo-fuji/"><u>Comment Recouvrer Des Images Perdues De Votre Appareil Photo Fuji</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/complete-guide-discovering-every-picture-on-your-pc-with-windows-11/"><u>Complete Guide: Discovering Every Picture on Your PC with Windows 11</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/les-appareils-de-cartographie-gps-les-plus-performants-compatibles-avec-windows-10-8-et-7/"><u>Les Appareils De Cartographie GPS Les Plus Performants Compatibles Avec Windows 10, 8 Et 7</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/losungen-fur-die-anerkennung-alter-externer-festplatten-entschlusseln-sie-ihre-probleme-mit-diesen-7-tipps/"><u>Lösungen Für Die Anerkennung Alter Externer Festplatten - Entschlüsseln Sie Ihre Probleme Mit Diesen 7 Tipps</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-messaging-a-step-by-step-guide-to-sending-texts-from-your-ipad/"><u>Mastering Messaging: A Step-by-Step Guide to Sending Texts From Your iPad</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/protection-continue-avec-cobian-comment-traiter-sans-supprimer-les-vieux-fichiers-de-sauvegarde-options-correctives-et-autres-choix/"><u>Protection Continue Avec Cobian : Comment Traiter Sans Supprimer Les Vieux Fichiers De Sauvegarde | Options Correctives Et Autres Choix</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/skullduggery-scribbler/"><u>Skullduggery Scribbler</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/transferer-des-messages-gmail-vers-un-peripherique-usb-methodes-rapides-et-fiables/"><u>Transférer Des Messages Gmail Vers Un Périphérique USB : Méthodes Rapides Et Fiables</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-overcoming-the-2023-facebook-security-breach/"><u>[Updated] 2024 Approved Overcoming the 2023 Facebook Security Breach</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-portable-recording-stands-and-lenses/"><u>[Updated] 2024 Approved Portable Recording Stands and Lenses</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/office-365-pst/"><u>「効率的なOffice 365 PSTデータ取得方法詳解」</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-perfect-playlists-import-music-with-inshot/"><u>2024 Approved Crafting Perfect Playlists Import Music with InShot</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/come-effettuare-una-restaurazione-pulita-di-windows-7-su-un-disco-fisso-aggiornato/"><u>Come Effettuare Una Restaurazione Pulita Di Windows 7 Su Un Disco Fisso Aggiornato</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/comment-configurer-la-sauvegarde-automatique-de-gmail-avantages-et-etapes-pratiques/"><u>Comment Configurer La Sauvegarde Automatique De Gmail: Avantages Et Étapes Pratiques</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/essential-learning-points-from-top-marketing-blunders-using-massmail-tools/"><u>Essential Learning Points From Top Marketing Blunders Using MassMail Tools</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>How can I get more stardust in pokemon go On Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-from-the-apple-iphone-12-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock From the Apple iPhone 12 Without Previous Owner?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-spotlight-on-revolutionary-vr-engine-software/"><u>In 2024, Spotlight on Revolutionary VR Engine Software</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-macs-recognition-problems-with-an-outside-monitor-a-comprehensive-guide/"><u>Overcoming Mac's Recognition Problems with an Outside Monitor: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/overcoming-the-crashes-in-windows-11s-photos-application-for-2024/"><u>Overcoming the Crashes in Windows 11'S Photos Application for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/securing-your-gameset-financing-tips-for-steam/"><u>Securing Your Gameset: Financing Tips for Steam</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/sintomas-soluciones-e-informacion-sobre-la-reparacion-del-cable-usb-danado-que-no-se-conecta-correctamente/"><u>Síntomas, Soluciones E Información Sobre La Reparación Del Cable USB Dañado Que No Se Conecta Correctamente.</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/website-free-affiliate-marketing-success-with-massmail-software-solutions/"><u>Website-Free Affiliate Marketing Success with MassMail Software Solutions</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/44ov44kh44kk44or44ks5o6i44gx5ye644gb44gq44geic0g6kmz57sw44gv44gt44gh44kj/"><u>ファイルを探し出せない - 詳細はこちら</u></a></li>
 </ul></div>
 

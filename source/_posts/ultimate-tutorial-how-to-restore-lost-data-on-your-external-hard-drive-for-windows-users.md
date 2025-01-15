@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Tutorial: How To Restore Lost Data on Your External Hard Drive for Windows Users"
-date: 2025-01-06T06:01:01.927Z
-updated: 2025-01-08T17:35:58.158Z
+date: 2025-01-11T03:04:44.618Z
+updated: 2025-01-15T01:09:16.671Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/26300a30b40be91fd1403de278cb19bb64bc0cc7c24d1ddb32b678a579f7aa1d.jpg
@@ -28,6 +28,10 @@ Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 3
 
 Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Sommario** 
 
 1. [Introduzione](https://tools.techidaily.com/ubackup/products/)
@@ -43,15 +47,15 @@ Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 6. [Consigli per un'Operazione Fluida di Windows 10](https://tools.techidaily.com/ubackup/products/)
 7. [Conclusione](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Introduzione
 
 Incontrare il problema di non poter digitare nella barra di ricerca di Windows 10 può essere frustrante, interrompendo il flusso di lavoro e ostacolando la navigazione efficiente. In questa guida completa, esamineremo i dettagli di questo problema, esploreremo le possibili cause e forniremo una varietà di soluzioni per garantire che tu possa digitare senza problemi nella barra di ricerca di Windows 10.
 
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
 
@@ -69,13 +73,13 @@ La corruzione dei file di sistema può influenzare la funzionalità della barra 
 
 Alcune applicazioni di terze parti o conflitti software potrebbero interferire con il corretto funzionamento della barra di ricerca.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
@@ -94,6 +98,10 @@ Fai clic con il tasto destro su entrambi Cortana ed Esplora file di Windows e sc
 Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
@@ -171,10 +179,6 @@ Passo 6\. Testa la Barra di Ricerca:
 
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
 
 Assicurarsi la protezione dei dati è cruciale durante la risoluzione dei problemi. Considera l'utilizzo di AOMEI Backupper per creare un backup del sistema di Windows 10.
@@ -196,7 +200,7 @@ Passo 4\. Avvia il Backup:
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
@@ -214,7 +218,7 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Consigli per un'Operazione Fluida di Windows 10
@@ -247,10 +251,6 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Scarica Gratis AOMEI Backupper Ora
 
 Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione.
@@ -259,11 +259,11 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -280,24 +280,22 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-boosting-video-impact-integrating-free-luts-into-your-obs-workflow/"><u>[New] In 2024, Boosting Video Impact Integrating Free LUTs Into Your OBS Workflow</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-upload-mp3-quickly-step-by-step-to-youtube-broadcasting/"><u>[New] In 2024, Upload MP3 Quickly Step-by-Step to YouTube Broadcasting</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/add-images-and-text-with-movavi-professional-photoshop-program/"><u>Add Images and Text with Movavi - Professional Photoshop Program</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/customizing-your-pc-experience-a-step-by-step-guide-to-changing-your-desktop-wallpaper/"><u>Customizing Your PC Experience: A Step-by-Step Guide to Changing Your Desktop Wallpaper</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-troubleshooting-resolve-league-of-legends-crashes-swiftly/"><u>Effortless Troubleshooting: Resolve League of Legends Crashes Swiftly</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/how-to-fix-your-pc-when-the-gpu-is-triggering-frequent-crashes-expert-guide-by-yl-computing/"><u>How to Fix Your PC When the GPU Is Triggering Frequent Crashes - Expert Guide by YL Computing</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-realme-c67-4g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Realme C67 4G Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/how-to-resolve-incompatible-device-drivers-on-your-windows-pc-tips-from-yl-computing/"><u>How to Resolve Incompatible Device Drivers on Your Windows PC - Tips From YL Computing</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/identifying-cryptocurrency-fraud-a-comprehensive-guide-by-yl-computing/"><u>Identifying Cryptocurrency Fraud: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-lava-blaze-curve-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Lava Blaze Curve 5G Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-comparison-and-evaluation-dji-air-2s-vs-competitors-drones/"><u>In-Depth Comparison & Evaluation: DJI Air 2S vs Competitors' Drones</u></a></li>
-<li><a href="https://review-topics.techidaily.com/iphone-12-pro-data-recovery-an-infographic-to-conquer-iphone-data-loss-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>iPhone 12 Pro Data Recovery – An Infographic to Conquer iPhone Data Loss | Stellar</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/master-the-art-of-decluttering-your-computer-uninstall-superfluous-programs-with-tips-from-yl-software/"><u>Master the Art of Decluttering Your Computer: Uninstall Superfluous Programs with Tips From YL Software</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/maximizing-your-pcs-efficiency-expert-strategies-from-yl-computing-top-performance-tips-revealed/"><u>Maximizing Your PC's Efficiency: Expert Strategies From YL Computing - Top Performance Tips Revealed!</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/resolving-audio-device-issues-in-windows-a-step-by-step-guide-yl-computings-tips-and-solutions/"><u>Resolving Audio Device Issues in Windows: A Step-by-Step Guide - YL Computing's Tips and Solutions</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-quintessential-list-of-top-15-masterpieces-in-stop-motion/"><u>The Quintessential List of Top 15 Masterpieces in Stop Motion</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/troubleshooting-your-pc-identifying-graphic-card-problems-in-windows-with-expert-tips-from-yl-software/"><u>Troubleshooting Your PC: Identifying Graphic Card Problems in Windows with Expert Tips From YL Software</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-guide-why-does-warno-keep-stalling-on-pc-and-how-to-fix-it/"><u>Ultimate Guide: Why Does Warno Keep Stalling on PC and How to Fix It?</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/why-is-your-pc-sluggish-on-windows-exploring-the-role-of-insufficient-ram-insights-by-yl-computing/"><u>Why Is Your PC Sluggish on Windows? Exploring the Role of Insufficient RAM - Insights by YL Computing</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-comprehensive-examination-editrite-pro-suite-the-final-word-2023-for-2024/"><u>[New] Comprehensive Examination EditRite Pro Suite – The Final Word, 2023 for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-cutting-edge-video-ideas-for-maximum-impact-for-2024/"><u>[New] Cutting-Edge Video Ideas for Maximum Impact for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-relaxation-in-a-box-best-10-stress-busters/"><u>2024 Approved Relaxation in a Box Best 10 Stress Busters</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-snap-into-clarity-10-online-tools-to-blur-proof-images/"><u>2024 Approved Snap Into Clarity 10 Online Tools to Blur-Proof Images</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/3-top-ranked-ios-apps-for-seamless-iphone-picture-transfer-to-windowsmac-systems/"><u>3 Top-Ranked iOS Apps for Seamless iPhone Picture Transfer to Windows/Mac Systems</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/5lin5lii5asx5lplush5ogv55qe6lev57q5zuplus77ya6auy5pwi56gs55uy6yen5paw6ywn572u5oyh5y2x/"><u>不丢失信息的路线图：高效硬盘重新配置指南</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/seagatehdd5/"><u>驚くべき事実！SeagateのHDDが失われたデータを5手順で復元する方法</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/analyzing-dji-x4-fpv-helmet-functionality-for-2024/"><u>Analyzing DJI X4 FPV Helmet Functionality for 2024</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/file-recovery-mastery-effective-strategies-to-resurrect-data-on-various-windows-versions/"><u>File Recovery Mastery: Effective Strategies to Resurrect Data on Various Windows Versions</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/guide-facile-pour-recuperer-gratuitement-les-fichiers-effaces-dans-la-corbeille/"><u>Guide Facile Pour Récupérer Gratuitement Les Fichiers Effacés Dans La Corbeille.</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-samsung-galaxy-a14-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-apples-pursuit-of-thinner-ipads-does-reducing-to-0n-inches-really-matter-insights-from-an-apple-store-experience/"><u>Inside Apple's Pursuit of Thinner iPads: Does Reducing to 0.n Inches Really Matter? | Insights From an Apple Store Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-15-pro-max-and-samsung-s24-ultra-face-off-which-smartphone-reigns-supreme/"><u>IPhone 15 Pro Max and Samsung S24 Ultra Face-Off: Which Smartphone Reigns Supreme?</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/klonsetup-fur-windows-11-auf-mehreren-pcs-mit-einem-einfachen-dreischrittprozess/"><u>Klonsetup Für Windows 11 Auf Mehreren PCs Mit Einem Einfachen Dreischrittprozess</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/step-by-step-guide-creating-a-perfect-windows-1011-system-image-copy-without-full-reinstallation/"><u>Step-by-Step Guide: Creating a Perfect Windows 10/11 System Image Copy Without Full Reinstallation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-revolutionary-technology-breakthroughs-that-transformed-the-industry-insights-from-zdnet/"><u>Top 5 Revolutionary Technology Breakthroughs That Transformed The Industry - Insights From ZDNet</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/y-a-t-il-un-risque-de-perte-de-donnees-lors-du-formatage-dun-disque-dur-decouvrez-la-reponse/"><u>Y A-T-Il Un Risque De Perte De Données Lors Du Formatage D’un Disque Dur? Découvrez La Réponse!</u></a></li>
 </ul></div>
 

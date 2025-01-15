@@ -1,7 +1,7 @@
 ---
 title: Innovating Crisis Management Strategies in 2009 with MassMail Solutions
-date: 2025-01-05T03:01:03.344Z
-updated: 2025-01-08T19:54:20.705Z
+date: 2025-01-10T01:03:26.661Z
+updated: 2025-01-15T01:15:01.020Z
 tags:
   - product
 categories:
@@ -18,16 +18,12 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -52,15 +48,15 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -74,10 +70,6 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -85,10 +77,6 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -98,9 +86,17 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -111,7 +107,7 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,22 +149,21 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-evaluating-digital-stabilization-practicality-over-pixels/"><u>[New] 2024 Approved Evaluating Digital Stabilization Practicality Over Pixels</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-streamlining-lecture-recordings-on-imac-for-2024/"><u>[Updated] Streamlining Lecture Recordings on iMac for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-troubleshoot-facebook-live-pause-strategies-for-smooth-broadcasts/"><u>2024 Approved Troubleshoot Facebook Live Pause Strategies for Smooth Broadcasts</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/alter-windows-time-indicator-easy-formatting-tips-and-tricks/"><u>Alter Window's Time Indicator: Easy Formatting Tips and Tricks</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/easy-tutorial-on-adding-a-new-printer-via-the-windows-control-panel-by-yl-software-experts/"><u>Easy Tutorial on Adding a New Printer via the Windows Control Panel by YL Software Experts</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/essential-steps-to-recover-from-a-failed-hard-drive-tips-by-yl-computing/"><u>Essential Steps to Recover From a Failed Hard Drive - Tips by YL Computing</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-honor-magic-6-pro-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Honor Magic 6 Pro to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-best-practices-in-converting-videos-for-twitter/"><u>In 2024, Best Practices in Converting Videos for Twitter</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-y100t-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo Y100t Device</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-sims-4-recording-tips-and-tricks-for-quality/"><u>In 2024, Sims 4 Recording Tips and Tricks for Quality</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-your-selling-strategy-with-lazlive-live-selling/"><u>New In 2024, Your Selling Strategy With LazLive Live Selling</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/protecting-your-pc-expert-tips-on-avoiding-graphic-card-malfunctions-yl-tech-solutions/"><u>Protecting Your PC: Expert Tips on Avoiding Graphic Card Malfunctions - YL Tech Solutions</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/stunning-1080p-hd-photographs-of-emma-stone-for-your-screen-saver-and-desktop-backgrounds-curated-by-yl-computing-solutions/"><u>Stunning 1080P HD Photographs of Emma Stone for Your Screen Saver & Desktop Backgrounds, Curated by YL Computing Solutions</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/top-strategies-for-ensuring-your-graphics-cards-durability-insights-from-yl-computing/"><u>Top Strategies for Ensuring Your Graphics Card's Durability: Insights From YL Computing</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/troubleshooting-guide-discover-why-your-pc-fails-to-recognize-external-storage-insights-from-yl-computing/"><u>Troubleshooting Guide: Discover Why Your PC Fails To Recognize External Storage - Insights From YL Computing</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-oppo-a1x-5g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Oppo A1x 5G Device</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/unveiling-the-mastermind-behind-chinas-communist-uprising-the-pivotal-figure-in-history/"><u>Unveiling the Mastermind Behind China's Communist Uprising: The Pivotal Figure in History</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-28-days-to-becoming-an-instagram-reel-sensation-for-2024/"><u>[Updated] 28 Days to Becoming an Instagram Reel Sensation for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-aerial-vehicles-deciphered-how-they-fly-and-communicate-for-2024/"><u>[Updated] Aerial Vehicles Deciphered How They Fly & Communicate for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-vivo-s17t-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Vivo S17t.</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/how-to-use-an-internet-based-image-editor-for-seamless-background-changes/"><u>How to Use an Internet-Based Image Editor for Seamless Background Changes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-itel-a05s-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Itel A05s</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-apple-iphone-12-location-on-viber-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change/Fake Your Apple iPhone 12 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-apple-iphone-15-plus-to-computer-drfone-by-drfone-ios/"><u>In 2024, How to Stream Apple iPhone 15 Plus to Computer? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/measuring-the-efficacy-of-antivirus-software-for-optimal-online-safety/"><u>Measuring the Efficacy of Antivirus Software for Optimal Online Safety</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/simplify-integrating-hyperlinks-into-pdf-files-a-quick-guide/"><u>Simplify Integrating Hyperlinks Into PDF Files - A Quick Guide</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/step-by-step-guide-to-recording-sound-with-macos-el-capitan/"><u>Step-by-Step Guide to Recording Sound with macOS El Capitan</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/step-by-step-guide-how-to-effortlessly-move-pictures-from-blackberry-device-to-samsung-galaxy-s-smartphone/"><u>Step-by-Step Guide: How to Effortlessly Move Pictures From BlackBerry Device to Samsung Galaxy S Smartphone</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/streamlined-strategies-to-master-recording-oceanic-audio-clips/"><u>Streamlined Strategies to Master Recording Oceanic Audio Clips</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-your-overwatch-voice-chat-glitches-with-simple-solutions/"><u>Troubleshoot Your Overwatch Voice Chat Glitches with Simple Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/turn-voice-into-written-words-immediately-whispers-secret/"><u>Turn Voice Into Written Words Immediately - Whisper's Secret</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/unlocking-access-to-android-device-contact-information/"><u>Unlocking Access to Android Device Contact Information</u></a></li>
 </ul></div>
 

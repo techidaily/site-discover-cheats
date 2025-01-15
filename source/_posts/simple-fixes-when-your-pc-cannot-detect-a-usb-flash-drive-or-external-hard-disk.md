@@ -1,7 +1,7 @@
 ---
 title: Simple Fixes When Your PC Cannot Detect a USB Flash Drive or External Hard Disk
-date: 2025-01-03T00:40:38.126Z
-updated: 2025-01-08T22:41:53.561Z
+date: 2025-01-08T23:17:58.240Z
+updated: 2025-01-14T17:44:04.168Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7b970dc3ae9c242e74e0d377.jpg
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Risolvere l'Impossibilità di Digitare nella Barra di Ricerca su Windows 10: Guida Completa
 
 Scopri passaggi efficaci per risolvere il problema "non riesco a digitare nella barra di ricerca su Windows 10". Impara su AOMEI Backupper e misure preventive per evitare futuri inconvenienti con la barra di ricerca. Migliora subito la tua esperienza su Windows 10!
@@ -31,6 +27,10 @@ Scopri passaggi efficaci per risolvere il problema "non riesco a digitare nella 
 Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 31.01.2024
 
 Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Sommario** 
 
@@ -48,7 +48,7 @@ Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 7. [Conclusione](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Introduzione
@@ -77,10 +77,6 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
 Passo 1\. Apri il Task Manager:
@@ -98,6 +94,10 @@ Fai clic con il tasto destro su entrambi Cortana ed Esplora file di Windows e sc
 Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
@@ -136,7 +136,7 @@ Passo 4\. Attendi il Completamento:
 Permetti al processo di indicizzazione di completarsi. Successivamente, controlla se il problema di non poter digitare nella barra di ricerca di Windows 10 persiste.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Soluzione 4: Controlla gli Aggiornamenti di Windows
@@ -222,7 +222,7 @@ Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affronta
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusione
@@ -247,6 +247,10 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Scarica Gratis AOMEI Backupper Ora
 
 Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione.
@@ -255,14 +259,10 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -280,19 +280,20 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-optimizing-your-yt-ad-revenue-with-effective-monetization-audits/"><u>[New] Optimizing Your YT Ad Revenue with Effective Monetization Audits</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-simplicity-in-capturing-your-lenovo-pics/"><u>[New] Simplicity in Capturing Your Lenovo Pics</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-elevate-your-edge-experience-with-pip/"><u>[Updated] Elevate Your Edge Experience with PIP</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-exploring-advanced-techniques-in-video-thumbnail-creation-for-2024/"><u>[Updated] Exploring Advanced Techniques in Video Thumbnail Creation for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-visual-stories-the-art-of-using-gopro-for-time-lapses/"><u>2024 Approved Crafting Visual Stories The Art of Using GoPro for Time-Lapses</u></a></li>
-<li><a href="https://fox-http.techidaily.com/diving-into-the-ultra-hd-waters-an-lg-27uhd68-monitor-guide/"><u>Diving Into the Ultra HD Waters An LG 27UHD68 Monitor Guide</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ting-wisdom-in-webcams-finest-stocks-channels/"><u>Investing Wisdom in Webcams Finest Stocks Channels</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/mastering-the-art-of-drtuber-downloads-essential-tips-for-safe-and-easy-access/"><u>Mastering the Art of DrTuber Downloads: Essential Tips for Safe and Easy Access</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/mp3skull-download-hub-your-ultimate-source-for-song-conversions-free-audios-and-podcast-retrievals-as-mp3flac-files/"><u>Mp3Skull Download Hub: Your Ultimate Source for Song Conversions, Free Audios, and Podcast Retrievals as MP3/FLAC Files</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/resolving-common-issues-with-udemy-download-tool-udemy-dl-step-by-step-solutions/"><u>Resolving Common Issues with Udemy Download Tool (Udemy-Dl) - Step by Step Solutions</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/securely-transfer-video-content-from-pornoid-site-as-mp4-mov-or-avi-files-for-download/"><u>Securely Transfer Video Content From Pornoid Site as MP4, MOV or AVI Files for Download</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/step-by-step-instructions-for-securing-your-favorite-vh1-songs-on-mac-or-pc/"><u>Step-by-Step Instructions for Securing Your Favorite VH1 Songs on Mac or PC</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/successful-guide-watching-dvd-films-while-flying-or-traveling-by-sea-and-rail/"><u>Successful Guide: Watching DVD Films While Flying or Traveling by Sea & Rail</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/top-allavsoft-app-the-ultimate-vixy-replacement-for-pc-and-mac-users/"><u>Top Allavsoft App: The Ultimate ViXy Replacement for PC & Mac Users</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-cut-the-cost-not-the-creativity-best-free-editing-tools-top-9/"><u>[Updated] 2024 Approved Cut The Cost, Not The Creativity Best Free Editing Tools (Top 9)</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/3usbwindows-11/"><u>無料ガイド: 3つの異なる方法を使ってUSBにWindows 11を完璧にバックアップする</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/diverse-devices-no-problem-record-youtube-livestream-easily/"><u>Diverse Devices? No Problem! Record YouTube Livestream Easily</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/enhance-your-livestreams-using-manycam-the-ultimate-virtual-webcam-and-recording-tool/"><u>Enhance Your Livestreams Using ManyCam - The Ultimate Virtual Webcam and Recording Tool</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/essential-banner-design-rules-for-top-youtube-channels/"><u>Essential Banner Design Rules for Top YouTube Channels</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/festplatten-daten-sichern-und-duplizieren-unter-windows-nur-mit-einigen-einfachen-aufgaben-lerne-die-prozessschritte-inklusive-einer-vierstufigen-anleitung.8/"><u>Festplatten-Daten Sichern Und Duplizieren Unter Windows Nur Mit Einigen Einfachen Aufgaben: Lerne Die Prozessschritte Inklusive Einer Vierstufigen Anleitung</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transforming-ordinary-recordings-into-pro-level-with-audacity/"><u>In 2024, Transforming Ordinary Recordings Into Pro-Level With Audacity</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/mastering-crypto-trading-a-comprehensive-guide-by-yl-computing/"><u>Mastering Crypto Trading: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/1728510199890-pc/"><u>PC用シンプルデータ転送ガイドライン - 一発で完了する方法</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pro-tips-for-shooting-quality-gopro-time-lapse-videos/"><u>Pro Tips for Shooting Quality GoPro Time-Lapse Videos</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/resolved-data-disappears-post-restart-how-to-recover-your-files/"><u>Resolved: Data Disappears Post-Restart - How to Recover Your Files</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/sichere-ihre-wichtigen-daten-effizientes-kopieren-auf-einen-seagate-externen-speicher/"><u>Sichere Ihre Wichtigen Daten: Effizientes Kopieren Auf Einen Seagate Externen Speicher</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/sincronizando-eficientemente-con-carpetasync-tu-solucion-libre-para-backup-y-transferencia-de-archivo-en-windows-tenth-edition/"><u>Sincronizando Eficientemente Con CarpetaSync: Tu Solución Libre Para Backup Y Transferencia De Archivo en Windows Tenth Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723203895192-unlocking-bluetooth-potential-in-windows-7-comprehensive-solutions-covered/"><u>Unlocking Bluetooth Potential in Windows 7: Comprehensive Solutions Covered</u></a></li>
 </ul></div>
 
