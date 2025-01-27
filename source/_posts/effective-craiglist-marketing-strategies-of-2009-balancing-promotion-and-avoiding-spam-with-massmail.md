@@ -1,7 +1,7 @@
 ---
 title: "Effective Craiglist Marketing Strategies of 2009: Balancing Promotion and Avoiding Spam with MassMail"
-date: 2025-01-17T22:17:03.160Z
-updated: 2025-01-20T17:21:37.044Z
+date: 2025-01-25T02:16:11.538Z
+updated: 2025-01-26T16:45:11.333Z
 tags:
   - product
 categories:
@@ -18,12 +18,16 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -40,6 +44,10 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -49,7 +57,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -59,7 +67,7 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -90,6 +98,10 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
@@ -106,17 +118,9 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,24 +149,17 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-economical-enhancement-tweets-to-animated-gifs-guide/"><u>[New] Economical Enhancement Tweets to Animated GIFs Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-best-6-apps-for-instagram-reels/"><u>[New] In 2024, Best 6 Apps for Instagram Reels</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-expert-strategies-for-higher-youtube-shorts-revenue-for-2024/"><u>[Updated] Expert Strategies for Higher YouTube Shorts Revenue for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-freely-accessible-platforms-for-professional-photography-edits-for-2024/"><u>[Updated] Freely Accessible Platforms for Professional Photography Edits for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-piecing-together-attention-grabbing-channel-snippets/"><u>[Updated] Piecing Together Attention-Grabbing Channel Snippets</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/1-easy-access-video-extractor-seamlessly-download-from-mpora/"><u>1. Easy Access Video Extractor - Seamlessly Download From Mpora</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/batch-download-high-resolution-4k-videos-from-youtube-on-pc-and-mac/"><u>Batch Download High-Resolution 4K Videos From YouTube on PC and Mac</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/best-free-apps-to-get-mp3flac-songs-from-deezer-without-copyright-issues/"><u>Best Free Apps to Get MP3/FLAC Songs From Deezer Without Copyright Issues</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/blues-harmonica-mastery-comprehensive-video-tutorials-in-mp4-and-mov-formats/"><u>Blues Harmonica Mastery: Comprehensive Video Tutorials in MP4 and MOV Formats</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/bypass-downvids-errors-effective-strategies-for-resolving-non-responsive-downvids/"><u>Bypass Downvids Errors: Effective Strategies for Resolving Non-Responsive Downvids</u></a></li>
-<li><a href="https://driver-error.techidaily.com/chip-select-failures-resolved-in-io-driver/"><u>Chip Select Failures Resolved in I/O Driver</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/download-animated-gifs-from-youtube-with-ease-ultimate-guide-and-tools/"><u>Download Animated GIFs From YouTube with Ease: Ultimate Guide & Tools</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/get-your-music-off-goear-with-goear-downloader-for-multiple-formats-like-mp3-wav-and-flac/"><u>Get Your Music Off Goear with Goear Downloader for Multiple Formats Like MP3, WAV & FLAC!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-honor-x9b-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Honor X9b to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-iphone-8-plus-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From iPhone 8 Plus</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Infinix Smart 8 HD | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/persistent-crashing-woes-heres-how-to-optimize-your-gameplay-experience-with-state-of-decay-2/"><u>Persistent Crashing Woes? Here's How to Optimize Your Gameplay Experience with State of Decay 2</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/step-by-step-guide-converting-punjabi-music-files-into-mp3-format-on-macos-and-windows/"><u>Step-by-Step Guide: Converting Punjabi Music Files Into MP3 Format on macOS & Windows</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/stream-or-download-korean-drama-audiovideo-files-mp4-wmv-avi-mp3-via-soompi-on-windows-and-macos/"><u>Stream or Download Korean Drama Audio/Video Files (MP4, WMV, AVI, MP3) via Soompi on Windows and macOS</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-unlocking-visual-storytelling-the-20-key-strategies-for-powerful-fb-video-marketing/"><u>[New] In 2024, Unlocking Visual Storytelling The 20 Key Strategies for Powerful FB Video Marketing</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-beak-beat-boatwrights/"><u>[Updated] 2024 Approved Beak Beat Boatwrights</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-guide-to-comparing-leading-4k-youtube-to-mp3-extractors/"><u>[Updated] Ultimate Guide to Comparing Leading 4K YouTube to MP3 Extractors</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/2021-apple-tv-4k-assessment-experience-crystal-clear-hd-with-intuitive-siri-voice-command/"><u>2021 Apple TV 4K Assessment: Experience Crystal Clear HD with Intuitive Siri Voice Command</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-spotlight-techniques-for-engaging-fb-giveaway-posts/"><u>2024 Approved Spotlight Techniques for Engaging FB Giveaway Posts</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/finding-the-right-tool-how-to-detect-and-resolve-pc-graphics-problems-with-xyz-suite-a-comprehensive-guide/"><u>Finding the Right Tool: How to Detect and Resolve PC Graphics Problems with XYZ Suite - A Comprehensive Guide</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/guide-adjusting-your-pcs-network-settings-through-windows-control-panel-by-the-team-at-yl-solutions/"><u>Guide: Adjusting Your PC's Network Settings Through Windows Control Panel by the Team at YL Solutions</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-strategies-that-accelerate-youtube-followers-acquisition/"><u>In 2024, Strategies That Accelerate YouTube Followers Acquisition</u></a></li>
+<li><a href="https://win-bits.techidaily.com/learn-from-home-access-top-quality-painting-tutorials-on-paintbasket-for-free/"><u>Learn From Home: Access Top-Quality Painting Tutorials on PaintBasket for FREE!</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/step-by-step-techniques-for-diagnosing-and-fixing-pc-components-insights-by-yl-software-experts/"><u>Step-by-Step Techniques for Diagnosing and Fixing PC Components - Insights by YL Software Experts</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/troubleshooting-your-printer-issues-a-step-by-step-guide-from-yl-computing/"><u>Troubleshooting Your Printer Issues: A Step-by-Step Guide From YL Computing</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/yl-computing-unveils-steps-for-optimizing-and-cleaning-the-windows-registry-efficiently/"><u>YL Computing Unveils Steps for Optimizing and Cleaning the Windows Registry Efficiently</u></a></li>
 </ul></div>
 

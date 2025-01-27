@@ -1,7 +1,7 @@
 ---
 title: Innovating Crisis Management Strategies in 2009 with MassMail Solutions
-date: 2025-01-19T19:58:59.852Z
-updated: 2025-01-20T18:56:52.925Z
+date: 2025-01-25T19:32:53.001Z
+updated: 2025-01-26T21:29:52.987Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
@@ -27,7 +27,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -40,13 +40,13 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -61,10 +61,6 @@ When customers respond to, say, a shortcode in a print ad, that initial communic
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -86,10 +82,6 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
@@ -97,10 +89,6 @@ If you use several types of media to promote your campaign, use a different keyw
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -110,13 +98,25 @@ When promoting your vanity short code, always provide the short code’s digits 
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -149,21 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-z2-play-exploration-unlocking-smartphone-genius/"><u>[Updated] In 2024, Z2 Play Exploration Unlocking Smartphone Genius</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/dropbox/"><u>Dropboxデータ救出 - 盗まれたり、削除されたファイルの回復方法</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/experience-streamlined-browsing-powered-by-cookiebot-solutions/"><u>Experience Streamlined Browsing Powered by Cookiebot Solutions</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/gratis-cloner-software-lengkap-untuk-windows-11-top-5-perangkat-yang-baik/"><u>Gratis Cloner Software Lengkap Untuk Windows 11 - Top 5 Perangkat Yang Baik</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/guide-configurer-le-mecanisme-de-nettoyage-trim-sur-un-ssd-avec-windows-11/"><u>Guide: Configurer Le Mécanisme De Nettoyage TRIM Sur Un SSD Avec Windows 11</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Vivo X Flip | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-camcorders-for-high-definition-podcasts/"><u>In 2024, Ideal Camcorders for High-Definition Podcasts</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-snap-worthy-success-logging-galaxy-gaming-stories/"><u>In 2024, Snap-Worthy Success Logging Galaxy Gaming Stories</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/les-meilleures-applications-de-clonage-ssd-crucial-enrichies-pour-les-systemes-windows-111087/"><u>Les Meilleures Applications De Clonage SSD Crucial Enrichies Pour Les Systèmes Windows (11/10/8/7)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/overcoming-paramount-plus-playback-errors-a-users-manual-for-samsung-smart-tv-boxes/"><u>Overcoming Paramount + Playback Errors: A User's Manual for Samsung Smart TV Boxes</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/speichere-deine-gmails-einfach-und-schnell-lokal-erfahre-zwei-effiziente-methoden/"><u>Speichere Deine Gmails Einfach Und Schnell Lokal, Erfahre Zwei Effiziente Methoden!</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/techniques-de-clonage-pour-les-systemes-de-stockage-guide-complet/"><u>Techniques De Clonage Pour Les Systèmes De Stockage : Guide Complet</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-reality-of-fbcta-what-it-means-for-you/"><u>The Reality of FBCTA: What It Means for You</u></a></li>
-<li><a href="https://discover-able.techidaily.com/ubertrage-erfolgreich-gestalten-wie-man-bilder-vom-ipad-auf-das-iphone-14-13-12-oder-11-ubersetzt/"><u>Überträge Erfolgreich Gestalten: Wie Man Bilder Vom iPad Auf Das iPhone 14, 13, 12 Oder 11 Übersetzt</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/windows-nology-unveiled-a-comprehensive-tutorial-for-incremental-and-differential-data-backup-in-windows-11/"><u>Windows Nology Unveiled: A Comprehensive Tutorial for Incremental and Differential Data Backup in Windows 11</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/windows-sysprepsidaomei-image-deploy/"><u>Windowsシステム管理: SysprepでSIDをクリアし、AOMEI Image Deployでのイメージ展開法</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/comment-supprimer-completement-un-disque-dur-pour-le-reutiliser-2-approches-efficaces/"><u>« Comment Supprimer Complètement Un Disque Dur Pour Le Réutiliser : 2 Approches Efficaces »</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-diversify-earnings-multiplying-revenue-with-mobile-video-content/"><u>[New] 2024 Approved Diversify Earnings Multiplying Revenue with Mobile Video Content</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-news-endings-as-a-narrative-tool/"><u>[New] In 2024, News Endings as a Narrative Tool</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-outdoor-tech-battle-gopro-vs-garmin/"><u>[New] In 2024, Outdoor Tech Battle GoPro Vs. Garmin</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-examining-updates-the-2023-samsung-bd-j5900/"><u>[Updated] Examining Updates The 2023 Samsung BD-J5900</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-unlock-your-creative-potential-with-inshot-for-pcs-and-laptops/"><u>[Updated] Unlock Your Creative Potential with Inshot for PCs & Laptops</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-7-ultimate-live-streaming-apps-for-iphone-and-android-users-on-youtube/"><u>2024 Approved 7 Ultimate Live Streaming Apps for iPhone and Android Users on YouTube</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/benefici-e-differenze-tra-varie-edizioni-di-aomei-onekey-recovery-la-tua-guida-completa-allottimizzazione-del-backup/"><u>Benefici E Differenze Tra Varie Edizioni Di AOMEI OneKey Recovery - La Tua Guida Completa All'ottimizzazione Del Backup</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/comment-resoudre-lissue-de-liphone-non-reconnu-par-lui-meme/"><u>Comment Résoudre L'Issue De L'iPhone Non Reconnu Par Lui-Même ?</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/die-top-9-schnellen-fixlosungen-fur-ihr-gerat-jetzt-verwenden-sie-sie/"><u>Die Top 9 Schnellen Fixlösungen Für Ihr Gerät - Jetzt Verwenden Sie Sie!</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/efficiently-copying-recent-data-exploring-xcopy-robocopy-and-alternative-methods/"><u>Efficiently Copying Recent Data: Exploring XCopy, Robocopy & Alternative Methods</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/respaldo-de-archivos-sin-costo-las-opciones-mas-eficaces-para-su-servidor-nas/"><u>Respaldo De Archivos Sin Costo: Las Opciones Más Eficaces Para Su Servidor NAS</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209862880-9781789264661-the-path-leads-here/"><u>The Path Leads Here | Free Book</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-timeless-appeal-of-the-huawei-p30-pro-a-personal-evaluation/"><u>The Timeless Appeal of the Huawei P30 Pro - A Personal Evaluation</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/ultimate-step-by-step-tutorial-on-recovering-data-with-cloud-backups-simplified-approach/"><u>Ultimate Step-by-Step Tutorial on Recovering Data with Cloud Backups – Simplified Approach</u></a></li>
 </ul></div>
 

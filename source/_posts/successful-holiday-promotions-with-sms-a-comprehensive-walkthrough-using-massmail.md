@@ -1,7 +1,7 @@
 ---
 title: "Successful Holiday Promotions with SMS: A Comprehensive Walkthrough Using MassMail"
-date: 2025-01-16T20:15:11.980Z
-updated: 2025-01-21T05:30:54.827Z
+date: 2025-01-20T21:38:39.098Z
+updated: 2025-01-26T21:25:42.701Z
 tags:
   - product
 categories:
@@ -19,16 +19,12 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -53,7 +49,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -79,7 +75,7 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 Here are some extra important SMS Marketing tips and tricks to help you!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Ask your audience
@@ -94,13 +90,13 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -114,9 +110,17 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,16 +149,17 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-simple-tips-for-capturing-google-voice-conversations/"><u>[New] 2024 Approved Simple Tips for Capturing Google Voice Conversations</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-top-iphone-video-editor-choose-between-cameo-and-filmorago-for-2024/"><u>[New] Top iPhone Video Editor Choose Between Cameo & FilmoraGo for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-dynamic-focus-enhanced-handheld-shot-quality/"><u>2024 Approved Dynamic Focus Enhanced Handheld Shot Quality</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/clear-images-and-smart-solutions-understanding-scanner-output-quality-with-yl-software-guidance/"><u>Clear Images & Smart Solutions: Understanding Scanner Output Quality with YL Software Guidance</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-nokia-c02-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Nokia C02</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/elevate-your-uav-experience-with-these-crucial-parts/"><u>Elevate Your UAV Experience with These Crucial Parts</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-vivo-y100-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Vivo Y100 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/how-to-tell-if-your-video-card-is-faulty-key-symptoms-and-diagnosis-guide-by-yl-software-experts/"><u>How to Tell if Your Video Card Is Faulty: Key Symptoms and Diagnosis Guide by YL Software Experts</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/how-windows-manages-file-systems-for-efficient-data-restoration-insights-from-yl-computing-experts/"><u>How Windows Manages File Systems for Efficient Data Restoration: Insights From YL Computing Experts</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Vivo X Fold 2 | Dr.fone</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/is-it-possible-to-run-windows-defender-on-macos-systems-insights-from-yl-software-experts/"><u>Is It Possible to Run Windows Defender on macOS Systems? Insights From YL Software Experts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-saves-free-and-without-end/"><u>[New] Instagram Saves Free and Without End</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-highest-rated-smartphone-camera-and-recording-apps-iphone-vs-android-for-2024/"><u>[Updated] Highest Rated Smartphone Camera & Recording Apps IPhone vs Android for 2024</u></a></li>
+<li><a href="https://win-bits.techidaily.com/1728487686093-0x80070002/"><u>解壓縮系统恢复错误0x80070002修正通知</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/1728505471375-windows-106/"><u>容量不足によるWindows 10アップグレード困難を解消する6つのスマートな方法</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-infinix-zero-5g-2023-turbo-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Infinix Zero 5G 2023 Turbo via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/creating-captivating-podcast-highlights/"><u>Creating Captivating Podcast Highlights</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/how-to-easily-collect-email-contacts-unveiling-the-most-effective-methods-and-tools-like-massmail-software/"><u>How to Easily Collect Email Contacts: Unveiling the Most Effective Methods and Tools Like MassMail Software</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/how-to-take-screenshots-on-xbox-one-for-2024/"><u>How to Take Screenshots on Xbox One for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-samsung-galaxy-m54-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Samsung Galaxy M54 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/leading-email-analytics-solutions-for-business-growth-masterful-mailtoolkit/"><u>Leading Email Analytics Solutions for Business Growth | Masterful MailToolkit</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computing-insights-expert-guides-on-new-hardware-technology/"><u>Tom's Computing Insights: Expert Guides on New Hardware Technology</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/1728501828559-windows-10/"><u>Windows 10資料夾备份与恢复手冊:快速学习指南</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Avoiding the Blunders in Early Millennia Email Strategies | Insights & Techniques From Massmail Software, 2009 Edition
-date: 2025-01-18T01:14:24.506Z
-updated: 2025-01-21T02:55:18.745Z
+date: 2025-01-21T22:40:50.372Z
+updated: 2025-01-27T06:28:15.623Z
 tags:
   - product
 categories:
@@ -18,9 +18,17 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -62,10 +70,6 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -75,23 +79,19 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Mind the wording
@@ -111,16 +111,12 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,21 +149,21 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-haunting-horrors-the-ultimate-list-of-engaging-zombie-games/"><u>[New] 2024 Approved Haunting Horrors The Ultimate List of Engaging Zombie Games</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-ghostly-3-encounter-spectre-4s-appearance/"><u>[New] Ghostly 3 Encounter Spectre 4'S Appearance</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-boosting-your-channels-income-the-optimal-view-count-quotient/"><u>[New] In 2024, Boosting Your Channel's Income The Optimal View Count Quotient</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-9-top-tier-youtube-fitness-tips-to-captivate-audiences-movement/"><u>[Updated] 2024 Approved 9 Top-Tier YouTube Fitness Tips to Captivate Audience's Movement</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/1728466836764-windows-11/"><u>「Windows 11の安全モード再起動手順３つ」</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-face-forward-comparing-apple-and-samsungs-face-detection-capabilities/"><u>2024 Approved Face Forward Comparing Apple and Samsung's Face-Detection Capabilities</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-the-art-of-patience-slowing-down-videos-on-youtube-51-chars/"><u>2024 Approved The Art of Patience Slowing Down Videos on YouTube (51 Chars)</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/backing-up-your-ps4-games-securely-storing-data-in-the-cloud/"><u>Backing Up Your PS4 Games: Securely Storing Data in the Cloud</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/camslice-critique/"><u>CamSlice Critique</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/dell-pc3/"><u>Dell PCでのデータ復元・回収手順トップ3</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/expertise-en-restauration-de-cliches-abimes-techniques-et-conseils-pour-2024/"><u>Expertise en Restauration De Clichés Abîmés : Techniques Et Conseils Pour 2024</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/how-to-replicate-your-current-partition-to-another-hardware-in-windows-11-explained-simply/"><u>How To Replicate Your Current Partition to Another Hardware in Windows 11 Explained Simply</u></a></li>
-<li><a href="https://network-issues.techidaily.com/immediate-clear-window-display/"><u>Immediate Clear Window Display</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/resolving-unable-to-open-windows-security-issues-on-windows-10-4-effective-solutions/"><u>Resolving 'Unable to Open Windows Security' Issues on Windows 10: 4 Effective Solutions</u></a></li>
-<li><a href="https://win-special.techidaily.com/top-rated-no-cost-seagate-network-attached-storage-nas-data-protection-apps-for-windows-11-8-and-07/"><u>Top Rated No-Cost Seagate Network Attached Storage (NAS) Data Protection Apps for Windows 11, 8 & 07</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/tutorial-transferring-data-from-a-qnap-network-attached-storage-to-an-exterior-hdd/"><u>Tutorial: Transferring Data From a QNAP Network Attached Storage to an Exterior HDD</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-comparative-assessment-youtube-vs-dailymention/"><u>[New] In 2024, Comparative Assessment YouTube Vs. DailyMention</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-the-skys-limit-broken-by-djis-pro-drone-review-for-2024/"><u>[New] The Sky's Limit Broken by DJI’s Pro Drone Review for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/roubleshooting-your-video-shorts-invisible-thumbnail-for-2024/"><u>[New] Troubleshooting Your Video Short's Invisible Thumbnail for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-craft-compelling-narratives-through-tiktok-voiceovers/"><u>[Updated] 2024 Approved Craft Compelling Narratives Through TikTok Voiceovers</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/addressing-youtube-shorts-no-image-upload-issue-in-2024/"><u>Addressing YouTube Shorts No Image Upload Issue, In 2024</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/discover-all-file-types-supported-by-flipoffice-converter-a-complete-guide/"><u>Discover All File Types Supported by FlipOffice Converter - A Complete Guide</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/discover-unique-content-with-our-easy-to-use-flipbooks-at-flipbuildercom/"><u>Discover Unique Content with Our Easy-to-Use Flipbooks at FlipBuilder.com!</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/emailing-a-flipbook-creation-tips-and-tricks-for-flipbuilder-users/"><u>Emailing a FlipBook Creation - Tips and Tricks for FlipBuilder Users</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/exploring-distinctive-attributes-of-various-flipbook-designs-at-flipbuildercom/"><u>Exploring Distinctive Attributes of Various FlipBook Designs at flipbuilder.com</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/how-can-i-quickly-send-complete-flipbooks-as-pdfs-using-flipbuilders-tools/"><u>How Can I Quickly Send Complete Flipbooks as PDFs Using FlipBuilder's Tools?</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/how-can-you-convert-rtf-documents-into-pdf-format-without-using-external-tools-discover-flipbuildercoms-method/"><u>How Can You Convert RTF Documents Into PDF Format Without Using External Tools? [Discover FlipBuilder.com's Method]</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/how-to-create-frame-bar-free-flipbooks-with-ease-on-flipbuilder-platform/"><u>How to Create Frame-Bar-Free Flipbooks with Ease on FlipBuilder Platform</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-vivo-y28-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Vivo Y28 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210298413-9781644682654-the-light-through-the-darkness/"><u>The Light Through The Darkness | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-finest-mobile-vpns-of-2024-expert-evaluations-and-ratings-pcmag/"><u>Ultimate Guide to the Finest Mobile VPNs of 2024 - Expert Evaluations & Ratings | PCMag</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-huawei-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Huawei .</u></a></li>
 </ul></div>
 
