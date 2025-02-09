@@ -1,7 +1,7 @@
 ---
 title: Essential Learning Points From Top Marketing Blunders Using MassMail Tools
-date: 2025-01-23T01:14:55.433Z
-updated: 2025-01-26T16:24:13.689Z
+date: 2025-02-01T20:11:00.605Z
+updated: 2025-02-08T23:15:18.258Z
 tags:
   - product
 categories:
@@ -36,6 +36,10 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -49,10 +53,6 @@ When customers respond to, say, a shortcode in a print ad, that initial communic
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -74,53 +74,49 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,21 +149,14 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-personal-exploration-of-3d-printing-in-3dr/"><u>[New] 2024 Approved Personal Exploration of 3D Printing in '3DR'</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-step-by-step-tech-livestream-setup-pcmaclaptop-for-fb/"><u>[New] In 2024, Step-by-Step Tech Livestream Setup (PC/Mac/Laptop) for FB</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/1716069634729-updated-2024-approved-onboard-recorder-use-in-huawei-mate-and-p-series-mate-10-mate-20-p20-p10/"><u>[Updated] 2024 Approved Onboard Recorder Use in Huawei Mate and P Series (Mate 10, Mate 20; P20, P10).</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/1-how-to-retrieve-lost-documents-from-selected-directory-quickly/"><u>1. How To Retrieve Lost Documents From Selected Directory Quickly</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/1728487554784-microsoft-word/"><u>全面解決方法：發現並修復失蹤的Microsoft Word文件</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/behebe-die-fehlermeldung-kein-lesezugriff-auf-usb-stick-erlaubt-schritt-fur-schritt-anleitung/"><u>Behebe Die Fehlermeldung: Kein Lesezugriff Auf USB-Stick Erlaubt – Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/boost-data-space-move-from-compact-drives-to-expansive-solutions/"><u>Boost Data Space: Move From Compact Drives to Expansive Solutions</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/convert-swf-files-to-groovy-mp4-for-free-using-movavis-web-based-tool/"><u>Convert SWF Files to Groovy MP4 for Free Using Movavi's Web-Based Tool</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-oppo-a56s-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Oppo A56s 5G to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-master-list-of-vimeo-video-capturers/"><u>In 2024, Master List of Vimeo Video Capturers</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-simplifying-your-workflow-online-photo-cropping-made-simple/"><u>In 2024, Simplifying Your Workflow Online Photo Cropping Made Simple</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/los-maximos-recomendados-de-programas-gratuitos-para-copiar-datos-en-windows-11-descubre-la-herramienta-ideal/"><u>Los Máximos Recomendados De Programas Gratuitos Para Copiar Datos en Windows 11: ¡Descubre La Herramienta Ideal!</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/macusb/"><u>Mac文件复制到USB无效的原因和解决方式</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/melodious-modulation-techniques-in-free-fire-for-2024/"><u>Melodious Modulation Techniques in Free Fire for 2024</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/resolve-the-boot-camp-cannot-partition-error-a-comprehensive-guide/"><u>Resolve the 'Boot Camp Cannot Partition' Error: A Comprehensive Guide</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/truescreenpro-windows-10s-choice/"><u>TrueScreenPro Windows 10'S Choice</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-optimal-screen-record-settings-for-facetime-conversations-for-2024/"><u>[New] Optimal Screen Record Settings for FaceTime Conversations for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-evaluating-virtual-realms-pros-and-cons/"><u>[Updated] Evaluating Virtual Realms Pros and Cons</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-top-10-flawless-web-based-vimeo-video-extractors-for-2024/"><u>[Updated] Top 10 Flawless Web-Based Vimeo Video Extractors for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/costains-abteilungsstrategie-fur-digitale-transformationen-die-rolle-von-abbyy-technologien-in-der-finanzverwaltung/"><u>Costain's Abteilungsstrategie Für Digitale Transformationen – Die Rolle Von ABBYY-Technologien in Der Finanzverwaltung</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/losungen-zur-uberwindung-des-device-not-migrated-fehlers-und-erfolgreiche-datentransferstrategien/"><u>Lösungen Zur Überwindung Des 'Device Not Migrated' Fehlers Und Erfolgreiche Datentransferstrategien</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/troubleshooting-steps-for-connecting-usb-drives-on-a-ps4-console/"><u>Troubleshooting Steps for Connecting USB Drives on a PS4 Console</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/troubleshooting-your-asus-computers-booting-problem-discover-effective-solutions-in-7-simple-steps/"><u>Troubleshooting Your ASUS Computer's Booting Problem: Discover Effective Solutions in 7 Simple Steps</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unlocking-speech-perfection-english-tongue-twister-workout/"><u>Unlocking Speech Perfection: English Tongue Twister Workout</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/usb-transfer-moving-apple-music-playlists-without-using-itunes/"><u>USB Transfer: Moving Apple Music Playlists Without Using iTunes</u></a></li>
 </ul></div>
 

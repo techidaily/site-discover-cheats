@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Tutorial: How To Restore Lost Data on Your External Hard Drive for Windows Users"
-date: 2025-01-20T21:43:09.617Z
-updated: 2025-01-27T05:32:25.036Z
+date: 2025-02-07T21:39:33.758Z
+updated: 2025-02-08T23:05:58.651Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/26300a30b40be91fd1403de278cb19bb64bc0cc7c24d1ddb32b678a579f7aa1d.jpg
@@ -29,7 +29,7 @@ Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 3
 Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Sommario** 
@@ -54,11 +54,7 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
@@ -99,6 +95,10 @@ Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
 Passo 1\. Apri Impostazioni:
@@ -118,7 +118,7 @@ Passo 4\. Segui le Istruzioni Visualizzate:
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
@@ -152,10 +152,6 @@ Clicca su "Aggiornamento di Windows" e seleziona "Verifica aggiornamenti."
 Passo 3\. Installa gli Aggiornamenti:
 
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Soluzione 5: Crea un Nuovo Account Utente
 
@@ -203,6 +199,10 @@ Passo 4\. Avvia il Backup:
 
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
 
 #1: Perché la mia barra di ricerca di Windows 10 non risponde alla digitazione?
@@ -217,10 +217,6 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Consigli per un'Operazione Fluida di Windows 10
 
 Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e correzioni.
@@ -228,10 +224,6 @@ Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e corre
 Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affrontare prontamente i problemi.
 
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusione
 
@@ -244,6 +236,10 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
 
@@ -265,6 +261,10 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -280,21 +280,22 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-navigating-the-9gag-meme-landscape-a-beginners-guide/"><u>[New] Navigating the 9GAG Meme Landscape A Beginner's Guide</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-transform-concepts-to-successful-youtube-titles/"><u>[New] Transform Concepts to Successful YouTube Titles</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-unlocking-youtube-revenue-essential-view-count-milestones/"><u>[New] Unlocking YouTube Revenue Essential View Count Milestones</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-vlog-verily-tips-and-taboos-in-the-daily-digital-sphere/"><u>[Updated] Vlog Verily Tips and Taboos in the Daily Digital Sphere</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/anticipating-siris-next-wave-of-intelligence-improvements-powered-by-apple-innovations-insights/"><u>Anticipating Siri's Next Wave of Intelligence Improvements Powered by Apple Innovations | Insights</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/dropbox/"><u>Dropboxデータ救出 - 盗まれたり、削除されたファイルの回復方法</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/error-404-the-missing-pages-on-our-website/"><u>Error 404: The Missing Pages on Our Website</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-oppo-reno-10-pro-5g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Oppo Reno 10 Pro 5G Face Lock?</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/gratis-cloner-software-lengkap-untuk-windows-11-top-5-perangkat-yang-baik/"><u>Gratis Cloner Software Lengkap Untuk Windows 11 - Top 5 Perangkat Yang Baik</u></a></li>
-<li><a href="https://win-webster.techidaily.com/guide-durgence-pour-resoudre-les-erreurs-de-service-de-cliche-instantane-des-volumes-dans-windows-11-7-et-8/"><u>Guide D'urgence Pour Résoudre Les Erreurs De Service De Cliché Instantané Des Volumes Dans Windows 11, 7 Et 8</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/guide-configurer-le-mecanisme-de-nettoyage-trim-sur-un-ssd-avec-windows-11/"><u>Guide: Configurer Le Mécanisme De Nettoyage TRIM Sur Un SSD Avec Windows 11</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-google-translate-strategies-for-excellent-audio-to-text/"><u>In 2024, Google Translate Strategies for Excellent Audio to Text</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/professionelle-tipps-fur-einfaches-samsung-t7-ssd-datenwiederherstellungsverfahren/"><u>Professionelle Tipps Für Einfaches Samsung T7 SSD Datenwiederherstellungsverfahren</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/speichere-deine-gmails-einfach-und-schnell-lokal-erfahre-zwei-effiziente-methoden/"><u>Speichere Deine Gmails Einfach Und Schnell Lokal, Erfahre Zwei Effiziente Methoden!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/voice-assistants-face-off-determining-the-ideal-choice-between-alexa-and-google/"><u>Voice Assistants Face-Off: Determining the Ideal Choice Between Alexa and Google</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/windows-sysprepsidaomei-image-deploy/"><u>Windowsシステム管理: SysprepでSIDをクリアし、AOMEI Image Deployでのイメージ展開法</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-a-beginners-guide-to-elevating-auditory-experiences-on-youtube/"><u>[New] 2024 Approved A Beginner's Guide to Elevating Auditory Experiences on YouTube</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-elevate-video-quality-prime-4k-conversion-solutions-for-2024/"><u>[Updated] Elevate Video Quality Prime 4K Conversion Solutions for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/1-mastering-wav-file-conversion-essential-techniques-for-your-computer/"><u>1. Mastering WAV File Conversion: Essential Techniques for Your Computer</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/1-resolving-the-issue-when-a-samsung-ssd-clone-fails-to-start-three-effective-methods/"><u>1. Resolving the Issue: When a Samsung SSD Clone Fails to Start - Three Effective Methods</u></a></li>
+<li><a href="https://win-studio.techidaily.com/aomei-image-deployment-common-issues-and-effective-solutions/"><u>AOMEI Image Deployment: Common Issues & Effective Solutions</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/effektive-strategien-fur-die-sicherung-von-partitionen-und-speicherkapazitaten-auf-ihrem-pc-oder-laptop/"><u>Effektive Strategien Für Die Sicherung Von Partitionen Und Speicherkapazitäten Auf Ihrem PC Oder Laptop</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/effizientes-wissen-fur-ssds-wie-der-diskpart-clean-all-befehl-auf-ihrer-festplatte-funktioniert-und-genutzt-wird/"><u>Effizientes Wissen Für SSDs: Wie Der 'Diskpart Clean All'-Befehl Auf Ihrer Festplatte Funktioniert Und Genutzt Wird</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-lava-yuva-3-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Lava Yuva 3 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/guarantee-no-data-loss-with-aomei-backupper-your-trusty-automatic-backup-solution-for-free/"><u>Guarantee No Data Loss with AOMEI Backupper - Your Trusty Automatic Backup Solution for Free!</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/guide-detaille-comment-annuler-une-suppression-de-fichiers-dans-windows-11-apprentissage-facile/"><u>Guide Détaillé : Comment Annuler Une Suppression De Fichiers Dans Windows 11 - Apprentissage Facile</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-14-ultra-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi 14 Ultra to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mastering-the-readers-experience-tips-and-techniques-for-enhanced-reading-engagement/"><u>Mastering the Reader's Experience: Tips and Techniques for Enhanced Reading Engagement</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-free-filmora-13-download-video-editing-software-for-2024/"><u>New Free Filmora 13 Download Video Editing Software for 2024</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/step-by-step-guide-retrieve-your-accidentally-removed-pictures-on-instagram/"><u>Step-by-Step Guide: Retrieve Your Accidentally Removed Pictures on Instagram</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/steps-to-recover-unintentionally-deleted-items-off-your-external-hdd-without-using-the-recycle-bin-feature/"><u>Steps to Recover Unintentionally Deleted Items Off Your External HDD without Using the Recycle Bin Feature</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/stufenweiser-prozess-zur-archivierung-der-zugangsdaten-von-windows-10/"><u>Stufenweiser Prozess Zur Archivierung Der Zugangsdaten Von Windows 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-the-significance-of-microsofts-monthly-security-updates-a-guide-to-patch-tuesdays/"><u>Understanding the Significance of Microsoft's Monthly Security Updates: A Guide to Patch Tuesdays</u></a></li>
 </ul></div>
 
