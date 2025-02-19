@@ -1,7 +1,7 @@
 ---
 title: "Rethinking Personalization: The Downside of Generic 'Hello, Customer' Approach in Email Marketing by Massmail"
-date: 2025-02-01T20:43:01.024Z
-updated: 2025-02-08T19:33:46.739Z
+date: 2025-02-14T03:14:38.950Z
+updated: 2025-02-18T17:50:05.730Z
 tags:
   - product
 categories:
@@ -18,13 +18,13 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -35,6 +35,10 @@ _For example:_
 A growing number of marketing campaigns use mobile-enhanced billboard, print and broadcast media to promote an opt-in for text alert programs, wallpapers, games and ringtones to maintain awareness of a product, such as a new car model or album. These programs support engagements long after exposure to the initial traditional marketing.
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s engaging
 
@@ -55,7 +59,7 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -74,29 +78,21 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -114,13 +110,13 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,18 +149,21 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-top-notch-grid-crafting-made-simple-our-expertly-selected-10-tools/"><u>[New] In 2024, Top-Notch Grid Crafting Made Simple Our Expertly Selected 10 Tools</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/high-resolution-abstract-designs-premium-hd-wallpaper-collections-by-yl-computing/"><u>High-Resolution Abstract Designs: Premium HD Wallpaper Collections by YL Computing</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-fix-a-broken-qr-code-scanner-on-your-iphone-with-these-10-tips/"><u>How to Fix a Broken QR Code Scanner on Your iPhone with These 10 Tips</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/how-to-speed-up-your-computer-tips-and-tricks-from-yl-computing/"><u>How to Speed Up Your Computer: Tips & Tricks From YL Computing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/huawei-matestation-x-touchscreen-laptop-vs-apple-imac-comprehensive-showdown-and-review-zdnet-analysis/"><u>Huawei MateStation X Touchscreen Laptop Vs. Apple iMac: Comprehensive Showdown and Review – ZDNet Analysis</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Poco M6 5G? | Dr.fone</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/1732514412791-solving-your-silent-speakers-a-guide-by-yl-computing-and-yl-software/"><u>Solving Your Silent Speakers: A Guide by YL Computing & YL Software</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/the-effect-of-the-great-leap-forward-movement-on-chinese-social-dynamics-a-comprehensive-analysis-with-yl-software/"><u>The Effect of the Great Leap Forward Movement on Chinese Social Dynamics: A Comprehensive Analysis with YL Software</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/thorough-analysis-testing-the-waters-with-western-digital-data-lifeguard-tool/"><u>Thorough Analysis: Testing the Waters with Western Digital Data Lifeguard Tool</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-5-most-efficient-dvd-to-iso-conversion-techniques/"><u>Top 5 Most Efficient DVD-to-ISO Conversion Techniques</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/unveiling-the-secrets-of-crypto-initiative-evaluation-with-guidance-from-yl-software-expertise/"><u>Unveiling the Secrets of Crypto Initiative Evaluation with Guidance From YL Software Expertise</u></a></li>
-<li><a href="https://driver-install.techidaily.com/win-driver-revamp-when-and-methods/"><u>Win Driver Revamp: When & Methods</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/yl-computings-tutorial-how-to-revive-your-pc-with-windows-system-imaging-techniques/"><u>YL Computing's Tutorial: How to Revive Your PC with Windows System Imaging Techniques</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-how-to-create-impactful-valorant-thumbnails-a-compreayers-guide/"><u>[New] How to Create Impactful Valorant Thumbnails A Compreayer's Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-unlocking-the-secrets-of-premium-insta-tunes-a-complete-guide/"><u>[New] In 2024, Unlocking the Secrets of Premium Insta Tunes A Complete Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-whatsapp-key-tricks-and-invisible-functions/"><u>[New] Mastering WhatsApp Key Tricks & Invisible Functions</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-ultimate-path-to-perfected-morphvox-control-for-2024/"><u>[New] The Ultimate Path to Perfected MorphVOX Control for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-easy-steps-for-logging-vimeo-media/"><u>[Updated] Easy Steps for Logging Vimeo Media</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-evaluating-the-cost-of-producing-a-music-video/"><u>[Updated] Evaluating the Cost of Producing a Music Video</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/dive-into-the-world-of-shinano-azur-lane-with-eye-catching-wallpapers-and-backgrounds-yl-software/"><u>Dive Into the World of Shinano Azur Lane with Eye-Catching Wallpapers & Backgrounds - YL Software</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/is-windows-defender-effective-at-eliminating-viruses-and-other-threats/"><u>Is Windows Defender Effective at Eliminating Viruses and Other Threats?</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/mastering-file-permission-settings-on-windows-a-step-by-step-guide-by-yl-computing/"><u>Mastering File Permission Settings on Windows: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/maximize-your-in-house-digital-tv-reception-with-effective-indoor-antennas/"><u>Maximize Your In-House Digital TV Reception with Effective Indoor Antennas</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/protecting-your-crypto-wealth-expert-tips-from-yl-computing-on-safe-bitcoin-and-altcoin-storage-solutions/"><u>Protecting Your Crypto Wealth: Expert Tips From YL Computing on Safe Bitcoin and Altcoin Storage Solutions</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-quickest-way-to-cut-videos-on-mac-top-methods/"><u>The Quickest Way to Cut Videos on Mac Top Methods</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211168581-9781637842485-the-smarts-god-gave-me/"><u>The Smarts God Gave Me | Free Book</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/what-are-potential-causes-if-my-print-device-is-failing-to-function-properly-insights-by-yl-software-experts/"><u>What Are Potential Causes If My Print Device Is Failing to Function Properly? Insights by YL Software Experts</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/why-wont-my-scanner-start-up-expert-tips-from-yl-computing/"><u>Why Won't My Scanner Start Up? Expert Tips From YL Computing</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/yl-software-tips-easily-adjust-date-and-time-settings-on-any-pc-or-laptop/"><u>YL Software Tips: Easily Adjust Date & Time Settings on Any PC or Laptop</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Effective Craiglist Marketing Strategies of 2009: Balancing Promotion and Avoiding Spam with MassMail"
-date: 2025-01-25T02:16:11.538Z
-updated: 2025-01-26T16:45:11.333Z
+date: 2025-02-16T00:55:09.684Z
+updated: 2025-02-18T16:27:56.242Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
@@ -27,7 +27,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -44,10 +44,6 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -57,7 +53,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -65,10 +61,6 @@ When customers respond to, say, a shortcode in a print ad, that initial communic
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -86,6 +78,10 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
@@ -98,13 +94,13 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -130,6 +126,10 @@ Written by:
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Emily Bronte
 
  Back to blog
@@ -149,17 +149,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-unlocking-visual-storytelling-the-20-key-strategies-for-powerful-fb-video-marketing/"><u>[New] In 2024, Unlocking Visual Storytelling The 20 Key Strategies for Powerful FB Video Marketing</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-beak-beat-boatwrights/"><u>[Updated] 2024 Approved Beak Beat Boatwrights</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-ultimate-guide-to-comparing-leading-4k-youtube-to-mp3-extractors/"><u>[Updated] Ultimate Guide to Comparing Leading 4K YouTube to MP3 Extractors</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/2021-apple-tv-4k-assessment-experience-crystal-clear-hd-with-intuitive-siri-voice-command/"><u>2021 Apple TV 4K Assessment: Experience Crystal Clear HD with Intuitive Siri Voice Command</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-spotlight-techniques-for-engaging-fb-giveaway-posts/"><u>2024 Approved Spotlight Techniques for Engaging FB Giveaway Posts</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/finding-the-right-tool-how-to-detect-and-resolve-pc-graphics-problems-with-xyz-suite-a-comprehensive-guide/"><u>Finding the Right Tool: How to Detect and Resolve PC Graphics Problems with XYZ Suite - A Comprehensive Guide</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/guide-adjusting-your-pcs-network-settings-through-windows-control-panel-by-the-team-at-yl-solutions/"><u>Guide: Adjusting Your PC's Network Settings Through Windows Control Panel by the Team at YL Solutions</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-strategies-that-accelerate-youtube-followers-acquisition/"><u>In 2024, Strategies That Accelerate YouTube Followers Acquisition</u></a></li>
-<li><a href="https://win-bits.techidaily.com/learn-from-home-access-top-quality-painting-tutorials-on-paintbasket-for-free/"><u>Learn From Home: Access Top-Quality Painting Tutorials on PaintBasket for FREE!</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/step-by-step-techniques-for-diagnosing-and-fixing-pc-components-insights-by-yl-software-experts/"><u>Step-by-Step Techniques for Diagnosing and Fixing PC Components - Insights by YL Software Experts</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/troubleshooting-your-printer-issues-a-step-by-step-guide-from-yl-computing/"><u>Troubleshooting Your Printer Issues: A Step-by-Step Guide From YL Computing</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/yl-computing-unveils-steps-for-optimizing-and-cleaning-the-windows-registry-efficiently/"><u>YL Computing Unveils Steps for Optimizing and Cleaning the Windows Registry Efficiently</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-why-av1-matters-enabling-it-for-youtube-videos/"><u>[Updated] 2024 Approved Why AV1 Matters Enabling It for YouTube Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-unlock-full-participant-grid-display-in-meet/"><u>[Updated] In 2024, Unlock Full Participant Grid Display in Meet</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premium-pick-of-budget-friendly-vectors-and-graphic-sites/"><u>[Updated] Premium Pick of Budget-Friendly Vectors & Graphic Sites</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/fast-video-and-audio-conversion-using-winxvideos-ai-accelerate-processes-with-powerful-gpu-technology/"><u>Fast Video & Audio Conversion Using Winxvideo's AI: Accelerate Processes with Powerful GPU Technology</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-the-issue-of-screen-twitch-top-7-solutions/"><u>Fixing the Issue of Screen Twitch: Top 7 Solutions</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/how-to-create-frame-bar-free-flipbooks-with-ease-on-flipbuilder-platform/"><u>How to Create Frame-Bar-Free Flipbooks with Ease on FlipBuilder Platform</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/how-to-disable-paging-sounds-and-animations-in-flipbuilder-flipbuildercom/"><u>How to Disable Paging Sounds & Animations in FlipBuilder (flipbuilder.com)</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/how-to-embed-your-logo-in-an-interactive-pdf-using-flipbook/"><u>How to Embed Your Logo in an Interactive PDF Using FlipBook</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/how-to-insert-a-clickable-video-player-for-flv-movies-within-your-flipbook-pages-a-step-by-step-guide/"><u>How to Insert a Clickable Video Player for FLV Movies Within Your FlipBook Pages - A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/interactively-sharing-archived-help-documents-a-guide-using-flipbuilder/"><u>Interactively Sharing Archived Help Documents: A Guide Using FlipBuilder</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/is-it-possible-to-distribute-flipbooks-via-zip-files-discover-the-answer-with-flipbuilder-expertise/"><u>Is It Possible to Distribute Flipbooks via Zip Files? Discover the Answer with FlipBuilder Expertise</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-mystery-resolving-msvcr80dll-file-absent-issues/"><u>Solving the Mystery: Resolving 'Msvcr80.dll' File Absent Issues</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-usb-c-chargers-and-adapters-for-laptops/"><u>Top Rated USB-C Chargers & Adapters for Laptops</u></a></li>
 </ul></div>
 

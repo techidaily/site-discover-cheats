@@ -1,7 +1,7 @@
 ---
 title: "Connect with Vatican Leadership Using MassMail: Accessing Pope Benedict XVI's Digital Correspondence Platform"
-date: 2025-01-19T21:30:01.886Z
-updated: 2025-01-26T20:37:09.142Z
+date: 2025-02-14T19:22:57.568Z
+updated: 2025-02-19T02:08:39.586Z
 tags:
   - product
 categories:
@@ -18,16 +18,12 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -40,9 +36,17 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -51,6 +55,10 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -74,10 +82,6 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
@@ -90,10 +94,6 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
@@ -102,21 +102,17 @@ When promoting your vanity short code, always provide the short code’s digits 
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,20 +149,19 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-ultimate-list-of-the-most-effective-no-cost-tiktok-to-mp3-apps-6/"><u>[New] 2024 Approved Ultimate List of the Most Effective, No-Cost TikTok To MP3 Apps (6)</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/iscovering-the-hidden-gems-in-asmr-creation/"><u>[New] Discovering the Hidden Gems in ASMR Creation</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-curb-automated-youtube-content-feeds/"><u>[New] In 2024, Curb Automated YouTube Content Feeds</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-perfect-youtube-introend-videos-at-no-cost-for-2024/"><u>[Updated] Crafting Perfect YouTube Intro/End Videos at No Cost for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-unbeatable-windows-chat-providers-3-1-ranked/"><u>[Updated] In 2024, Unbeatable Windows Chat Providers, #3-#1 Ranked</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/adjusting-audio-preferences-via-control-panel-a-step-by-step-guide-with-yl-computing/"><u>Adjusting Audio Preferences via Control Panel: A Step-by-Step Guide with YL Computing</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/effortless-app-deletion-tutorial-for-windows-users-by-yl-software-experts/"><u>Effortless App Deletion Tutorial for Windows Users by YL Software Experts</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/high-quality-apple-theme-wallpapers-and-imagery-collection-by-yl-computing/"><u>High-Quality Apple Theme Wallpapers and Imagery Collection by YL Computing</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/high-resolution-san-francisco-hd-desktop-walls-and-backgrounds-expertly-crafted-by-yl-software/"><u>High-Resolution San Francisco HD Desktop Walls & Backgrounds - Expertly Crafted by YL Software</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/identifying-and-diagnosing-memory-issues-in-windows-with-yl-computings-techniques/"><u>Identifying and Diagnosing Memory Issues in Windows with YL Computing's Techniques</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/identifying-overheating-in-your-gpu-a-guide-by-yl-computing/"><u>Identifying Overheating in Your GPU: A Guide by YL Computing</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/mastering-pip-macos-sierras-guide-to-multimedia-magic/"><u>Mastering PIP MacOS Sierra's Guide to Multimedia Magic</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/quicker-scan-times-optimizing-your-workflow-using-yls-computing-tools/"><u>Quicker Scan Times: Optimizing Your Workflow Using YL's Computing Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/refining-ai-communication-top-prompting-methods-for-better-outputs/"><u>Refining AI Communication: Top Prompting Methods for Better Outputs</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-6-advantages-why-choosing-comic-digitization-over-traditional-print/"><u>Top 6 Advantages: Why Choosing Comic Digitization Over Traditional Print</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-instagram-stories-a-step-by-step-polling-guide-for-2024/"><u>[New] Mastering Instagram Stories A Step-by-Step Polling Guide for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-from-grayscale-to-graded-grandeur-color-artistry/"><u>[Updated] In 2024, From Grayscale to Graded Grandeur Color Artistry</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-8-best-drawing-apps-for-iphones/"><u>2024 Approved 8 Best Drawing Apps for iPhones</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-seamlessly-downloading-hd-content-from-facebook/"><u>2024 Approved Seamlessly Downloading HD Content From Facebook</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/discover-all-file-types-supported-by-flipoffice-converter-a-complete-guide/"><u>Discover All File Types Supported by FlipOffice Converter - A Complete Guide</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/discover-unique-content-with-our-easy-to-use-flipbooks-at-flipbuildercom/"><u>Discover Unique Content with Our Easy-to-Use Flipbooks at FlipBuilder.com!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortlessly-update-microsoft-wireless-mouse-5000-installation-drivers-available-here/"><u>Effortlessly Update: Microsoft Wireless Mouse 5000 Installation Drivers Available Here</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/elevate-iphone-visuals-select-camera-extensions-for-quality-for-2024/"><u>Elevate iPhone Visuals Select Camera Extensions for Quality for 2024</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/emailing-a-flipbook-creation-tips-and-tricks-for-flipbuilder-users/"><u>Emailing a FlipBook Creation - Tips and Tricks for FlipBuilder Users</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/exploring-distinctive-attributes-of-various-flipbook-designs-at-flipbuildercom/"><u>Exploring Distinctive Attributes of Various FlipBook Designs at flipbuilder.com</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/how-can-i-quickly-send-complete-flipbooks-as-pdfs-using-flipbuilders-tools/"><u>How Can I Quickly Send Complete Flipbooks as PDFs Using FlipBuilder's Tools?</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/how-can-you-convert-rtf-documents-into-pdf-format-without-using-external-tools-discover-flipbuildercoms-method/"><u>How Can You Convert RTF Documents Into PDF Format Without Using External Tools? [Discover FlipBuilder.com's Method]</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/maximizing-performance-with-right-fpv-propeller-choices/"><u>Maximizing Performance with Right FPV Propeller Choices</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/streamlining-full-hd-watching-of-twit-videos/"><u>Streamlining Full HD Watching of Twit Videos</u></a></li>
 </ul></div>
 

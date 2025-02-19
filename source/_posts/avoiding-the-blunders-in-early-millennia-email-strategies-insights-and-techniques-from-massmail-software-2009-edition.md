@@ -1,7 +1,7 @@
 ---
 title: Avoiding the Blunders in Early Millennia Email Strategies | Insights & Techniques From Massmail Software, 2009 Edition
-date: 2025-01-21T22:40:50.372Z
-updated: 2025-01-27T06:28:15.623Z
+date: 2025-02-13T20:08:10.792Z
+updated: 2025-02-18T20:08:19.214Z
 tags:
   - product
 categories:
@@ -19,16 +19,12 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -58,6 +54,10 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why SMS’ Value Skyrockets
 
 SMS is one of the oldest wireless technologies still in use, and for a good reason: It is nearly ubiquitous in terms of device and network support, enjoys comprehensive consumer awareness across all demographics, and is relatively inexpensive for consumers, brands, and marketers.
@@ -78,21 +78,17 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -101,6 +97,10 @@ When promoting your vanity short code, always provide the short code’s digits 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -111,12 +111,16 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,21 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-comparative-assessment-youtube-vs-dailymention/"><u>[New] In 2024, Comparative Assessment YouTube Vs. DailyMention</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-the-skys-limit-broken-by-djis-pro-drone-review-for-2024/"><u>[New] The Sky's Limit Broken by DJI’s Pro Drone Review for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/roubleshooting-your-video-shorts-invisible-thumbnail-for-2024/"><u>[New] Troubleshooting Your Video Short's Invisible Thumbnail for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-craft-compelling-narratives-through-tiktok-voiceovers/"><u>[Updated] 2024 Approved Craft Compelling Narratives Through TikTok Voiceovers</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/addressing-youtube-shorts-no-image-upload-issue-in-2024/"><u>Addressing YouTube Shorts No Image Upload Issue, In 2024</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/discover-all-file-types-supported-by-flipoffice-converter-a-complete-guide/"><u>Discover All File Types Supported by FlipOffice Converter - A Complete Guide</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/discover-unique-content-with-our-easy-to-use-flipbooks-at-flipbuildercom/"><u>Discover Unique Content with Our Easy-to-Use Flipbooks at FlipBuilder.com!</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/emailing-a-flipbook-creation-tips-and-tricks-for-flipbuilder-users/"><u>Emailing a FlipBook Creation - Tips and Tricks for FlipBuilder Users</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/exploring-distinctive-attributes-of-various-flipbook-designs-at-flipbuildercom/"><u>Exploring Distinctive Attributes of Various FlipBook Designs at flipbuilder.com</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/how-can-i-quickly-send-complete-flipbooks-as-pdfs-using-flipbuilders-tools/"><u>How Can I Quickly Send Complete Flipbooks as PDFs Using FlipBuilder's Tools?</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/how-can-you-convert-rtf-documents-into-pdf-format-without-using-external-tools-discover-flipbuildercoms-method/"><u>How Can You Convert RTF Documents Into PDF Format Without Using External Tools? [Discover FlipBuilder.com's Method]</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/how-to-create-frame-bar-free-flipbooks-with-ease-on-flipbuilder-platform/"><u>How to Create Frame-Bar-Free Flipbooks with Ease on FlipBuilder Platform</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-vivo-y28-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Vivo Y28 5G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210298413-9781644682654-the-light-through-the-darkness/"><u>The Light Through The Darkness | Free Book</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-finest-mobile-vpns-of-2024-expert-evaluations-and-ratings-pcmag/"><u>Ultimate Guide to the Finest Mobile VPNs of 2024 - Expert Evaluations & Ratings | PCMag</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-huawei-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Huawei .</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-top-picks-explore-the-best-new-windows-10-apps-and-games-for-2024/"><u>[New] Top Picks Explore the Best New Windows 10 Apps and Games for 2024</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/1-windows-pcexcel/"><u>1. 簡明指南：從Windows PC透過Excel尋找損毀數據的重建位置</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/capture-the-sparkle-insta-worthy-photos-to-inspire-your-audience-for-2024/"><u>Capture the Sparkle Insta-Worthy Photos to Inspire Your Audience for 2024</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/come-eseguire-il-backup-di-un-sistema-operativo-windows-server-da-2012-a-2n2-metodi-efficaci-e-consigli/"><u>Come Eseguire Il Backup Di Un Sistema Operativo Windows Server Da 2012 a 2N2: Metodi Efficaci E Consigli</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/effective-strategies-to-remove-unwanted-hyper-v-snapshots-a-comprehensive-guide/"><u>Effective Strategies to Remove Unwanted Hyper-V Snapshots: A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effective-ways-to-address-and-resolve-realtek-rtl8723be-driver-related-errors-on-your-pc/"><u>Effective Ways to Address and Resolve Realtek RTL8^723BE ^Driver-Related Errors on Your PC</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/hassle-free-guide-resolving-dban-usb-startup-problems-for-effective-data-erasure/"><u>Hassle-Free Guide: Resolving DBAN USB Startup Problems for Effective Data Erasure</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/herstellen-van-verloren-gegeten-extern-harde-schijven-op-een-seagate-hard-drive-effektieve-oplossingen/"><u>Herstellen Van Verloren Gegeten Extern Harde Schijven Op Een Seagate Hard Drive - Effektieve Oplossingen</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-gionee-f3-pro-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Gionee F3 Pro</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-samsung-galaxy-s23-ultra-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Samsung Galaxy S23 Ultra FRP Without Computer</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-top-free-easy-to-use-srt-translation-services-explored/"><u>In 2024, Top Free, Easy-to-Use SRT Translation Services Explored</u></a></li>
+<li><a href="https://techtrends.techidaily.com/inside-sony-state-of-play-2024-breakthrough-news-gadgets-and-updates/"><u>Inside Sony State of Play 2024: Breakthrough News, Gadgets, and Updates</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/is-a-separate-windows-license-required-for-running-vms/"><u>Is a Separate Windows License Required for Running VMs?</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/recupera-gratis-i-tuoi-file-cancellati-il-miglior-metodo-per-ripristinare-lhard-disk/"><u>Recupera Gratis I Tuoi File Cancellati: Il Miglior Metodo per Ripristinare L'Hard Disk</u></a></li>
 </ul></div>
 
