@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Building Your Own Custom PC
-date: 2025-02-14T17:52:35.409Z
-updated: 2025-02-18T17:44:13.122Z
+date: 2025-03-01T16:29:18.174Z
+updated: 2025-03-07T17:29:53.083Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/2635526a9b4bc31b09f99f8ed1ec33a28f3bd1734d6693f161ca45fe2a6deac2.jpg
@@ -35,10 +35,6 @@ Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-a
 3. [Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers](https://tools.techidaily.com/ubackup/products/)
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
 
 NAS Buffalo est la solution idéale pour la protection des données et peut facilement éviter les défaillances informatiques causées par une attaque de virus, un plantage système, une corruption de disque, etc. Cependant, il peut également se bloquer et entraîner une perte de données dans ces situations. Vous ne souhaitez probablement pas perdre vos données, il est donc judicieux de sauvegarder votre NAS Buffalo sur un disque dur externe, une clé USB ou d'autres périphériques.
@@ -46,10 +42,6 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 À ce stade, vous avez besoin d'un logiciel de sauvegarde NAS Buffalo, de préférence le plus simple. Les Buffalo LinkStation et Buffalo TeraStation sont équipés d'un lecteur NAS pour vous aider à sauvegarder des photos, des vidéos, de la musique, etc. ou à les partager, mais la plupart des appareils ne prennent en charge que le système Linux et certains sont disponibles sur Windows Server 2016\. Que faire si vous utilisez Windows 7/8/10/11 ?
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
@@ -68,10 +60,6 @@ AOMEI Backupper Standard est un logiciel de sauvegarde tout-en-un pour Windows 1
 Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet à la majorité des utilisateurs de comprendre rapidement le logiciel et de l'utiliser facilement. Veuillez le télécharger et l'installer sur votre ordinateur.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
@@ -93,17 +81,9 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
@@ -141,10 +121,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
@@ -177,10 +153,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
@@ -198,22 +170,24 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-calls-of-tomorrow-iphones-audio-archive/"><u>[New] Calls of Tomorrow - iPhone's Audio Archive</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-spectral-savvy-applying-color-science/"><u>[Updated] 2024 Approved Spectral Savvy Applying Color Science</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-get-the-best-mp4-recorder-software-guide/"><u>[Updated] In 2024, Get the Best MP4 Recorder Software Guide</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-filter-frontier-your-ultimate-resource-for-creative-snaps/"><u>[Updated] In 2024, The Filter Frontier Your Ultimate Resource for Creative Snaps</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/1-convert-excel-file-to-pdf-a-step-by-step-guide-by-yl-software-solutions/"><u>1. Convert Excel File to PDF: A Step-by-Step Guide by YL Software Solutions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-harmonious-hush-managing-music-on-pc-mac/"><u>2024 Approved Harmonious Hush Managing Music on PC, Mac</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/desktop-vs-laptop-unveiling-key-distinctions-in-portability-and-performance/"><u>Desktop Vs. Laptop: Unveiling Key Distinctions in Portability & Performance</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/diy-troubleshooting-tips-for-repairing-damaged-computer-power-adapters-the-yl-solution/"><u>DIY Troubleshooting Tips for Repairing Damaged Computer Power Adapters - The YL Solution</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/expert-tips-for-resolving-control-panel-glitches-insights-from-yl-software-team/"><u>Expert Tips for Resolving Control Panel Glitches - Insights From YL Software Team</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/exploracion-completa-de-partes-vitales-en-espanol-de-la-boca-al-rinon/"><u>Exploración Completa De Partes Vitales: En Español, De La Boca Al Riñón</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/how-can-i-detect-graphic-card-damage-an-expert-guide-by-yl-computing/"><u>How Can I Detect Graphic Card Damage? An Expert Guide by YL Computing</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-c55-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Realme C55 by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/how-to-troubleshoot-when-your-graphics-card-wont-show-up-expert-advice-from-yl-computing/"><u>How To Troubleshoot When Your Graphics Card Won't Show Up: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/incoherent/"><u>Incoherent</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138616853-9781614483694-my-spirit-is-not-religious/"><u>My Spirit Is Not Religious | Free Book</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/navigating-the-features-a-users-perspective-on-the-msi-pro-mp161-e2-screen/"><u>Navigating the Features: A User's Perspective on the MSI PRO MP161 E2 Screen</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/troubleshooting-scanner-software-connectivity-problems-expert-advice-by-yl-software-experts/"><u>Troubleshooting Scanner-Software Connectivity Problems: Expert Advice by YL Software Experts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-captivate-crowds-mastering-hashtag-use-in-high-traffic-short-videos/"><u>[New] In 2024, Captivate Crowds Mastering Hashtag Use in High-Traffic Short Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-unleashing-funimate-on-android-step-by-step-apk-tutorial-for-2024/"><u>[New] Unleashing Funimate on Android - Step-by-Step APK Tutorial for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-easy-and-speed-share-youtube-playlists-now-for-2024/"><u>[Updated] Easy & Speed Share YouTube Playlists Now for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-removing-advertisements-from-youtube-videos-on-chromefirefox/"><u>[Updated] Removing Advertisements From YouTube Videos on Chrome/Firefox</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/discover-the-best-no-cost-mp3-file-sharing-platforms-for-your-audio-collection/"><u>Discover the Best No-Cost MP3 File Sharing Platforms for Your Audio Collection</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/effective-methods-for-shrinking-webm-video-files-a-complete-guide/"><u>Effective Methods for Shrinking WebM Video Files: A Complete Guide</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/expert-advice-on-preserving-your-webex-sessions-how-to-record-and-enhance-audio-visuals-for-clarity/"><u>Expert Advice on Preserving Your Webex Sessions: How to Record and Enhance Audio-Visuals for Clarity</u></a></li>
+<li><a href="https://blog-min.techidaily.com/gratuit-mpeg-naar-ogg-verconverteren-professioneel-online-tool-by-movavi/"><u>Gratuit Mpeg Naar Ogg Verconverteren - Professioneel Online-Tool by Movavi</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xr-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XR to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-10plus-best-free-webcam-software-for-windows-10/"><u>In 2024, 10+ Best Free Webcam Software for Windows 10</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-motorola-edge-40-pro-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Motorola Edge 40 Pro?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-modern-audio-drivers-from-microsoft-for-a-superior-listening-experience/"><u>Install Modern Audio Drivers From Microsoft for a Superior Listening Experience</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/mastering-record-keeping-with-apowersofts-virtual-screenshot-tips/"><u>Mastering Record-Keeping with Apowersoft's Virtual Screenshot Tips</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/reclaim-your-memories-with-ipad-data-rescue-how-to-flawlessly-reinstate-missing-files/"><u>Reclaim Your Memories with iPad Data Rescue: How to Flawlessly Reinstate Missing Files</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/seamless-strategies-for-converting-tudou-media-files-into-high-quality-mp3s/"><u>Seamless Strategies for Converting Tudou Media Files Into High-Quality MP3s</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-guide-getting-microsoft-store-back-online-after-failure-to-open/"><u>Solution Guide: Getting Microsoft Store Back Online After Failure to Open</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/step-by-step-guide-moving-video-content-from-your-macbook-to-your-iphone/"><u>Step-by-Step Guide: Moving Video Content From Your Macbook to Your iPhone</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/the-complete-tutorial-on-converting-dts-soundtracks-to-advanced-ac3-coding-for-enhanced-playback/"><u>The Complete Tutorial on Converting DTS Soundtracks to Advanced AC3 Coding for Enhanced Playback</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/ultimate-list-of-top-ranking-50-free-software-for-restoring-lost-files/"><u>Ultimate List of Top-Ranking 50% Free Software for Restoring Lost Files</u></a></li>
 </ul></div>
 
